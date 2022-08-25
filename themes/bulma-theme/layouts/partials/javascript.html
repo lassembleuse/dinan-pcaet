@@ -1,4 +1,0 @@
-{{ $plugins := resources.Get "js/plugins.js" }}
-{{ $base := resources.Get "js/base.js" }}
-{{ $js := slice $plugins $base | resources.Concat "js/bundle.js" }}
-<script src="{{ $js.RelPermalink }}"></script>
