@@ -12027,4 +12027,13 @@ label.panel-block {
   .pl-xl-5 {
     padding-left: 3rem; } }
 
+.is-desktop-width {
+  max-width: 1088px; }
+
+.is-tablet-width {
+  max-width: 769px; }
+
+.footnotes p {
+  font-size: 0.9rem; }
+
 /*# sourceMappingURL=main.css.map */

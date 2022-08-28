@@ -1,7 +1,35 @@
-baseURL: https://lassembleuse.github.io/hugo-starter/
+baseURL: https://lassembleuse.github.io/dinan-pcaet/
 languageCode: fr-fr
-title: Site de demonstration
+title: Dinan agglo, un plan climat à la hauteur
 theme: bulma-theme
 DefaultContentLanguage: fr
 metaDataFormat: "yaml"
+removePathAccents: true
 enableRobotsTXT: true
+
+goldmark:
+  extensions:
+    definitionList: true
+    footnote: true
+    linkify: true
+    strikethrough: true
+    table: true
+    taskList: true
+    typographer: true
+  parser:
+    attribute: true
+    autoHeadingID: true
+    autoHeadingIDType: github
+  renderer:
+    hardWraps: false
+    unsafe: false
+    xhtml: false
+
+menu:
+  main:
+  - identifier: Thématiques
+    name: Thématiques
+    weight: 3
+  - identifier: Qui sommes-nous
+    name: Qui sommes-nous
+    weight: 100
