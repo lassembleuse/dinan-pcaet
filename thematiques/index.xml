@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thematiques on Dinan agglo, un plan climat à la hauteur</title>
+    <link>https://lassembleuse.github.io/dinan-pcaet/thematiques/</link>
+    <description>Recent content in Thematiques on Dinan agglo, un plan climat à la hauteur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 15 Aug 2022 13:17:31 +0000</lastBuildDate><atom:link href="https://lassembleuse.github.io/dinan-pcaet/thematiques/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agriculture</title>
+      <link>https://lassembleuse.github.io/dinan-pcaet/thematiques/agriculture/</link>
+      <pubDate>Mon, 15 Aug 2022 13:17:31 +0000</pubDate>
+      
+      <guid>https://lassembleuse.github.io/dinan-pcaet/thematiques/agriculture/</guid>
+      <description>L&amp;rsquo;agriculture est responsable de la plus grosse partie des émissions de l&amp;rsquo;agglomération, et ce pour différent motifs :
+La principale activité agricole sur l&amp;rsquo;agglomération est l&amp;rsquo;élevage (soit l&amp;rsquo;activité agricole la + émettrice de gaz à effets de serre) Les activités agricoles du territoire sont principalement dédiées à l&amp;rsquo;exportation (on rajoute donc l&amp;rsquo;empreinte des transports, et on n&amp;rsquo;oeuvre pas à l&amp;rsquo;autonomie alimentaire du territoire) Réduire l&amp;rsquo;élevage Favoriser les circuits courts et les petites installations Produire sur le territoire, pour le territoire.</description>
+    </item>
+    
+    <item>
+      <title>Transport et mobilite</title>
+      <link>https://lassembleuse.github.io/dinan-pcaet/thematiques/transport-mobilite/</link>
+      <pubDate>Mon, 15 Aug 2022 13:17:31 +0000</pubDate>
+      
+      <guid>https://lassembleuse.github.io/dinan-pcaet/thematiques/transport-mobilite/</guid>
+      <description>A rédiger</description>
+    </item>
+    
+  </channel>
+</rss>
