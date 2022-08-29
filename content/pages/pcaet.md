@@ -18,6 +18,6 @@ C’est la déclinaison territoriale des engagements internationaux, nationaux e
 
 ## Pourquoi est-ce important ?
 
-Le PCAET définit la stratégie de l'agglomération sur les 6 prochaines années, qui seront cruciales pour changer notre trajectoire climatique (rester sous les 2° C de réchauffement et garantir l'habitabilité de la planète).
+Le PCAET définit la stratégie, et donc les moyens financiers et humains mis par l'agglomération pour s'adapter et atténuer les changements climatiques sur les 6 prochaines années. Ces 6 prochaines années sont cruciales pour changer notre trajectoire climatique (rester sous les 2° C de réchauffement et garantir l'habitabilité de la planète).
 
-Les actions engagés concernent notre territoire de vie et auront forcément des incidences sur notre quotidien. Ce plan impactera la façon dont on vivra dans l'agglomération pour les prochaines décennies.
+Les actions engagées concernent notre territoire de vie et auront forcément des incidences sur notre quotidien. Ce plan impactera donc la façon dont on vivra dans l'agglomération pour les prochaines décennies.
