@@ -39,6 +39,14 @@ La manière la plus efficace de réduire la pression sur notre environnement est
 
 Par exemple, si l'on considère les ordres de grandeur, manger moins de viande est l'un des leviers d'action les plus efficaces pour réduire son empreinte écologique.[^06] Pourtant, on ne trouve pas d'ambition ou de réflexion sur la réduction du nombre et de la taille des élevages ou sur la promotion d'une alimentation moins carnée.
 
+## Nous voulons un plan qui prennent en compte les publics en première ligne du changement climatique
+
+Le changement climatique ne touchera pas tout le monde de la même manière. Ce sont **les plus précaires qui seront en première ligne.**
+
+Aussi, il ne peut y avoir de plan juste sans une prise en compte de celles et ceux d'entre nous qui souffrent déjà des changements que nous subissons : logements-étuves l'été, passoires thermiques l'hiver, impossibilité de déménager à cause de la pression immobilière, difficultés à payer les factures d'énergie, budget trop contraint pour consommer des produits alimentaires de qualité, exposition à la pollution, dépendance à la voiture dû à l'éloignement des lieux de travail…
+
+La justice sociale doit faire partie de tout engagement écologique, afin de poursuivre la réduction des inégalités climatiques.
+
 ## Nous voulons un plan qui engage la réflexion sur la nécessaire redirection de certaines activités du territoire
 
 On l'a vu cet été, certaines activité deviennent difficiles à maintenir dans le contexte d'un climat qui change : certains cours d'eau devenus non navigables, la chaleur limitant les capacités à sortir, certaines activités reposant sur l'utilisation d'un gazon en bon état voyant ce gazon griller, tensions en eaux accentuées par l'afflux de touristes...
