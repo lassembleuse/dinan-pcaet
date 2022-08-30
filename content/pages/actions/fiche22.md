@@ -69,7 +69,10 @@ Objectifs quantitatifs sur la période 2020-2025 :
 2. Renforcement du stockage de carbone
 3. Maîtrise de la consommation d’énergie finale
 4. Production et consommation des ENR
+5. ~~Livraison d’ENR par les réseaux de chaleur~~
+6. ~~Productions biosourcées à usages autres qu’alimentaires~~
 7. Réduction des émissions de polluants atmosphériques
+8. ~~Évolution coordonnée des réseaux énergétiques~~
 9. Adaptation au changement climatique
 
 ## Effets attendus
