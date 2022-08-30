@@ -1,6 +1,7 @@
 ---
 budget: oui
-montant: TODO
+montant: 75000
+
 ---
 
 # #21 Créer une maison de l’habitat
