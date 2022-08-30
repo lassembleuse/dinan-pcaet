@@ -5,6 +5,8 @@ fulltitle: Qu'est-ce qu'un Plan Climat Air Energie Territorial ?
 menu:
   main:
     weight: 2
+  footer:
+    weight: 2
 ---
 
 ## Qu'est-ce que le PCAET ?

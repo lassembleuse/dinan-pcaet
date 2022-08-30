@@ -7,7 +7,7 @@ menu:
     weight: 2
     parent: "Thématiques"
   footer:
-    weight: 5
+    weight: 2
     parent: "Thématiques"
 ---
 

@@ -8,6 +8,7 @@ menu:
     parent: "Qui sommes-nous"
   footer:
     weight: 1
+    parent: "Qui sommes-nous"
 ---
 
 ## Structures et personnes

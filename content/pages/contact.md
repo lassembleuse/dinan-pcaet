@@ -6,7 +6,8 @@ menu:
     weight: 2
     parent: "Qui sommes-nous"
   footer:
-    weight: 100
+    weight: 2
+    parent: "Qui sommes-nous"
 ---
 
 Ici les infos de contact

@@ -33,3 +33,10 @@ menu:
   - identifier: Qui sommes-nous
     name: Qui sommes-nous
     weight: 100
+  footer:
+  - identifier: Thématiques
+    name: Thématiques
+    weight: 3
+  - identifier: Qui sommes-nous
+    name: Qui sommes-nous
+    weight: 100

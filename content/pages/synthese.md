@@ -61,6 +61,6 @@ Les changements qui seront impliqués par la mise en oeuvre d'un PCAET à la hau
 [^01]: La réunion de lancement date d'octobre 2018.
 [^02]: Mission Régionale d'Autorité environnementale, Préfet de Région et Président du Conseil Régional.
 [^03]: si l'on se fie à l'intitulé des documents PDF mis à disposition du public au 27/08/22, les fiches actions présentées au public sont celles de février 2022, soit avant que les autorités aient rendus leur avis. Le projet de PCAET est pourtant supposé légalement intégrer des modifications tenant compte de ces avis.
-[^04] Etablissement Public de Coopération Intercommunale, = Dinan agglomération
-[^05] Les [fiches actions du PCAET de Montpellier](https://www.montpellier3m.fr/sites/default/files/programme_dactions_pcaet.pdf) nous semblent par exemple autrement + détaillées
-[^06] Sources : simulateur ["Nos gestes climat"](https://nosgestesclimat.fr/actions/plus/alimentation/devenir-v%C3%A9g%C3%A9tarien) (excellent outil pour évoluer son empreinte carbone et mieux comprendre les ordres de grandeur !), [guide "Manger mieux, gaspiller moins"](https://librairie.ademe.fr/consommer-autrement/1947-manger-mieux-gaspiller-moins-9791029708480.html) de l'ADEME.
+[^04]: Etablissement Public de Coopération Intercommunale, = Dinan agglomération
+[^05]: Les [fiches actions du PCAET de Montpellier](https://www.montpellier3m.fr/sites/default/files/programme_dactions_pcaet.pdf) nous semblent par exemple autrement + détaillées
+[^06]: Sources : simulateur ["Nos gestes climat"](https://nosgestesclimat.fr/actions/plus/alimentation/devenir-v%C3%A9g%C3%A9tarien) (excellent outil pour évoluer son empreinte carbone et mieux comprendre les ordres de grandeur !), [guide "Manger mieux, gaspiller moins"](https://librairie.ademe.fr/consommer-autrement/1947-manger-mieux-gaspiller-moins-9791029708480.html) de l'ADEME.

@@ -7,7 +7,8 @@ menu:
     weight: 1
     parent: "Thématiques"
   footer:
-    weight: 4
+    weight: 1
+    parent: "Thématiques"
 ---
 
 L'agriculture est responsable de **la plus grosse partie des émissions de l'agglomération** (52%), et ce pour différent motifs :
@@ -16,9 +17,9 @@ L'agriculture est responsable de **la plus grosse partie des émissions de l'agg
 
 ## Eviter la maladaptation, ne pas parier principalement sur l'efficacité des engins
 
-La stratégie pour diminuer les émissions du secteur se fonde en partie les gains d'efficacité techniques : "aide aux investissements en matériels agro-environnementaux" et "amélioration de la performance énergétique des engins agricoles".
+La stratégie pour diminuer les émissions du secteur se fonde en partie les gains d'efficacité techniques : "aide aux investissements en matériels agro-environnementaux" et "amélioration de la performance énergétique des engins agricoles"[^01].
 
-En mettant l'accent sur des solutions techniques, il y a des risques de maladaptation[^01]. Les matériaux de construction des machines seront de plus en plus rares et chers, les prix de l'énergie devraient continuer à augmenter, et il y a un rique d'effet rebond : comme les machines sont + efficaces, on les utilise +, et on s'enferme dans des choix techniques coûteux.
+En mettant l'accent sur des solutions techniques, il y a des risques de maladaptation[^02]. Les matériaux de construction des machines seront de plus en plus rares et chers, les prix de l'énergie devraient continuer à augmenter, et il y a un rique d'effet rebond : comme les machines sont + efficaces, on les utilise +, et on s'enferme dans des choix techniques coûteux.
 
 ## Aller vers des changements structurels profonds
 
