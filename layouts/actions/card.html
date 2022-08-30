@@ -1,0 +1,15 @@
+<a class="" href="{{ .RelPermalink }}">
+
+  <div class="card card-action">
+    <div class="card-content">
+      <header class="flex">
+        <h2 class="is-size-6 card-title">{{ .Title }}</h2>
+        {{ $montant := int .Params.montant }}
+        <span class="montant">{{ $montant | lang.FormatNumber 0  }} €</span>
+      </header>
+      {{ range $index, $element := .Params.tags }}
+        <span class="tag">{{ . }}</span>
+      {{ end }}
+    </div>
+  </div>
+</a>

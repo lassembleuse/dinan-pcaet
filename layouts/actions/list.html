@@ -5,17 +5,15 @@
     <h1 class="title is-size-1">{{ .Params.fulltitle }}</h1>
     <p>{{ .Params.description }}</p>
 
-{{ $actions := where .Site.RegularPages "Type" "actions" }}
-<div class="">
-<ol class="">
-  {{ range $index, $element := ($actions.ByParam "Number") }}
-  <li class="">
-    <a class="" href="{{ .RelPermalink }}">
-    {{ .Title }}
-    </a>
-  </li>
-  {{ end }}
-</ol>
+    {{ $actions := where .Site.RegularPages "Type" "actions" }}
+
+    <div class="columns is-multiline">
+      {{ range $index, $element := ($actions.ByParam "Number") }}
+      <div class="column is-full">
+        {{ .Render "card"}}
+      </div>
+      {{ end }}
+    </div>
 
   </div>
 </section>

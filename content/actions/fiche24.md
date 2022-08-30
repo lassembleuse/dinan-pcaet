@@ -1,6 +1,6 @@
 ---
 budget: oui
-montant: 12 534 200 €
+montant: 12534200
 ---
 
 # #24 Mettre en œuvre le Plan de Déplacement Communautaire

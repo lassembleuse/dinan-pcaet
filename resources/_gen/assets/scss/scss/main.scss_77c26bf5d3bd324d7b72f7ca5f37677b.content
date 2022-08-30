@@ -12027,6 +12027,14 @@ label.panel-block {
   .pl-xl-5 {
     padding-left: 3rem; } }
 
+.card.card-action header {
+  display: flex;
+  justify-content: space-between; }
+
+.card.card-action .montant {
+  flex-basis: 20%;
+  text-align: right; }
+
 .is-desktop-width {
   max-width: 1088px; }
 

@@ -3,6 +3,10 @@ budget: oui
 montant: 1380000
 title: Favoriser la transition agroécologique des exploitations agricoles
 number: 1
+tags:
+  - objectifs insuffisants
+  - calendrier flou
+  - budget insuffisant
 ---
 
 ## Orientation(s) stratégiques
