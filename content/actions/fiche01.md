@@ -1,9 +1,9 @@
 ---
 budget: oui
 montant: 1380000
+title: Favoriser la transition agroécologique des exploitations agricoles
+number: 1
 ---
-
-# #1 Favoriser la transition agroécologique des exploitations agricoles
 
 ## Orientation(s) stratégiques
 

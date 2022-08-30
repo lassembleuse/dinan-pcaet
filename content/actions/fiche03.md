@@ -1,9 +1,10 @@
 ---
 budget: oui
 montant: 2167000
+title: Expérimentation et déploiement du Paiement pour Services Environnementaux (PSE)
+number: 3
 ---
 
-# #3 Expérimentation et déploiement du Paiement pour Services Environnementaux (PSE)
 
 ## Orientation(s) stratégiques
 

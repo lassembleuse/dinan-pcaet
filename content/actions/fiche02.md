@@ -1,9 +1,9 @@
 ---
 budget: oui
 montant: 700000
+title: Gérer durablement le maillage bocager
+number: 2
 ---
-
-# #2 Gérer durablement le maillage bocager
 
 ## Orientation(s) stratégiques
 

@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<section class="section page-section">
+  <div class="container is-tablet-width content">
+    <h1 class="title is-size-1">{{ .Params.fulltitle }}</h1>
+    <p>{{ .Params.description }}</p>
+
+{{ $actions := where .Site.RegularPages "Type" "actions" }}
+<div class="">
+<ol class="">
+  {{ range $index, $element := ($actions.ByParam "Number") }}
+  <li class="">
+    <a class="" href="{{ .RelPermalink }}">
+    {{ .Title }}
+    </a>
+  </li>
+  {{ end }}
+</ol>
+
+  </div>
+</section>
+{{ end }}
