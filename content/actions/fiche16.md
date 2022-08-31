@@ -1,9 +1,9 @@
 ---
 budget: oui
 montant: 200000
+title: Accompagner les entreprises dans leurs démarches de transition énergétique
+number: 16
 ---
-
-# #16 Accompagner les entreprises dans leurs démarches de transition énergétique
 
 ## Orientation(s) stratégiques
 

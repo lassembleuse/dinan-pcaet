@@ -1,9 +1,9 @@
 ---
 budget: oui
 montant: 15600
+title: Promouvoir les projets citoyens d’EnR
+number: 11
 ---
-
-# #11 Promouvoir les projets citoyens d’EnR
 
 ## Orientation(s) stratégiques
 

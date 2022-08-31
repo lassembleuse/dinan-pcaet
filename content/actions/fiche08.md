@@ -1,9 +1,9 @@
 ---
 budget: oui
 montant: 200000
+title: Réaliser un schéma directeur des énergies
+number: 8
 ---
-
-# #8 Réaliser un schéma directeur des énergies
 
 ## Orientation(s) stratégiques
 

@@ -1,9 +1,9 @@
 ---
 budget: oui
 montant: 12534200
+title: Mettre en œuvre le Plan de Déplacement Communautaire
+number: 24
 ---
-
-# #24 Mettre en œuvre le Plan de Déplacement Communautaire
 
 ## Orientation(s) stratégiques
 

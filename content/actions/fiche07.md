@@ -1,9 +1,9 @@
 ---
 budget: oui
 montant: 10029130
+title: Expérimenter des nouvelles techniques d’épurations pour le traitement des eaux usées
+number: 7
 ---
-
-# #7 Expérimenter des nouvelles techniques d’épurations pour le traitement des eaux usées
 
 ## Orientation(s) stratégiques
 

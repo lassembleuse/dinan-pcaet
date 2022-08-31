@@ -1,9 +1,9 @@
 ---
 budget: non
 montant:
+title: Elaborer et mettre en œuvre une stratégie de développement du tourisme durable
+number: 29
 ---
-
-# #29 Elaborer et mettre en œuvre une stratégie de développement du tourisme durable
 
 ## Orientation(s) stratégiques
 

@@ -1,9 +1,9 @@
 ---
 budget: non
 montant:
+title: 'Réduire les déplacements des agents : mise en place du télétravail et d’un plan de formations en intra'
+number: 35
 ---
-
-# #35 Réduire les déplacements des agents : mise en place du télétravail et d’un plan de formations en intra
 
 ## Orientation(s) stratégiques
 

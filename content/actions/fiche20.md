@@ -1,9 +1,9 @@
 ---
 budget: non
 montant:
+title: Gérer durablement les espaces naturels des zones d’activités
+number: 20
 ---
-
-# #20 Gérer durablement les espaces naturels des zones d’activités
 
 ## Orientation(s) stratégiques
 

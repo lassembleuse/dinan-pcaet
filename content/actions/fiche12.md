@@ -1,9 +1,9 @@
 ---
 budget: oui
 montant: 120000
+title: Structurer une filière locale bois-énergie
+number: 12
 ---
-
-# #12 Structurer une filière locale bois-énergie
 
 ## Orientation(s) stratégiques
 

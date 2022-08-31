@@ -1,9 +1,9 @@
 ---
 budget: non
 montant:
+title: Planifier un renouvellement moins émissif et décarboné de la flotte de véhicules communautaire
+number: 26
 ---
-
-# #26 Planifier un renouvellement moins émissif et décarboné de la flotte de véhicules communautaire
 
 ## Orientation(s) stratégiques
 

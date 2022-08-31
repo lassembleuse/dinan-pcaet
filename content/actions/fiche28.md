@@ -1,9 +1,9 @@
 ---
 budget: oui
 montant: 46862
+title: réer un observatoire du foncier
+number: 28
 ---
-
-# #28 Créer un observatoire du foncier
 
 ## Orientation(s) stratégiques
 

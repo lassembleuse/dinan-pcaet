@@ -1,9 +1,9 @@
 ---
 budget: non
 montant:
+title: Développer la prise en compte du développement durable dans les équipements et évènementiels culturels
+number: 33
 ---
-
-# #33 Développer la prise en compte du développement durable dans les équipements et évènementiels culturels
 
 ## Orientation(s) stratégiques
 

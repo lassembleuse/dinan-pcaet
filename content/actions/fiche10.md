@@ -1,9 +1,9 @@
 ---
 budget: oui
 montant: 180000
+title: Développer des centrales photovoltaïques sur le patrimoine public existant
+number: 10
 ---
-
-# #10 Développer des centrales photovoltaïques sur le patrimoine public existant
 
 ## Orientation(s) stratégiques
 

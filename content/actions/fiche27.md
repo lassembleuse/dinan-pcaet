@@ -1,9 +1,9 @@
 ---
 budget: oui
 montant: 9000000
+title: Aménagement durable des zones d’activités
+number: 27
 ---
-
-# #27 Aménagement durable des zones d’activités
 
 ## Orientation(s) stratégiques
 

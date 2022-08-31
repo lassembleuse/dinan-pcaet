@@ -1,10 +1,9 @@
 ---
 budget: oui
 montant: 75000
-
+title: Créer une maison de l’habitat
+number: 21
 ---
-
-# #21 Créer une maison de l’habitat
 
 ## Orientation(s) stratégiques
 

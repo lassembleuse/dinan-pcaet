@@ -1,9 +1,9 @@
 ---
 budget: non
 montant:
+title: Expérimenter la gestion intégrée des eaux pluviales
+number: 6
 ---
-
-# #6 Expérimenter la gestion intégrée des eaux pluviales
 
 ## Orientation(s) stratégiques
 

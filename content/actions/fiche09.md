@@ -1,10 +1,9 @@
 ---
 budget: oui
 montant: 1200000
+title: Déployer le service de Conseil en Energie Partagé (CEP)
+number: 9
 ---
-
-
-# #9 Déployer le service de Conseil en Energie Partagé (CEP)
 
 ## Orientation(s) stratégiques
 

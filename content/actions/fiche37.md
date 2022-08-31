@@ -1,9 +1,9 @@
 ---
 budget: non
 montant:
+title: Sensibiliser, informer et accompagner au changement
+number: 37
 ---
-
-# #37 Sensibiliser, informer et accompagner au changement
 
 ## Orientation(s) stratégiques
 

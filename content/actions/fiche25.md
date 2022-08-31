@@ -1,10 +1,9 @@
 ---
 budget: non
 montant:
+title: Créer et mettre en œuvre un schéma de promotion des achats publics socialement et écologiquement responsables
+number: 25
 ---
-
-# #25 Créer et mettre en œuvre un schéma de promotion des achats publics socialement et écologiquement responsables
-
 
 ## Orientation(s) stratégiques
 

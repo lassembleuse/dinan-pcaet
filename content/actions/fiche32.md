@@ -1,9 +1,9 @@
 ---
 budget: non
 montant:
+title: Rénover, construire et entretenir à faible impact carbone et énergétique
+number: 32
 ---
-
-# #32 Rénover, construire et entretenir à faible impact carbone et énergétique
 
 ## Orientation(s) stratégiques
 

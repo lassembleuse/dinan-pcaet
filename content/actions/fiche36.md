@@ -1,9 +1,9 @@
 ---
 budget: non
 montant:
+title: Informer et sensibiliser des agents
+number: 36
 ---
-
-# #36 Informer et sensibiliser des agents
 
 ## Orientation(s) stratégiques
 

@@ -1,9 +1,9 @@
 ---
 budget: oui
 montant: 12000
+title: Jouer la carte de la qualité pour les constructions nouvelles
+number: 23
 ---
-
-# #23 Jouer la carte de la qualité pour les constructions nouvelles
 
 ## Orientation(s) stratégiques
 

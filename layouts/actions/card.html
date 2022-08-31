@@ -6,8 +6,12 @@
         <h2 class="is-size-6 card-title">{{ .Title }}</h2>
         {{ $montant := int .Params.montant }}
         <div class="montant">
-          <span>{{ $montant | lang.FormatNumber 0  }} €</span> /
-          <span>{{ .Params.pourcentage  }} €</span>
+          {{ if eq $montant 0 }}
+            <span>Non renseigné</span>
+          {{ else }}
+            <span>{{ $montant | lang.FormatNumber 0  }} €</span>
+          {{ end }}
+          <!-- / <span>{{ .Params.pourcentage  }}</span> -->
         </div>
       </header>
       {{ range $index, $element := .Params.tags }}

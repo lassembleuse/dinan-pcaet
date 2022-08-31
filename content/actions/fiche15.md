@@ -1,9 +1,9 @@
 ---
 budget: non
 montant:
+title: Diminuer l’empreinte carbone des services d’assainissement et d’eau potable
+number: 15
 ---
-
-# #15 Diminuer l’empreinte carbone des services d’assainissement et d’eau potable
 
 ## Orientation(s) stratégiques
 

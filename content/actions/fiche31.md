@@ -1,9 +1,9 @@
 ---
 budget: non
 montant:
+title: Elaborer et mettre en œuvre un Programme Local de Prévention des Déchets Ménagers et Assimilés
+number: 31
 ---
-
-# #31 Elaborer et mettre en œuvre un Programme Local de Prévention des Déchets Ménagers et Assimilés
 
 ## Orientation(s) stratégiques
 
