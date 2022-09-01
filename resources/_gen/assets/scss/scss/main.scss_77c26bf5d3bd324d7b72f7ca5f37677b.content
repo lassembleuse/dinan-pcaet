@@ -12033,7 +12033,8 @@ label.panel-block {
 
 .card.card-action .montant {
   flex-basis: 20%;
-  text-align: right; }
+  text-align: right;
+  flex-shrink: 0; }
 
 .is-desktop-width {
   max-width: 1088px; }

@@ -1,7 +1,7 @@
 ---
 budget: oui
 montant: 200000
-pourcentage: >1%
+pourcentage: 0,3%
 title: Réaliser un schéma directeur des énergies
 number: 8
 ---
