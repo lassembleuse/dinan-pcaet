@@ -1,6 +1,7 @@
 ---
 budget: oui
 montant: 10029130
+pourcentage: 23%
 title: Expérimenter des nouvelles techniques d’épurations pour le traitement des eaux usées
 number: 7
 ---

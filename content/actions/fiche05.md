@@ -1,6 +1,7 @@
 ---
 budget: oui
 montant: 981000
+pourcentage: 2%
 title: Mettre en œuvre la compétence de GEstion des Milieux Aquatiques et la Prévention des Inondations (GEMAPI)
 number: 5
 ---

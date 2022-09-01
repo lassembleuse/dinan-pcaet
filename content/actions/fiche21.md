@@ -1,6 +1,7 @@
 ---
 budget: oui
 montant: 75000
+pourcentage: >1%
 title: Créer une maison de l’habitat
 number: 21
 ---
