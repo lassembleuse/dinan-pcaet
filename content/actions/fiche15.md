@@ -3,20 +3,17 @@ budget: non
 montant:
 title: Diminuer l’empreinte carbone des services d’assainissement et d’eau potable
 number: 15
+tags:
+  - aucune source de financement
 ---
 
 ## Orientation(s) stratégiques
 
 - Production d’EnR et maîtrise des consommations énergétiques
 
-## Secteur
-### Obligatoire
+**Secteur obligatoire :**
 
-
-
-### Optionnel
-
-Eau
+**Secteur optionnel :** Eau
 
 ## Présentation de l'action
 
@@ -80,7 +77,7 @@ La SEMOP Eaux de Dinan-Eau potable gère 4 usines de production Bobital, Quéver
 
 ## Sources de financement
 
-Etat,Agencedel’eauLoireBretagne, Région, Départements, fonds propres
+Etat, Agence de l’eau Loire Bretagne, Région, Départements, fonds propres
 
 
 ## Calendrier
@@ -99,5 +96,3 @@ Etat,Agencedel’eauLoireBretagne, Région, Départements, fonds propres
   - réalisation du programme d’actions
 
 ---
-Pas de moyens financiers
-Vu le calendrier, presque terminé ?

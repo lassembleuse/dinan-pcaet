@@ -3,20 +3,17 @@ budget: non
 montant:
 title: 'Réduire les déplacements des agents : mise en place du télétravail et d’un plan de formations en intra'
 number: 35
+tags:
+  - calendrier révolu
 ---
 
 ## Orientation(s) stratégiques
 
 - Les communes en transition/Exemplarité de l’EPCI
 
-## Secteur
-### Obligatoire
+**Secteur obligatoire :**
 
-
-
-### Optionnel
-
-Communication / Sensibilisation
+**Secteur optionnel :** Communication / Sensibilisation
 
 ## Présentation de l'action
 
@@ -94,4 +91,3 @@ Fonds propres
 Télétravail c'est cool ! 2j / semaine c'est pas énorme…
 Plan de formation : Santé des agents qui est chargé du sujet ?
 Quels sont les résultats des indicateurs ?
-Calendrier déjà fini

@@ -4,6 +4,8 @@ montant: 2167000
 pourcentage: 5%
 title: Expérimentation et déploiement du Paiement pour Services Environnementaux (PSE)
 number: 3
+tags:
+  - calendrier flou
 ---
 
 
@@ -13,14 +15,9 @@ number: 3
 - Pratiques agricoles « terre et mer » et alimentation
 - Préserver et reconquérir la biodiversité
 
-## Secteur
-### Obligatoire
+**Secteur obligatoire :** Agriculture
 
-Agriculture
-
-### Optionnel
-
-Eau
+**Secteur optionnel :** Eau
 
 ## Présentation de l'action
 
@@ -66,7 +63,7 @@ Les services environnementaux concernent 4 champs d’actions :
 
 ## Partenaires
 
-Agencedel’eauLoireBretagne, Collectivité Eau du Bassin Rennais, CRAB, Association COEUR Emeraude, SCIC EnR paysdeRance
+Agence de l’eau Loire Bretagne, Collectivité Eau du Bassin Rennais, CRAB, Association COEUR Emeraude, SCIC EnR paysdeRance
 
 
 ## Pilotage
@@ -75,7 +72,7 @@ Agencedel’eauLoireBretagne, Collectivité Eau du Bassin Rennais, CRAB, Associa
 
 ## Moyens financiers
 
-2167000 € pour 5 ans
+2 167 000 € pour 5 ans
 
 ## Sources de financement
 

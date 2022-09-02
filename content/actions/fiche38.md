@@ -10,14 +10,9 @@ number: 38
 
 - Vulnérabilité et préservation de la ressource en eau
 
-## Secteur
-### Obligatoire
+**Secteur obligatoire :**
 
-
-
-### Optionnel
-
-Eau
+**Secteur optionnel :** Eau
 
 ## Présentation de l'action
 

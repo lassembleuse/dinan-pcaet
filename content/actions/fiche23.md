@@ -4,20 +4,15 @@ montant: 12000
 pourcentage: ~0%
 title: Jouer la carte de la qualité pour les constructions nouvelles
 number: 23
+tags:
+  - calendrier flou
 ---
 
 ## Orientation(s) stratégiques
 
 - Précarité énergétique des ménages (habitat et mobilité)
 
-## Secteur
-### Obligatoire
-
-Résidentiel
-
-### Optionnel
-
-
+**Secteur obligatoire :** Résidentiel
 
 ## Présentation de l'action
 
@@ -75,7 +70,7 @@ Ce projet porte l’objectif global dans les différentes étapes de sa mise en 
 
 ## Sources de financement
 
-Appelsàprojeteuropéen,nationauxou régionaux
+Appels à projet européen, nationaux ou régionaux
 
 ## Calendrier
 

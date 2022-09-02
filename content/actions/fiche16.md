@@ -10,14 +10,9 @@ number: 16
 
 - Production d’EnR et maîtrise des consommations
 
-## Secteur
-### Obligatoire
+**Secteur obligatoire :** Tertiaire
 
-Tertiaire
-
-### Optionnel
-
-Développement économique
+**Secteur optionnel :** Développement économique
 
 ## Présentation de l'action
 

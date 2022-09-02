@@ -11,14 +11,7 @@ number: 10
 - Production d’EnR et maîtrise des consommations
 - Communes en transition/Exemplarité de l’EPCI
 
-## Secteur
-### Obligatoire
-
-Tertiaire
-
-### Optionnel
-
-
+**Secteur obligatoire :** Tertiaire
 
 ## Présentation de l'action
 

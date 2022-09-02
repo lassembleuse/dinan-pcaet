@@ -3,20 +3,17 @@ budget: non
 montant:
 title: Créer et mettre en œuvre un schéma de promotion des achats publics socialement et écologiquement responsables
 number: 25
+tags:
+  - calendrier révolu
 ---
 
 ## Orientation(s) stratégiques
 
 - Communes en transition/Exemplarité de l’EPCI
 
-## Secteur
-### Obligatoire
+**Secteur obligatoire :**
 
-
-
-### Optionnel
-
-Consommation responsable
+**Secteur optionnel :** Consommation responsable
 
 ## Présentation de l'action
 

@@ -3,20 +3,17 @@ budget: non
 montant:
 title: Impulser une dynamique d’économie circulaire
 number: 30
+tags:
+  - calendrier révolu
 ---
 
 ## Orientation(s) stratégiques
 
 - Communes en transition/Exemplarité de l’EPCI
 
-## Secteur
-### Obligatoire
+**Secteur obligatoire :**
 
-
-
-### Optionnel
-
-Communication / Sensibilisation
+**Secteur optionnel :** Communication / Sensibilisation
 
 ## Présentation de l'action
 

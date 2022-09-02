@@ -10,14 +10,9 @@ number: 18
 
 - Préserver et reconquérir la biodiversité
 
-## Secteur
-### Obligatoire
+**Secteur obligatoire :**
 
-
-
-### Optionnel
-
-Biodiversité
+**Secteur optionnel :** Biodiversité
 
 ## Présentation de l'action
 

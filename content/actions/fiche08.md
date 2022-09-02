@@ -4,20 +4,17 @@ montant: 200000
 pourcentage: 0,3%
 title: Réaliser un schéma directeur des énergies
 number: 8
+tags:
+  - calendrier flou
 ---
 
 ## Orientation(s) stratégiques
 
 - Production d’EnR et maîtrise des consommations
 
-## Secteur
-### Obligatoire
+**Secteur obligatoire :**
 
-
-
-### Optionnel
-
-Gestion/production/distribution d'énergie
+**Secteur optionnel :** Gestion/production/distribution d'énergie
 
 ## Présentation de l'action
 

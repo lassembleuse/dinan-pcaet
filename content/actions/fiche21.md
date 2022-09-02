@@ -4,20 +4,15 @@ montant: 75000
 pourcentage: 0,2%
 title: Créer une maison de l’habitat
 number: 21
+tags:
+  - calendrier flou
 ---
 
 ## Orientation(s) stratégiques
 
 - Précarité énergétique des ménages (habitat et mobilité)
 
-## Secteur
-### Obligatoire
-
-Résidentiel
-
-### Optionnel
-
-
+**Secteur obligatoire :** Résidentiel
 
 ## Présentation de l'action
 
@@ -95,4 +90,3 @@ ADEME, Conseil Régional, fonds propres
 
 
 ---
-On en est à la moitié du calendrier, où ça en est ?

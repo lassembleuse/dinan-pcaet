@@ -3,20 +3,17 @@ budget: non
 montant:
 title: Développer la prise en compte du développement durable dans les équipements et évènementiels culturels
 number: 33
+tags:
+  - calendrier flou
 ---
 
 ## Orientation(s) stratégiques
 
 - Communes en transition/Exemplarité de l’EPCI
 
-## Secteur
-### Obligatoire
+**Secteur obligatoire :**
 
-
-
-### Optionnel
-
-Consommation responsable
+**Secteur optionnel :** Consommation responsable
 
 ## Présentation de l'action
 

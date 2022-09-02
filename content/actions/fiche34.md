@@ -10,14 +10,9 @@ number: 34
 
 - Communes en transition/Exemplarité de l’EPCI
 
-## Secteur
-### Obligatoire
+**Secteur obligatoire :**
 
-
-
-### Optionnel
-
-Santé
+**Secteur optionnel :** Santé
 
 ## Présentation de l'action
 

@@ -4,6 +4,8 @@ montant: 1200000
 pourcentage: 3%
 title: Déployer le service de Conseil en Energie Partagé (CEP)
 number: 9
+tags:
+  - calendrier flou
 ---
 
 ## Orientation(s) stratégiques
@@ -11,14 +13,7 @@ number: 9
 - Production d’EnR et maîtrise des consommations
 - Communes en transition/Exemplarité de l’EPCI
 
-## Secteur
-### Obligatoire
-
-Tertiaire
-
-### Optionnel
-
-
+**Secteur obligatoire :** Tertiaire
 
 ## Présentation de l'action
 

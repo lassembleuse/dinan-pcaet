@@ -3,6 +3,8 @@ budget: non
 montant:
 title: Elaborer et mettre en œuvre une stratégie de développement du tourisme durable
 number: 29
+tags:
+  - calendrier flou
 ---
 
 ## Orientation(s) stratégiques
@@ -10,14 +12,9 @@ number: 29
 - Communes en transition/Exemplarité de l’EPCI
 - Développement des EnR et maîtrise des consommations
 
-## Secteur
-### Obligatoire
+**Secteur obligatoire :**
 
-
-
-### Optionnel
-
-Tourisme
+**Secteur optionnel :** Tourisme
 
 ## Présentation de l'action
 

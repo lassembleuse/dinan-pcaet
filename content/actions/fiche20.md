@@ -3,6 +3,9 @@ budget: non
 montant:
 title: Gérer durablement les espaces naturels des zones d’activités
 number: 20
+tags:
+  - calendrier flou
+  - 0 indicateurs
 ---
 
 ## Orientation(s) stratégiques
@@ -10,14 +13,9 @@ number: 20
 - Préserver et reconquérir la biodiversité
 - Communes en transition/Exemplarité de l’EPCI
 
-## Secteur
-### Obligatoire
+**Secteur obligatoire :**
 
-
-### Optionnel
-
-Espaces verts
-
+**Secteur optionnel :** Espaces verts
 
 ## Présentation de l'action
 
@@ -74,7 +72,7 @@ De communiquer sur la démarche auprès des entreprises en lien avec l’animati
 
 ## Sources de financement
 
-Fondspropres
+Fonds propres
 
 ## Calendrier
 
@@ -87,6 +85,4 @@ Fondspropres
 
 ---
 Pas d'indicateurs
-Pas de budget
 On aurait pas besoin d'ilots de fraicheur ailleurs que dans les ZAC en priorité ?
-Fiche action dont le calendrier est déjà bien avancé

@@ -4,10 +4,6 @@ montant: 1380000
 pourcentage: 3%
 title: Favoriser la transition agroécologique des exploitations agricoles
 number: 1
-tags:
-  - objectifs insuffisants
-  - calendrier flou
-  - budget insuffisant
 ---
 
 ## Orientation(s) stratégiques
@@ -15,14 +11,9 @@ tags:
 - Vulnérabilité et préservation de la ressource en eau
 - Pratiques agricoles « terre et mer » et alimentation
 
-## Secteur
-### Obligatoire
+**Secteur obligatoire :** Agriculture
 
-Agriculture
-
-### Optionnel
-
-Eau
+**Secteur optionnel :** Eau
 
 ## Présentation de l'action
 

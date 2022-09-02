@@ -10,14 +10,7 @@ number: 32
 - Communes en transition/Exemplarité de l’EPCI
 - Développement des EnR et maîtrise des consommations
 
-## Secteur
-### Obligatoire
-
-
-
-### Optionnel
-
-
+**Secteur obligatoire :**
 
 ## Présentation de l'action
 

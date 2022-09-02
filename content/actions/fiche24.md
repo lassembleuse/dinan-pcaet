@@ -4,20 +4,15 @@ montant: 12534200
 pourcentage: 28%
 title: Mettre en œuvre le Plan de Déplacement Communautaire
 number: 24
+tags:
+  - calendrier flou
 ---
 
 ## Orientation(s) stratégiques
 
 - Précarité énergétique des ménages (habitat et mobilité)
 
-## Secteur
-### Obligatoire
-
-Transport routier
-
-### Optionnel
-
-
+**Secteur obligatoire :** Transport routier
 
 ## Présentation de l'action
 
