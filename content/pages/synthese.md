@@ -43,7 +43,7 @@ Par exemple, si l'on considère les ordres de grandeur, manger moins de viande e
 
 Le changement climatique ne touchera pas tout le monde de la même manière. Ce sont **les plus précaires qui seront en première ligne.**
 
-Aussi, il ne peut y avoir de plan juste sans une prise en compte de celles et ceux d'entre nous qui souffrent déjà des changements que nous subissons : logements-étuves l'été, passoires thermiques l'hiver, impossibilité de déménager à cause de la pression immobilière, difficultés à payer les factures d'énergie, budget trop contraint pour consommer des produits alimentaires de qualité, exposition à la pollution, dépendance à la voiture dû à l'éloignement des lieux de travail…
+Aussi, il ne peut y avoir de plan juste sans une prise en compte de celles et ceux d'entre nous qui souffrent déjà des changements que nous subissons : logements-étuves l'été, passoires thermiques l'hiver, impossibilité de déménager à cause de la pression immobilière, difficultés à payer les factures d'énergie, budget trop contraint pour consommer des produits alimentaires de qualité, exposition à la pollution, dépendance à la voiture dû à l'éloignement des lieux de travail et des services...
 
 La justice sociale doit faire partie de tout engagement écologique, afin de poursuivre la réduction des inégalités climatiques.
 
