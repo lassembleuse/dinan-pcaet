@@ -1,6 +1,7 @@
 ---
 budget: oui
 montant: 12000
+pourcentage: ~0%
 title: Jouer la carte de la qualité pour les constructions nouvelles
 number: 23
 ---

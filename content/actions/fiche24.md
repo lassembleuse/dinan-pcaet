@@ -1,6 +1,7 @@
 ---
 budget: oui
 montant: 12534200
+pourcentage: 28%
 title: Mettre en œuvre le Plan de Déplacement Communautaire
 number: 24
 ---

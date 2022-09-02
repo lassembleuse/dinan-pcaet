@@ -1,6 +1,7 @@
 ---
 budget: oui
 montant: 332000
+pourcentage: '0,8%'
 title: Encourager le développement d’un système alimentaire local résilient
 number: 4
 ---

@@ -1,6 +1,7 @@
 ---
 budget: oui
 montant: 46862
+pourcentage: 1%
 title: réer un observatoire du foncier
 number: 28
 ---

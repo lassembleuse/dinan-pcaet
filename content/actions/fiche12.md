@@ -1,6 +1,7 @@
 ---
 budget: oui
 montant: 120000
+pourcentage: 0,3%
 title: Structurer une filière locale bois-énergie
 number: 12
 ---

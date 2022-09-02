@@ -1,6 +1,7 @@
 ---
 budget: oui
 montant: 29600
+pourcentage: ~0%
 title: Etudier et accompagner la production d’EnR dans le monde agricole
 number: 13
 ---

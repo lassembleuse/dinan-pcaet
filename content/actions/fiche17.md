@@ -1,6 +1,7 @@
 ---
 budget: oui
 montant: 440000
+pourcentage: 1%
 title: Elaborer et mettre en œuvre l’Atlas de la Biodiversité Intercommunale
 number: 17
 ---

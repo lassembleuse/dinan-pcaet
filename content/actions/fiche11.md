@@ -1,6 +1,7 @@
 ---
 budget: oui
 montant: 15600
+pourcentage: ~0%
 title: Promouvoir les projets citoyens d’EnR
 number: 11
 ---

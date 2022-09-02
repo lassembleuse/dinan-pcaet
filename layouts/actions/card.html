@@ -3,15 +3,15 @@
   <div class="card card-action">
     <div class="card-content">
       <header class="flex">
-        <h2 class="is-size-6 card-title">{{ .Title }}</h2>
+        <h2 class="is-size-6 card-title">{{ .Params.number }}. {{ .Title }}</h2>
         {{ $montant := int .Params.montant }}
         <div class="montant">
           {{ if eq $montant 0 }}
             <span>Non renseigné</span>
           {{ else }}
             <span>{{ $montant | lang.FormatNumber 0  }} €</span>
+            / <span>{{ .Params.pourcentage  }}</span>
           {{ end }}
-          <!-- / <span>{{ .Params.pourcentage  }}</span> -->
         </div>
       </header>
       {{ range $index, $element := .Params.tags }}
