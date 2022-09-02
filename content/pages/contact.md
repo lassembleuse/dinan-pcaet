@@ -10,4 +10,6 @@ menu:
     parent: "Qui sommes-nous"
 ---
 
-Ici les infos de contact
+Pour contacter les Vigiliantes : [contact@vigiliantes.fr](mailto:contact@vigiliantes.fr)
+
+Nous ferons passer au bon destinataire !

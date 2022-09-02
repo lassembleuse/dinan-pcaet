@@ -11,9 +11,8 @@ menu:
     parent: "Qui sommes-nous"
 ---
 
-## Structures et personnes
+Derrière ce site, on retrouve différentes personnes et structures.
 
-Qui est derrière ce site ?
+L'initiative en revient au collectif [Les Vigiliantes](https://www.vigiliantes.fr), qui travaille sur l'autonomie alimentaire à l'échelle de l'agglomération.
 
-
-### Les vigiliantes
+Y contribuent diverses entités ou personnes, sur leurs domaines d'intérêt et d'expertise.
