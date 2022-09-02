@@ -1,6 +1,7 @@
 ---
 budget: oui
 montant: 9000000
+pourcentage: 21%
 title: Aménagement durable des zones d’activités
 number: 27
 ---

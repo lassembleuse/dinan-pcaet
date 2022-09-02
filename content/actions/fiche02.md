@@ -1,6 +1,7 @@
 ---
 budget: oui
 montant: 700000
+pourcentage: 2%
 title: Gérer durablement le maillage bocager
 number: 2
 ---

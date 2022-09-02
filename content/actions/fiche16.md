@@ -1,6 +1,7 @@
 ---
 budget: oui
 montant: 200000
+pourcentage: 0,5%
 title: Accompagner les entreprises dans leurs démarches de transition énergétique
 number: 16
 ---

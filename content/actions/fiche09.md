@@ -1,6 +1,7 @@
 ---
 budget: oui
 montant: 1200000
+pourcentage: 3%
 title: Déployer le service de Conseil en Energie Partagé (CEP)
 number: 9
 ---

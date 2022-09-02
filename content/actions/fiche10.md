@@ -1,6 +1,7 @@
 ---
 budget: oui
 montant: 180000
+pourcentage: 0,4%
 title: Développer des centrales photovoltaïques sur le patrimoine public existant
 number: 10
 ---

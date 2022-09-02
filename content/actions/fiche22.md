@@ -1,6 +1,7 @@
 ---
 budget: oui
 montant: 3269000
+pourcentage: 7%
 title: Requalifier le bâti existant
 number: 22
 ---
