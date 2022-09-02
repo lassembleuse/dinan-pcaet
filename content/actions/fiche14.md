@@ -3,20 +3,15 @@ budget: non
 montant:
 title: Engager une démarche exploratoire pour la valorisation de la chaleur fatale issue de l’incinération des déchets
 number: 14
+tags:
+  - aucune source de financement
 ---
 
 ## Orientation(s) stratégiques
 
 - Production d’EnR et maîtrise des consommations
 
-## Secteur
-### Obligatoire
-
-Industrie hors branche énergie
-
-### Optionnel
-
-
+**Secteur obligatoire :** Industrie hors branche énergie
 
 ## Présentation de l'action
 
@@ -91,4 +86,3 @@ Fondspropres,FEADER-LEADER, appelsàprojet
 - Réalisation des 4 axes de la phase exploratoire de valorisation de la chaleur fatale
 
 ---
-Pas de moyens financiers

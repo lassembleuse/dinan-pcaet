@@ -4,6 +4,8 @@ montant: 9000000
 pourcentage: 21%
 title: Aménagement durable des zones d’activités
 number: 27
+tags:
+  - calendrier révolu
 ---
 
 ## Orientation(s) stratégiques
@@ -11,14 +13,9 @@ number: 27
 - Communes en transition/Exemplarité de l’EPCI
 - Production d’EnR et maîtrise des consommations
 
-## Secteur
-### Obligatoire
+**Secteur obligatoire :** Tertiaire
 
-Tertiaire
-
-### Optionnel
-
-Aménagement / urbanisme
+**Secteur optionnel :** Aménagement / urbanisme
 
 ## Présentation de l'action
 
@@ -102,4 +99,3 @@ SEM énergies 22, Etat (DETR), ADEME, vente des lots cessibles
 
 ---
 Mouais une ZAC qui va produire de l'EnR c'est pas ce qui semble prioritaire…
-Calendrier déjà fini ?

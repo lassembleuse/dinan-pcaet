@@ -4,20 +4,15 @@ montant: 46862
 pourcentage: 1%
 title: réer un observatoire du foncier
 number: 28
+tags:
+  - calendrier révolu
 ---
 
 ## Orientation(s) stratégiques
 
 - Communes en transition/Exemplarité de l’EPCI
 
-## Secteur
-### Obligatoire
-
-
-
-### Optionnel
-
-
+**Secteur obligatoire :**
 
 ## Présentation de l'action
 
@@ -89,4 +84,3 @@ Fonds propres
 - Evaluation des marchés fonciers (annuelle)
 
 ---
-Et après 2021 ?

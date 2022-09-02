@@ -3,20 +3,17 @@ budget: non
 montant:
 title: Informer et sensibiliser des agents
 number: 36
+tags:
+  - calendrier flou
 ---
 
 ## Orientation(s) stratégiques
 
 - Communes en transition/Exemplarité de l’EPCI
 
-## Secteur
-### Obligatoire
+**Secteur obligatoire :**
 
-
-
-### Optionnel
-
-Communication / Sensibilisation
+**Secteur optionnel :** Communication / Sensibilisation
 
 ## Présentation de l'action
 

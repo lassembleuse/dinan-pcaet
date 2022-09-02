@@ -4,6 +4,8 @@ montant: 332000
 pourcentage: '0,8%'
 title: Encourager le développement d’un système alimentaire local résilient
 number: 4
+tags:
+  - calendrier flou
 ---
 
 ## Orientation(s) stratégiques
@@ -11,33 +13,33 @@ number: 4
 - Pratiques agricoles « terre et mer » et alimentation
 - Communes en transition/Exemplarité de l’EPCI
 
-## Secteur
-### Obligatoire
+**Secteur obligatoire :** Agriculture
 
-Agriculture
-
-### Optionnel
-
-Développement économique
+**Secteur optionnel :** Développement économique
 
 ## Présentation de l'action
 
 Ayant identifié comme un enjeu et une opportunité de développement local, la future réglementation s’imposant aux collectivités pour les services de restauration collective par la loi EGALim, Dinan Agglomération s’est engagé dans un Projet Alimentaire Territorial (PAT) dès sa création en 2017. Il concerne 55 restaurants scolaires des écoles primaires approvisionnés par 42 cuisines communales en régie directe ou délégation de service. Le PAT est aussi intégré et fait pleinement partie des orientations de la stratégie agricole et alimentaire de Dinan Agglomération.
 Une 1ière phase de 2017 à 2018 s’est centrée sur la caractérisation des denrées alimentaires utilisées en restauration collective d’une part et d’autre part sur la création d’un réseau de cuisiniers, gestionnaires et producteurs locaux. Une 2de phase de 2019 à 2021, intégrée dans la stratégie agricole et alimentaire de Dinan Agglomération, repose sur
 une programmation de 31 actions à travers 4 axes :
+
 ### Axe 1 : La gouvernance
 1. Elaboration du plan d'actions 2020-2021,
 2. Organiser des assises de l'agriculture et de l'alimentation,
 3. Coordination interne et externe,
-4. Mobiliser des financements complémentaires, 5. Suivre la mise en œuvre du plan d'actions,
-6. Evaluation externe par un bureau d'étude, 7. Diffuser les rapports techniques et financiers
+4. Mobiliser des financements complémentaires,
+5. Suivre la mise en œuvre du plan d'actions,
+6. Evaluation externe par un bureau d'étude,
+7. Diffuser les rapports techniques et financiers
 8. Participer aux réseaux d'échanges,
 9. Capitaliser sur les résultats,
+
 ### Axe 2 : Observer le territoire
 10. Collecter les données agricoles et alimentaires des services de Dinan Agglomération et des partenaires institutionnels et techniques concernés,
 11. Mettre ce sdonnées à disposition,
 12. Analyse des expériences avec les territoires qui
 mettent en place des actions similaires,
+
 ### Axe 3 : Accompagner les changements de pratiques de la consommation
 13. Suivre l'approvisionnement et accompagner la restauration collective pour répondre aux objectifs de la loi EGAlim
 14. Organiser des formations et des réunions d'échanges (forums,...)
@@ -45,10 +47,13 @@ mettent en place des actions similaires,
 16. Des lieux de distribution de l'aide alimentaire et favoriser l'intégration de produits locaux et sous signe de qualité
 17. Promouvoir des animations en faveur du "bien manger", la lutte contre le gaspillage et le tri des déchets auprès du public scolaire et du grand public
 18. Informer les porteurs de projets en agriculture et alimentation (orienter vers les aides, mettre en lien avec d'autres structures...) tout au long de leurs parcours et en complémentarité avec les acteurs agricoles
+
 ### Axe 4 : Accompagner les transitions agricoles
-19. Répondre aux sollicitations des partenaires (MSA, DDTM22, Chambre d'agriculture 22, Solidarité paysan, MISACO...) et des communes sur l'accompagnement social et la prévention, 20. Préserver et suivre la consommation du foncier (en lien avec PLUI-H),
+19. Répondre aux sollicitations des partenaires (MSA, DDTM22, Chambre d'agriculture 22, Solidarité paysan, MISACO...) et des communes sur l'accompagnement social et la prévention,
+20. Préserver et suivre la consommation du foncier (en lien avec PLUI-H),
 21. Répondre à la demande des communes qui souhaitent mobiliser du foncier pour installer des jeunes agriculteurs, lutter contre la déprise ou restaurer des friches,
-22. Expérimenter avec la CC de Côte d'Emeraude une animation menée par l'association Terre de liens sur l'installation et le foncier sur les communes du bassin versant de Frémur, baie de Beaussais, 23. Mobiliser les cédants pour préparer la transmission de leur exploitation,
+22. Expérimenter avec la CC de Côte d'Emeraude une animation menée par l'association Terre de liens sur l'installation et le foncier sur les communes du bassin versant de Frémur, baie de Beaussais,
+23. Mobiliser les cédants pour préparer la transmission de leur exploitation,
 24. Communiquer sur les opportunités de reprise et d'installation sur le territoire,
 25. Faciliter l'installation d'agriculteurs sur des productions répondants aux besoins alimentaires locaux,
 26. Assurer la promotion et développer les filières locales et de qualité pour l'alimentation humaine (blé noir, légumineuses...),
@@ -89,7 +94,7 @@ Communes, agent des services de restauration, agriculteurs, grand publics
 
 ## Partenaires
 
-- ARS,DDTM22,ConseilRégional,Conseil Départemental, Labocea, chambres consulaires, MAB 22, Mutualité Française de Bretagne, Coeur Emeraude, conseil de développement
+- ARS, DDTM22, Conseil Régional, Conseil Départemental, Labocea, chambres consulaires, MAB 22, Mutualité Française de Bretagne, Coeur Emeraude, conseil de développement
 
 ## Pilotage
 
@@ -97,7 +102,7 @@ Communes, agent des services de restauration, agriculteurs, grand publics
 
 ## Moyens financiers
 
-332000 € plan de relance
+332 000 € plan de relance
 
 ## Sources de financement
 
@@ -109,7 +114,6 @@ Etat, fonds propre, fonds européen FEADER-LEADER, ADEME
 - 2022-2026 Elaboration/mise en œuvre de la stratégie agricole et alimentaire – phase 3
 
 ## Indicateurs de suivi
-
 
 - Part (en%) des produits biologiques et/ou locaux dans la restauration collective
 - Nombre de formation à destination des cuisiniers et gestionnaires

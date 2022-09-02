@@ -4,20 +4,15 @@ montant: 29600
 pourcentage: ~0%
 title: Etudier et accompagner la production d’EnR dans le monde agricole
 number: 13
+tags:
+  - calendrier révolu
 ---
 
 ## Orientation(s) stratégiques
 
 - Production d’EnR et maîtrise des consommations
 
-## Secteur
-### Obligatoire
-
-Agriculture
-
-### Optionnel
-
-
+**Secteur obligatoire :** Agriculture
 
 ## Présentation de l'action
 
@@ -82,5 +77,3 @@ Fonds propre, ADEME
 - Nombre de projets d’EnR/Agricole réalisés et opérationnels
 
 ---
-
-Le calendrier est…passé ? L'étude a été faite ??

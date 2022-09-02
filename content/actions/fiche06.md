@@ -3,6 +3,8 @@ budget: non
 montant:
 title: Expérimenter la gestion intégrée des eaux pluviales
 number: 6
+tags:
+  - calendrier flou
 ---
 
 ## Orientation(s) stratégiques
@@ -10,14 +12,9 @@ number: 6
 - Vulnérabilité et préservation de la ressource en eau
 - Communes en transition/Exemplarité de l’EPCI
 
-## Secteur
-### Obligatoire
+**Secteur obligatoire :**
 
-
-
-### Optionnel
-
-Eau
+**Secteur optionnel :** Eau
 
 ## Présentation de l'action
 

@@ -4,20 +4,17 @@ montant: 120000
 pourcentage: 0,3%
 title: Structurer une filière locale bois-énergie
 number: 12
+tags:
+  - calendrier révolu
 ---
 
 ## Orientation(s) stratégiques
 
 - Production d’EnR et maîtrise des consommations
 
-## Secteur
-### Obligatoire
+**Secteur obligatoire :** Agriculture
 
-Agriculture
-
-### Optionnel
-
-Coopération / partenariat
+**Secteur optionnel :** Coopération / partenariat
 
 ## Présentation de l'action
 

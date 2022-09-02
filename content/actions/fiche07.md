@@ -4,6 +4,8 @@ montant: 10029130
 pourcentage: 23%
 title: Expérimenter des nouvelles techniques d’épurations pour le traitement des eaux usées
 number: 7
+tags:
+  - calendrier flou
 ---
 
 ## Orientation(s) stratégiques
@@ -11,14 +13,9 @@ number: 7
 - Vulnérabilité et préservation de la ressource en eau
 - Communes en transition/Exemplarité de l’EPCI
 
-## Secteur
-### Obligatoire
+**Secteur obligatoire :**
 
-
-
-### Optionnel
-
-Eau
+**Secteur optionnel :** Eau
 
 ## Présentation de l'action
 

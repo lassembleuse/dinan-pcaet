@@ -10,14 +10,9 @@ number: 19
 - Préserver et reconquérir la biodiversité
 - Communes en transition/Exemplarité de l’EPCI
 
-## Secteur
-### Obligatoire
+**Secteur obligatoire :**
 
-
-
-### Optionnel
-
-Santé
+**Secteur optionnel :** Santé
 
 ## Présentation de l'action
 
@@ -91,10 +86,8 @@ Fondspropres, ARS
 - Nombre de conférences réalisées en santé environnementale
 
 ---
-> Pour constituer ce réseau sentinelle, il sera fait appel au volontariat au sein des services con- cernés. Les volontaires bénéficieront d’un temps d’information-formation en collaboration avec l’association Capt’air Bretagne
+> Pour constituer ce réseau sentinelle, il sera fait appel au volontariat au sein des services concernés. Les volontaires bénéficieront d’un temps d’information-formation en collaboration avec l’association Capt’air Bretagne
 
-> Proposer de la sensibilisation, formation auprès des élus et agents communaux sen- sibles à la thématique.
+> Proposer de la sensibilisation, formation auprès des élus et agents communaux sensibles à la thématique.
 
 C'est quand même très "volontariat" comme démarche
-
-Pas de budget encore

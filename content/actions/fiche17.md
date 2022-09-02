@@ -4,20 +4,17 @@ montant: 440000
 pourcentage: 1%
 title: Elaborer et mettre en œuvre l’Atlas de la Biodiversité Intercommunale
 number: 17
+tags:
+  - calendrier flou
 ---
 
 ## Orientation(s) stratégiques
 
 - Préserver et reconquérir la biodiversité
 
-## Secteur
-### Obligatoire
+**Secteur obligatoire :**
 
-
-
-### Optionnel
-
-Biodiversité
+**Secteur optionnel :** Biodiversité
 
 ## Présentation de l'action
 
@@ -92,5 +89,4 @@ Parmi les premières actions mises en place, un websig participatif à destinati
 
 ---
 
-Dans la présentation on parle d'un websig (website ?) mis en place fin 2020… au futur !
 Les indicateurs parlent de com autour de l'atlas, mais pas du remplissage de l'atlas…
