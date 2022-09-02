@@ -39,7 +39,7 @@ La manière la plus efficace de réduire la pression sur notre environnement est
 
 Par exemple, si l'on considère les ordres de grandeur, manger moins de viande est l'un des leviers d'action les plus efficaces pour réduire son empreinte écologique.[^06] Pourtant, on ne trouve pas d'ambition ou de réflexion sur la réduction du nombre et de la taille des élevages ou sur la promotion d'une alimentation moins carnée.
 
-## Nous voulons un plan qui prennent en compte les publics en première ligne du changement climatique
+## Nous voulons un plan qui prennent en compte les personnes en première ligne du changement climatique
 
 Le changement climatique ne touchera pas tout le monde de la même manière. Ce sont **les plus précaires qui seront en première ligne.**
 
