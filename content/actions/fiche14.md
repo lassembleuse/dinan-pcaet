@@ -5,6 +5,7 @@ title: Engager une démarche exploratoire pour la valorisation de la chaleur fat
 number: 14
 tags:
   - aucune source de financement
+  - Industrie
 ---
 
 ## Orientation(s) stratégiques

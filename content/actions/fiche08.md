@@ -6,6 +6,7 @@ title: Réaliser un schéma directeur des énergies
 number: 8
 tags:
   - calendrier flou
+  - Énergie
 ---
 
 ## Orientation(s) stratégiques

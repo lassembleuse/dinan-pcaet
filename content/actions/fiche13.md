@@ -6,6 +6,7 @@ title: Etudier et accompagner la production d’EnR dans le monde agricole
 number: 13
 tags:
   - calendrier révolu
+  - Agriculture
 ---
 
 ## Orientation(s) stratégiques

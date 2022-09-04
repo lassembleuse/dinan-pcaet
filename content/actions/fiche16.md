@@ -4,6 +4,9 @@ montant: 200000
 pourcentage: 0,5%
 title: Accompagner les entreprises dans leurs démarches de transition énergétique
 number: 16
+tags:
+  - Tertiaire
+  - Développement économique
 ---
 
 ## Orientation(s) stratégiques

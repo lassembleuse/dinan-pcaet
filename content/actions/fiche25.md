@@ -5,6 +5,7 @@ title: Créer et mettre en œuvre un schéma de promotion des achats publics soc
 number: 25
 tags:
   - calendrier révolu
+  - Consommation responsable
 ---
 
 ## Orientation(s) stratégiques

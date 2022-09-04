@@ -6,6 +6,8 @@ title: Aménagement durable des zones d’activités
 number: 27
 tags:
   - calendrier révolu
+  - Tertiaire
+  - Urbanisme
 ---
 
 ## Orientation(s) stratégiques

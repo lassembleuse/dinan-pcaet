@@ -4,6 +4,8 @@ montant: 180000
 pourcentage: 0,4%
 title: Développer des centrales photovoltaïques sur le patrimoine public existant
 number: 10
+tags:
+  - Tertiaire
 ---
 
 ## Orientation(s) stratégiques
@@ -82,4 +84,3 @@ Fondspropres,fondseuropéenLEADER, ADEME, Conseil Régional
 
 ---
 Investissement non chiffré… bon…
-L'installation a déjà commencé ?

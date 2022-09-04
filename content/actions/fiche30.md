@@ -5,6 +5,7 @@ title: Impulser une dynamique d’économie circulaire
 number: 30
 tags:
   - calendrier révolu
+  - Sensibilisation
 ---
 
 ## Orientation(s) stratégiques

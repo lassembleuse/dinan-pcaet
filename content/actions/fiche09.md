@@ -6,6 +6,7 @@ title: Déployer le service de Conseil en Energie Partagé (CEP)
 number: 9
 tags:
   - calendrier flou
+  - Tertiaire
 ---
 
 ## Orientation(s) stratégiques
@@ -98,5 +99,3 @@ Cotisationscommunes, SDE22, ADEME, fondspropres
 - Economies énergétiques réalisées sur les bâtiments communautaires
 
 ---
-
-Calendrier flou

@@ -6,6 +6,7 @@ title: Requalifier le bâti existant
 number: 22
 tags:
   - calendrier flou
+  - Résidentiel
 ---
 
 ## Orientation(s) stratégiques

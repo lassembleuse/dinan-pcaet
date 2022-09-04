@@ -6,6 +6,8 @@ title: Expérimentation et déploiement du Paiement pour Services Environnementa
 number: 3
 tags:
   - calendrier flou
+  - Agriculture
+  - Eau
 ---
 
 

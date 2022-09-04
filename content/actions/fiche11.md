@@ -6,6 +6,7 @@ title: Promouvoir les projets citoyens d’EnR
 number: 11
 tags:
   - calendrier flou
+  - Énergie
 ---
 
 ## Orientation(s) stratégiques

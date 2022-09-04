@@ -6,6 +6,8 @@ title: Encourager le développement d’un système alimentaire local résilient
 number: 4
 tags:
   - calendrier flou
+  - Agriculture
+  - Développement économique
 ---
 
 ## Orientation(s) stratégiques

@@ -7,6 +7,7 @@ number: 5
 tags:
   - calendrier révolu
   - aucune source de financement
+  - Eau
 ---
 
 ## Orientation(s) stratégiques
@@ -93,6 +94,4 @@ Enfin, cette prise de compétence GEMAPI vient renforcer des actions actuellemen
 
 ---
 
-Calendrier peu renseigné
-Sources de financement non renseigné
 Pas de secteur obligatoire ?

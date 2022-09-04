@@ -6,6 +6,7 @@ title: Elaborer et mettre en œuvre l’Atlas de la Biodiversité Intercommunale
 number: 17
 tags:
   - calendrier flou
+  - Biodiversité
 ---
 
 ## Orientation(s) stratégiques

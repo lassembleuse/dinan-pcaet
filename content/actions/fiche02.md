@@ -6,6 +6,8 @@ title: Gérer durablement le maillage bocager
 number: 2
 tags:
   - calendrier flou
+  - Agriculture
+  - Eau  
 ---
 
 ## Orientation(s) stratégiques

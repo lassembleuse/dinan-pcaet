@@ -6,6 +6,8 @@ title: Structurer une filière locale bois-énergie
 number: 12
 tags:
   - calendrier révolu
+  - Agriculture
+  - Coopération
 ---
 
 ## Orientation(s) stratégiques

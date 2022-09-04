@@ -5,6 +5,7 @@ title: Développer la prise en compte du développement durable dans les équipe
 number: 33
 tags:
   - calendrier flou
+  - Consommation responsable
 ---
 
 ## Orientation(s) stratégiques

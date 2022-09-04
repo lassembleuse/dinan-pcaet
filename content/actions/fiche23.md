@@ -6,6 +6,7 @@ title: Jouer la carte de la qualité pour les constructions nouvelles
 number: 23
 tags:
   - calendrier flou
+  - Résidentiel
 ---
 
 ## Orientation(s) stratégiques

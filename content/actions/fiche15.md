@@ -5,6 +5,7 @@ title: Diminuer l’empreinte carbone des services d’assainissement et d’eau
 number: 15
 tags:
   - aucune source de financement
+  - Eau
 ---
 
 ## Orientation(s) stratégiques

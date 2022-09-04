@@ -4,6 +4,9 @@ montant: 1380000
 pourcentage: 3%
 title: Favoriser la transition agroécologique des exploitations agricoles
 number: 1
+tags:
+  - Agriculture
+  - Eau
 ---
 
 ## Orientation(s) stratégiques

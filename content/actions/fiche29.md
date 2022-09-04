@@ -5,6 +5,7 @@ title: Elaborer et mettre en œuvre une stratégie de développement du tourisme
 number: 29
 tags:
   - calendrier flou
+  - Tourisme
 ---
 
 ## Orientation(s) stratégiques

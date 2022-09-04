@@ -5,6 +5,7 @@ title: Planifier un renouvellement moins émissif et décarboné de la flotte de
 number: 26
 tags:
   - calendrier flou
+  - Transport routier
 ---
 
 ## Orientation(s) stratégiques
