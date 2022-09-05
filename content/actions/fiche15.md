@@ -5,6 +5,7 @@ title: Diminuer l’empreinte carbone des services d’assainissement et d’eau
 number: 15
 tags:
   - aucune source de financement
+  - Eau
 ---
 
 ## Orientation(s) stratégiques
@@ -20,6 +21,7 @@ tags:
 Depuis le 1er janvier 2019, Dinan Agglomération a créé deux Sociétés d’Economie Mixte à Opération Unique (SEMOP) qui assurent une gestion déléguée :
 - service de traitement des eaux usées : Eaux de Dinan – assainissement
 - service d’eau potable : Eaux de Dinan – eau potable
+
 Dans chacun des contrats passés avec l’opérateur économique : la SAUR pour l’assainissement et Veolia pour l’eau potable, Dinan Agglomération a posé la condition de réaliser un bilan carbone® de l’activité exercée sur le territoire et d’établir un programme d’actions visant à diminuer les émissions de gaz à effet de serres, la consommation énergétique des sites d’exploitation et à produire ou consommer des EnR dans la mesure du possible.
 La SEMOP Eaux de Dinan Assainissement a réalisé son premier bilan carbone® en 2020 (2019 – année de référence). Elle gère huit stations d'épuration sur le territoire de l'agglomération : Pleudihen sur Rance, Saint-Samson sur Rance, Lanvallay, Ville es Boucs, Vildé-Guingalan, Plouasne, Saint-Piat, Saint-Judoce.
 Son activité sur le territoire a engendré 1 028 tonnes eqCO2 avec pour principaux postes émetteurs l’énergie et les déchets (traitement des boues d’épuration). La SAUR s’est fixé l’objectif de réduire de 7% les émissions de GES de 2019 à 2023 avec la mise en œuvre du programme d’actions suivant :

@@ -6,6 +6,7 @@ title: Elaborer et mettre en œuvre l’Atlas de la Biodiversité Intercommunale
 number: 17
 tags:
   - calendrier flou
+  - Biodiversité
 ---
 
 ## Orientation(s) stratégiques
@@ -30,6 +31,7 @@ La réalisation d'un Atlas de la Biodiversité à l’échelle Intercommunale va
 4. De définir un plan de gestion et d’actions en faveur de la biodiversité ;
 5. De sensibiliser, former et impliquer les acteurs locaux et les habitants du territoire de Dinan Agglomération dans la dynamique des enjeux associés à la biodiversité ;
 6. De développer des partenariats scientifiques (instituts, facultés, associations, ...) pour mieux connaitre et anticiper les problématiques d’érosion de la biodiversité.
+
 Parmi les premières actions mises en place, un websig participatif à destination des citoyens sera mis en ligne fin 2020 permettant de sensibiliser, de mobiliser et faire contribuer les habitants au recueil de données et connaissances sur la faune et flore du territoire communautaire (inventaires participatifs).
 
 ## Objectifs visés par l'action

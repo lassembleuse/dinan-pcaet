@@ -6,6 +6,8 @@ title: Expérimentation et déploiement du Paiement pour Services Environnementa
 number: 3
 tags:
   - calendrier flou
+  - Agriculture
+  - Eau
 ---
 
 
@@ -22,10 +24,11 @@ tags:
 ## Présentation de l'action
 
 Lauréat de l’appel à projet de l’Agence de l’Eau Loire-Bretagne, Dinan agglomération expérimente le déploiement du Paiement pour Services Environnementaux (PSE) sur trois secteurs de son territoire, jugés comme prioritaires au regard de leurs enjeux eau et biodiversité :
-• le bassin versant de la baie de la Fresnaye (13 600 hectares – 165 agriculteurs – enjeu Algues vertes),
-• l’Aire d’Alimentation de Captage (AAC Enjeu Eau Potable) de la Ville Bézy (1 200 hectares – 37 agriculteurs)
-• le sous bassin versant du Kerneuf (1 700 hectares – 49 agriculteurs).
-• Le PSE est un dispositif financier innovant, destiné à rémunérer des pratiques agricoles vertueuses sur des territoires présentant des usages dépendant d’enjeux environnementaux forts.
+- le bassin versant de la baie de la Fresnaye (13 600 hectares – 165 agriculteurs – enjeu Algues vertes),
+- l’Aire d’Alimentation de Captage (AAC Enjeu Eau Potable) de la Ville Bézy (1 200 hectares – 37 agriculteurs)
+- le sous bassin versant du Kerneuf (1 700 hectares – 49 agriculteurs).
+- Le PSE est un dispositif financier innovant, destiné à rémunérer des pratiques agricoles vertueuses sur des territoires présentant des usages dépendant d’enjeux environnementaux forts.
+
 Sur la base d’une contractualisation, les agriculteurs sont rémunérés pour des actions de restauration ou maintien des écosystèmes, dont la société tire des bénéfices (préservation de la qualité de l’eau, stockage du carbone, protection du paysage et de la biodiversité...). Ce dispositif pose les conditions d’une démarche valorisante et rémunératrice permettant aux agriculteurs d’initier une transition agro-écologique dans leurs exploitations.
 Les services environnementaux concernent 4 champs d’actions :
 1. La protection des chemins de l’eau situés en bord de cultures : création de bandes tampons enherbées ou fleuries, gestion raisonnée des fossés permettant de limiter les risques d’érosion et de transfert (azote et produits phytosanitaires)

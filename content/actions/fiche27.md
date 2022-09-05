@@ -6,6 +6,8 @@ title: Aménagement durable des zones d’activités
 number: 27
 tags:
   - calendrier révolu
+  - Tertiaire
+  - Urbanisme
 ---
 
 ## Orientation(s) stratégiques
@@ -20,24 +22,31 @@ tags:
 ## Présentation de l'action
 
 L’ambition portée par Dinan Agglomération est d’assurer un développement des entreprises au sein d’un environnement préservé et synonyme de ressources. Pour relever ce défi alliant développement économique et préservation des ressources naturelles, les élus communautaires ont décidé d’aménager la zone d’activités de Bel Air selon des préceptes et la philosophie de l’Ecoparc.
+
 Ainsi l’opération d’aménagement de la ZA de Bel Air située sur les communes d’Aucaleuc et Quévert va s’inscrire dans un modèle d’aménagement intégrant les particularités et la sensibilité environnementale du site ainsi qu’une analyse de l’empreinte écologique à long terme. Il s’agit d’une Zone d’Aménagement Concertée d’une superficie totale de 40 hectares
 Zone d’activités de Bel Air : 1ier écoparc du territoire communautaire
+
 Le programme d’aménagement de la ZAC de Bel Air située sur les communes de Quévert et Aucaleuc, a été conçu avec un haut niveau d’ambition environnementale comprenant les éléments suivants :
-►Fournir une solution d’implantation en proposant des lots au découpage à la demande sur une surface de 26ha : prise en compte de la raréfaction foncière pour l’implantation d’activités économiques en zone aménagée, incitation à la densification des lots vendus
-►Favoriser une gestion favorable de la biodiversité existante : préservation de la trame « verte et bleue » (zone humide, boisements...) en définissant un plan de gestion de ces espaces publics
-►Préserver la ressource en eau : systémisation de l’infiltration à la parcelle
-►Favoriser la production d’Energie Renouvelable avec l’installation de panneaux photovoltaïques : une première étude du potentiel a permis d’évaluer une puissance totale de 5 MW à 10 MW (Mégawatts)
-►Faciliter l’écologie industrielle et l’économie circulaire
-►S’approprier l’écosystème : valoriser les espaces naturels au travers de parcours piétons
+- Fournir une solution d’implantation en proposant des lots au découpage à la demande sur une surface de 26ha : prise en compte de la raréfaction foncière pour l’implantation d’activités économiques en zone aménagée, incitation à la densification des lots vendus
+- Favoriser une gestion favorable de la biodiversité existante : préservation de la trame « verte et bleue » (zone humide, boisements...) en définissant un plan de gestion de ces espaces publics
+- Préserver la ressource en eau : systémisation de l’infiltration à la parcelle
+- Favoriser la production d’Energie Renouvelable avec l’installation de panneaux photovoltaïques : une première étude du potentiel a permis d’évaluer une puissance totale de 5 MW à 10 MW (Mégawatts)
+- Faciliter l’écologie industrielle et l’économie circulaire
+- S’approprier l’écosystème : valoriser les espaces naturels au travers de parcours piétons
 pour diversifier les usages sur la ZA
-►Encourager les mobilités alternatives : implantation d’une station Gaz Naturel Véhicules (GNV), aménagement de voies mixtes (cycles et piéton)
+- Encourager les mobilités alternatives : implantation d’une station Gaz Naturel Véhicules (GNV), aménagement de voies mixtes (cycles et piéton)
+
 Les entreprises qui s’implanteront dans la zone d’activités bénéficieront d’un dispositif d’aides pour réaliser une simulation thermique dynamique de leur bâtiment (modalités en cours de définition pour une prise en charge d’une partie des coûts de l’étude). Elles auront l’obligation d’installer sur toiture ou en ombrière des panneaux photovoltaïques dès le
 premier m2 aménagé. Ce projet d’envergure pour Dinan Agglomération pose les bases d’un référentiel pour l’aménagement ou le réaménagement durable de l’ensemble des zones d’activités du territoire.
-Dinan agglomération a engagé une démarche de densification des zones d’activités existantes en procédant à un recensement des parcelles en mesure de pouvoir être céder en partie par l’entreprise propriétaire auprès d’une nouvelle entreprise souhaitant s’installer. Ce sont environ 40 hectares sur l’ensemble des zones d’activités du territoire qui
-ont été identifiés comme « potentiel ». Des premières opérations de « cessions/ densification » ont été accompagnées.
+
+Dinan agglomération a engagé une démarche de densification des zones d’activités existantes en procédant à un recensement des parcelles en mesure de pouvoir être céder en partie par l’entreprise propriétaire auprès d’une nouvelle entreprise souhaitant s’installer. Ce sont environ 40 hectares sur l’ensemble des zones d’activités du territoire qui ont été identifiés comme « potentiel ». Des premières opérations de « cessions/ densification » ont été accompagnées.
+
 Zone d’activités de Bel Air : construction et mise en service d’une station de Gaz Naturel Véhicules
+
 Lauréats d’un appel à projet national, les 4 syndicats départementaux d’énergies (SDE) bretons réunis au sein de la société Bretagne Mobilité GNV (via leurs Sociétés d’Economie Mixte) ont engagé un programme de construction et d’installation de stations GNV réparties sur la Bretagne. Ainsi en 2022, près de 15 stations portées par BMGNV mailleront le territoire breton. Pour les Côtes d’Armor, 2 projets sont d’ores et déjà engagés dont 1 sur la ZA de Bel Air et 6 autres sont en cours d’étude ou de réflexion.
+
 Le permis de construire déposé en début d’année 2021 s’est enrichi par rapport au projet initial et a intégré les enjeux de l’Ecoparc (infiltration des eaux de pluie à la parcelle, végétalisation, etc.). La station va être aménagée de telle sorte que sa structure puisse accueillir des panneaux photovoltaïques et ainsi produire également de l’électricité renouvelable.
+
 La station GNV sera destinée aux transporteurs, entrepreneurs locaux et aussi aux particuliers. Elle sera alimentée par le gaz réseau qui sera à l’avenir alimenté par du gaz renouvelable (Bio-GNV) produit à partir de méthaniseurs locaux. Sa mise en service est programmée au cours du 1ier semestre 2022.
 
 ## Objectifs visés par l'action
