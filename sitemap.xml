@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://plan-climat.vigiliantes.fr/thematiques/agriculture/</loc>
-    <lastmod>2022-08-15T13:17:31+00:00</lastmod>
-  </url><url>
-    <loc>https://plan-climat.vigiliantes.fr/thematiques/</loc>
-    <lastmod>2022-08-15T13:17:31+00:00</lastmod>
-  </url><url>
-    <loc>https://plan-climat.vigiliantes.fr/thematiques/transport-mobilite/</loc>
-    <lastmod>2022-08-15T13:17:31+00:00</lastmod>
-  </url><url>
     <loc>https://plan-climat.vigiliantes.fr/pages/</loc>
     <lastmod>2022-08-01T13:17:31+00:00</lastmod>
   </url><url>
@@ -29,13 +20,13 @@
     <loc>https://plan-climat.vigiliantes.fr/pages/pcaet/</loc>
     <lastmod>2020-06-01T13:17:31+00:00</lastmod>
   </url><url>
-    <loc>https://plan-climat.vigiliantes.fr/actions/</loc>
-    <lastmod>2019-08-01T13:17:31+00:00</lastmod>
-  </url><url>
     <loc>https://plan-climat.vigiliantes.fr/avis/</loc>
     <lastmod>2019-08-01T13:17:31+00:00</lastmod>
   </url><url>
     <loc>https://plan-climat.vigiliantes.fr/pages/collectif/</loc>
+    <lastmod>2019-08-01T13:17:31+00:00</lastmod>
+  </url><url>
+    <loc>https://plan-climat.vigiliantes.fr/actions/</loc>
     <lastmod>2019-08-01T13:17:31+00:00</lastmod>
   </url><url>
     <loc>https://plan-climat.vigiliantes.fr/</loc>
@@ -55,6 +46,8 @@
     <loc>https://plan-climat.vigiliantes.fr/tags/calendrier-flou/</loc>
   </url><url>
     <loc>https://plan-climat.vigiliantes.fr/categories/</loc>
+  </url><url>
+    <loc>https://plan-climat.vigiliantes.fr/secteurs/epci/</loc>
   </url><url>
     <loc>https://plan-climat.vigiliantes.fr/actions/fiche25/</loc>
   </url><url>
@@ -112,6 +105,14 @@
   </url><url>
     <loc>https://plan-climat.vigiliantes.fr/actions/fiche26/</loc>
   </url><url>
+    <loc>https://plan-climat.vigiliantes.fr/secteurs/agriculture/</loc>
+  </url><url>
+    <loc>https://plan-climat.vigiliantes.fr/secteurs/precarite/</loc>
+  </url><url>
+    <loc>https://plan-climat.vigiliantes.fr/secteurs/biodiversite/</loc>
+  </url><url>
+    <loc>https://plan-climat.vigiliantes.fr/secteurs/enr/</loc>
+  </url><url>
     <loc>https://plan-climat.vigiliantes.fr/actions/fiche11/</loc>
   </url><url>
     <loc>https://plan-climat.vigiliantes.fr/actions/fiche08/</loc>
@@ -124,10 +125,14 @@
   </url><url>
     <loc>https://plan-climat.vigiliantes.fr/actions/fiche22/</loc>
   </url><url>
+    <loc>https://plan-climat.vigiliantes.fr/secteurs/</loc>
+  </url><url>
     <loc>https://plan-climat.vigiliantes.fr/actions/fiche37/</loc>
   </url><url>
     <loc>https://plan-climat.vigiliantes.fr/actions/fiche12/</loc>
   </url><url>
     <loc>https://plan-climat.vigiliantes.fr/tags/</loc>
+  </url><url>
+    <loc>https://plan-climat.vigiliantes.fr/secteurs/eau/</loc>
   </url>
 </urlset>

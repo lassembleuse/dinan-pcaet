@@ -8,25 +8,6 @@
     <language>fr-fr</language>
     <lastBuildDate>Fri, 12 Jul 2019 11:09:39 +0200</lastBuildDate><atom:link href="https://plan-climat.vigiliantes.fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Agriculture</title>
-      <link>https://plan-climat.vigiliantes.fr/thematiques/agriculture/</link>
-      <pubDate>Mon, 15 Aug 2022 13:17:31 +0000</pubDate>
-      
-      <guid>https://plan-climat.vigiliantes.fr/thematiques/agriculture/</guid>
-      <description>L&amp;rsquo;agriculture est responsable de la plus grosse partie des émissions de l&amp;rsquo;agglomération (52%), et ce pour différent motifs :
-La principale activité agricole sur l&amp;rsquo;agglomération est l&amp;rsquo;élevage (soit l&amp;rsquo;activité agricole la + émettrice de gaz à effets de serre) Les activités agricoles du territoire sont principalement dédiées à l&amp;rsquo;exportation (on rajoute donc l&amp;rsquo;empreinte des transports, et on n&amp;rsquo;oeuvre pas à l&amp;rsquo;autonomie alimentaire du territoire) Eviter la maladaptation, ne pas parier principalement sur l&amp;rsquo;efficacité des engins La stratégie pour diminuer les émissions du secteur se fonde en partie les gains d&amp;rsquo;efficacité techniques : &amp;ldquo;aide aux investissements en matériels agro-environnementaux&amp;rdquo; et &amp;ldquo;amélioration de la performance énergétique des engins agricoles&amp;rdquo;1.</description>
-    </item>
-    
-    <item>
-      <title>Transport et mobilite</title>
-      <link>https://plan-climat.vigiliantes.fr/thematiques/transport-mobilite/</link>
-      <pubDate>Mon, 15 Aug 2022 13:17:31 +0000</pubDate>
-      
-      <guid>https://plan-climat.vigiliantes.fr/thematiques/transport-mobilite/</guid>
-      <description>A rédiger</description>
-    </item>
-    
-    <item>
       <title>Synthèse</title>
       <link>https://plan-climat.vigiliantes.fr/pages/synthese/</link>
       <pubDate>Mon, 01 Aug 2022 13:17:31 +0000</pubDate>
@@ -108,6 +89,15 @@ Les secteurs industriel et tertiaire sont dotés pour beaucoup d’un patrimoine
       <description>Orientation(s) stratégiques Communes en transition/Exemplarité de l’EPCI Production d’EnR et maîtrise des consommations Secteur obligatoire : Tertiaire
 Secteur optionnel : Aménagement / urbanisme
 Présentation de l&amp;rsquo;action L’ambition portée par Dinan Agglomération est d’assurer un développement des entreprises au sein d’un environnement préservé et synonyme de ressources. Pour relever ce défi alliant développement économique et préservation des ressources naturelles, les élus communautaires ont décidé d’aménager la zone d’activités de Bel Air selon des préceptes et la philosophie de l’Ecoparc.</description>
+    </item>
+    
+    <item>
+      <title>Communes en transition/Exemplarité de l’EPCI</title>
+      <link>https://plan-climat.vigiliantes.fr/secteurs/epci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plan-climat.vigiliantes.fr/secteurs/epci/</guid>
+      <description>A venir</description>
     </item>
     
     <item>
@@ -419,6 +409,43 @@ Présentation de l&amp;rsquo;action En tant qu’EPCI de plus de 50 000 habitant
     </item>
     
     <item>
+      <title>Pratiques agricoles « terre et mer » et alimentation</title>
+      <link>https://plan-climat.vigiliantes.fr/secteurs/agriculture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plan-climat.vigiliantes.fr/secteurs/agriculture/</guid>
+      <description>L&amp;rsquo;agriculture est responsable de la plus grosse partie des émissions de l&amp;rsquo;agglomération (52%), et ce pour différent motifs :
+La principale activité agricole sur l&amp;rsquo;agglomération est l&amp;rsquo;élevage (soit l&amp;rsquo;activité agricole la + émettrice de gaz à effets de serre) Les activités agricoles du territoire sont principalement dédiées à l&amp;rsquo;exportation (on rajoute donc l&amp;rsquo;empreinte des transports, et on n&amp;rsquo;oeuvre pas à l&amp;rsquo;autonomie alimentaire du territoire) Eviter la maladaptation, ne pas parier principalement sur l&amp;rsquo;efficacité des engins La stratégie pour diminuer les émissions du secteur se fonde en partie les gains d&amp;rsquo;efficacité techniques : &amp;ldquo;aide aux investissements en matériels agro-environnementaux&amp;rdquo; et &amp;ldquo;amélioration de la performance énergétique des engins agricoles&amp;rdquo;1.</description>
+    </item>
+    
+    <item>
+      <title>Précarité énergétique des ménages (habitat et mobilité)</title>
+      <link>https://plan-climat.vigiliantes.fr/secteurs/precarite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plan-climat.vigiliantes.fr/secteurs/precarite/</guid>
+      <description>A venir</description>
+    </item>
+    
+    <item>
+      <title>Préserver et reconquérir la biodiversité</title>
+      <link>https://plan-climat.vigiliantes.fr/secteurs/biodiversite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plan-climat.vigiliantes.fr/secteurs/biodiversite/</guid>
+      <description>A venir</description>
+    </item>
+    
+    <item>
+      <title>Production d’EnR et maîtrise des consommations</title>
+      <link>https://plan-climat.vigiliantes.fr/secteurs/enr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plan-climat.vigiliantes.fr/secteurs/enr/</guid>
+      <description>A venir</description>
+    </item>
+    
+    <item>
       <title>Promouvoir les projets citoyens d’EnR</title>
       <link>https://plan-climat.vigiliantes.fr/actions/fiche11/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -507,6 +534,15 @@ Présentation de l&amp;rsquo;action « L’empreinte carbone moyenne d’un fran
       <description>Orientation(s) stratégiques Production d’EnR et maîtrise des consommations Secteur obligatoire : Agriculture
 Secteur optionnel : Coopération / partenariat
 Présentation de l&amp;rsquo;action Dinan Agglomération s’étend sur un territoire rural composé de bosquets, de pâturages, de haies bocagères et de friches naturelles en fonds de vallées. Plusieurs projets de chaufferie- bois ont été réalisés et d&amp;rsquo;autres sont en cours de définition et d&amp;rsquo;accompagnement. Malgré l’intérêt porté par Dinan Agglomération à la filière bois-énergie ; des problématiques persistent quant à la connaissance de la ressource bois et sa valorisation.</description>
+    </item>
+    
+    <item>
+      <title>Vulnérabilité et préservation de la ressource en eau</title>
+      <link>https://plan-climat.vigiliantes.fr/secteurs/eau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://plan-climat.vigiliantes.fr/secteurs/eau/</guid>
+      <description>A venir</description>
     </item>
     
   </channel>
