@@ -8,7 +8,7 @@ secteur_optionnel:
   - Tourisme
 tags:
   - calendrier flou
-orientation: 'Exemplarité de l’EPCI'
+orientation: 'Communes en transition/Exemplarité de l’EPCI'
 ---
 
 ## Orientation(s) stratégiques

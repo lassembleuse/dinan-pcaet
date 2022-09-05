@@ -6,7 +6,7 @@ number: 32
 secteur_obligatoire:
 secteur_optionnel:
 tags:
-orientation: 'Exemplarité de l’EPCI'
+orientation: 'Communes en transition/Exemplarité de l’EPCI'
 ---
 
 ## Orientation(s) stratégiques

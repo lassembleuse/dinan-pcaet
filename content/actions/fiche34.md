@@ -8,7 +8,7 @@ secteur_obligatoire:
 secteur_optionnel:
   - Santé
 tags:
-orientation: 'Exemplarité de l’EPCI'
+orientation: 'Communes en transition/Exemplarité de l’EPCI'
 ---
 
 ## Orientation(s) stratégiques

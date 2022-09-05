@@ -1,6 +1,7 @@
 ---
 date: '2020-06-01T13:17:31.000+00:00'
 title: "Contact"
+fulltitle: "Contact"
 menu:
   main:
     weight: 2
