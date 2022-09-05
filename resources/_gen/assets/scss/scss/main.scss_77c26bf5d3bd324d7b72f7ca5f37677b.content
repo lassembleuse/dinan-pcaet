@@ -12044,6 +12044,15 @@ label.panel-block {
 .card.card-action .card-title {
   margin-top: 0; }
 
+details.avis-detail h2 {
+  display: inline; }
+
+details.avis-detail summary {
+  cursor: pointer;
+  margin-bottom: 1.5rem; }
+  details.avis-detail summary:hover {
+    text-decoration: underline; }
+
 .is-desktop-width {
   max-width: 1088px; }
 
