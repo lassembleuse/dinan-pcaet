@@ -4,10 +4,12 @@ montant: 332000
 pourcentage: '0,8%'
 title: Encourager le développement d’un système alimentaire local résilient
 number: 4
+secteur_obligatoire:
+  - Agriculture
+secteur_optionnel:
+  - Développement économique
 tags:
   - calendrier flou
-  - Agriculture
-  - Développement économique
 orientation: 'Pratiques agricoles « terre et mer » et alimentation'
 ---
 

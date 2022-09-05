@@ -3,9 +3,11 @@ budget: non
 montant:
 title: Diminuer l’empreinte carbone des services d’assainissement et d’eau potable
 number: 15
+secteur_obligatoire:
+secteur_optionnel:
+  - Eau
 tags:
   - aucune source de financement
-  - Eau
 orientation: 'Production d’EnR et maîtrise des consommations'
 ---
 

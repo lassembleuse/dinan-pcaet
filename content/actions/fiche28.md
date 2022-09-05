@@ -4,6 +4,8 @@ montant: 46862
 pourcentage: 1%
 title: Créer un observatoire du foncier
 number: 28
+secteur_obligatoire:
+secteur_optionnel:
 tags:
   - action passée
 orientation: 'Exemplarité de l’EPCI'

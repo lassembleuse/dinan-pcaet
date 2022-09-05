@@ -12036,6 +12036,14 @@ label.panel-block {
   text-align: right;
   flex-shrink: 0; }
 
+.card.card-action .subtitle {
+  font-size: 0.9rem;
+  margin-bottom: 0.5em;
+  color: #5b5757; }
+
+.card.card-action .card-title {
+  margin-top: 0; }
+
 .is-desktop-width {
   max-width: 1088px; }
 

@@ -4,10 +4,12 @@ montant: 700000
 pourcentage: 2%
 title: Gérer durablement le maillage bocager
 number: 2
+secteur_obligatoire:
+  - Agriculture
+secteur_optionnel:
+  - Eau
 tags:
   - calendrier flou
-  - Agriculture
-  - Eau  
 orientation: 'Pratiques agricoles « terre et mer » et alimentation'
 ---
 

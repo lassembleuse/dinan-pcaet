@@ -3,9 +3,11 @@ budget: non
 montant:
 title: Sensibiliser, informer et accompagner au changement
 number: 37
+secteur_obligatoire:
+secteur_optionnel:
+  - Sensibilisation
 tags:
   - calendrier flou
-  - Sensibilisation
 orientation: 'Exemplarité de l’EPCI'
 ---
 

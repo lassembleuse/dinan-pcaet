@@ -3,9 +3,11 @@ budget: non
 montant:
 title: Planifier un renouvellement moins émissif et décarboné de la flotte de véhicules communautaire
 number: 26
+secteur_obligatoire:
+  - Transport routier
+secteur_optionnel:
 tags:
   - calendrier flou
-  - Transport routier
 orientation: 'Exemplarité de l’EPCI'
 ---
 

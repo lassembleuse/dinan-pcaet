@@ -4,10 +4,12 @@ montant: 9000000
 pourcentage: 21%
 title: Aménagement durable des zones d’activités
 number: 27
+secteur_obligatoire:
+  - Tertiaire
+secteur_optionnel:
+  - Urbanisme
 tags:
   - action passée
-  - Tertiaire
-  - Urbanisme
 orientation: 'Exemplarité de l’EPCI'
 ---
 

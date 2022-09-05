@@ -3,7 +3,10 @@
   <div class="card card-action">
     <div class="card-content">
       <header class="flex">
-        <h2 class="is-size-6 card-title">{{ .Params.number }}. {{ .Title }}</h2>
+        <div class="title-block">
+          <p class="subtitle"> {{ .Params.orientation }} </p>
+          <h2 class="is-size-6 card-title">{{ .Params.number }}. {{ .Title }}</h2>
+        </div>
         {{ $montant := int .Params.montant }}
         <div class="montant">
           {{ if eq $montant 0 }}
@@ -14,6 +17,12 @@
           {{ end }}
         </div>
       </header>
+      {{ range $index, $element := .Params.secteur_obligatoire }}
+        <span class="tag is-success">{{ . }}</span>
+      {{ end }}
+      {{ range $index, $element := .Params.secteur_optionnel }}
+        <span class="tag is-primary">{{ . }}</span>
+      {{ end }}
       {{ range $index, $element := .Params.tags }}
         <span class="tag">{{ . }}</span>
       {{ end }}

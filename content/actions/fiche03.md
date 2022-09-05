@@ -4,10 +4,12 @@ montant: 2167000
 pourcentage: 5%
 title: Expérimentation et déploiement du Paiement pour Services Environnementaux (PSE)
 number: 3
+secteur_obligatoire:
+  - Agriculture
+secteur_optionnel:
+  - Eau
 tags:
   - calendrier flou
-  - Agriculture
-  - Eau
 orientation: 'Pratiques agricoles « terre et mer » et alimentation'
 ---
 

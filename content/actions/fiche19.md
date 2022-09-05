@@ -3,8 +3,10 @@ budget: non
 montant:
 title: Créer un réseau sentinelle phénologique et former aux risques polliniques
 number: 19
-tags:
+secteur_obligatoire:
+secteur_optionnel:
   - Santé
+tags:
 orientation: 'Préserver et reconquérir la biodiversité'
 ---
 

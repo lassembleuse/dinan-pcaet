@@ -3,9 +3,11 @@ budget: non
 montant:
 title: Elaborer et mettre en œuvre un Programme Local de Prévention des Déchets Ménagers et Assimilés
 number: 31
+secteur_obligatoire:
+secteur_optionnel:
+  - Sensibilisation
 tags:
   - calendrier flou
-  - Sensibilisation
 orientation: 'Exemplarité de l’EPCI'
 ---
 

@@ -4,8 +4,10 @@ montant: 680000
 pourcentage: 2%
 title: Lutte contre les espèces invasives
 number: 18
-tags:
+secteur_obligatoire:
+secteur_optionnel:
   - Biodiversité
+tags:
 orientation: 'Préserver et reconquérir la biodiversité'
 ---
 

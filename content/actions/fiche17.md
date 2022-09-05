@@ -4,9 +4,11 @@ montant: 440000
 pourcentage: 1%
 title: Elaborer et mettre en œuvre l’Atlas de la Biodiversité Intercommunale
 number: 17
+secteur_obligatoire:
+secteur_optionnel:
+  - Biodiversité
 tags:
   - calendrier flou
-  - Biodiversité
 orientation: 'Préserver et reconquérir la biodiversité'
 ---
 

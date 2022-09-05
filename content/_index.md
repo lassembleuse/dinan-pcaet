@@ -25,6 +25,10 @@ L'inadéquation entre les réponses apportées et les défis à relever est chaq
 
 [Voir la synthèse de nos observations et recommandations](pages/synthese/)
 
+Pour donner votre avis, vous pouvez envoyer un mail : 
+- A Dinan Agglomération : pcaet@dinan-agglomeration.fr
+- Aux vigiliantes (en les mettant en copie par exemple) : contact@vigiliantes.fr .Si vous le souhaitez, nous pouvons poster votre message sur notre page "Avis"
+
 
 [^01]: le GIEC ou Groupe d’experts Intergouvernemental sur l’Evolution du Climat est un organisme chargé par les nations qui en sont membres d'effectuer une synthèse des travaux de recherche menés dans les laboratoires du monde entier au sujet des changements climatiques.
 [^02]: [Fil sur twitter](https://twitter.com/cassouman40/status/1562798018163748867).

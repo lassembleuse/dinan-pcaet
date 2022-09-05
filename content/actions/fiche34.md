@@ -4,8 +4,10 @@ montant: 40000
 pourcentage: ~0%
 title: Informer et former sur la qualité de l’air intérieur et extérieur
 number: 34
-tags:
+secteur_obligatoire:
+secteur_optionnel:
   - Santé
+tags:
 orientation: 'Exemplarité de l’EPCI'
 ---
 

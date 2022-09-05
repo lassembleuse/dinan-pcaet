@@ -4,9 +4,11 @@ montant: 12000
 pourcentage: ~0%
 title: Jouer la carte de la qualité pour les constructions nouvelles
 number: 23
+secteur_obligatoire:
+  - Résidentiel
+secteur_optionnel:
 tags:
   - calendrier flou
-  - Résidentiel
 orientation: 'Précarité énergétique des ménages (habitat et mobilité)'
 ---
 
