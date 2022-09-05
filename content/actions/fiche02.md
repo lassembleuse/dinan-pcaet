@@ -6,6 +6,7 @@ title: Gérer durablement le maillage bocager
 number: 2
 tags:
   - calendrier flou
+orientation: 'Pratiques agricoles « terre et mer » et alimentation'
 ---
 
 ## Orientation(s) stratégiques

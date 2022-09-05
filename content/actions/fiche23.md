@@ -6,6 +6,7 @@ title: Jouer la carte de la qualité pour les constructions nouvelles
 number: 23
 tags:
   - calendrier flou
+orientation: 'Précarité énergétique des ménages (habitat et mobilité)'
 ---
 
 ## Orientation(s) stratégiques

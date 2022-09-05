@@ -6,6 +6,7 @@ title: Requalifier le bâti existant
 number: 22
 tags:
   - calendrier flou
+orientation: 'Précarité énergétique des ménages (habitat et mobilité)'
 ---
 
 ## Orientation(s) stratégiques

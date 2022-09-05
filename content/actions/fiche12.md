@@ -6,6 +6,7 @@ title: Structurer une filière locale bois-énergie
 number: 12
 tags:
   - calendrier révolu
+orientation: 'Production d’EnR et maîtrise des consommations'
 ---
 
 ## Orientation(s) stratégiques

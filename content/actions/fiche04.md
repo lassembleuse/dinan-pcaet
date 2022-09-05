@@ -6,6 +6,7 @@ title: Encourager le développement d’un système alimentaire local résilient
 number: 4
 tags:
   - calendrier flou
+orientation: 'Pratiques agricoles « terre et mer » et alimentation'
 ---
 
 ## Orientation(s) stratégiques

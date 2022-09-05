@@ -5,6 +5,7 @@ title: Expérimenter la gestion intégrée des eaux pluviales
 number: 6
 tags:
   - calendrier flou
+orientation: 'Vulnérabilité et préservation de la ressource en eau'
 ---
 
 ## Orientation(s) stratégiques

@@ -4,6 +4,7 @@ montant: 680000
 pourcentage: 2%
 title: Lutte contre les espèces invasives
 number: 18
+orientation: 'Préserver et reconquérir la biodiversité'
 ---
 
 ## Orientation(s) stratégiques

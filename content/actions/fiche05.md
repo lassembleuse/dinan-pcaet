@@ -7,6 +7,7 @@ number: 5
 tags:
   - calendrier révolu
   - aucune source de financement
+orientation: 'Vulnérabilité et préservation de la ressource en eau'
 ---
 
 ## Orientation(s) stratégiques

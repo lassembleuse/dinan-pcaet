@@ -3,6 +3,7 @@ budget: non
 montant:
 title: Créer un réseau sentinelle phénologique et former aux risques polliniques
 number: 19
+orientation: 'Préserver et reconquérir la biodiversité'
 ---
 
 ## Orientation(s) stratégiques

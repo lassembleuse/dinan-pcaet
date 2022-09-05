@@ -4,6 +4,7 @@ montant: 180000
 pourcentage: 0,4%
 title: Développer des centrales photovoltaïques sur le patrimoine public existant
 number: 10
+orientation: 'Production d’EnR et maîtrise des consommations'
 ---
 
 ## Orientation(s) stratégiques

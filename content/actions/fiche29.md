@@ -5,6 +5,7 @@ title: Elaborer et mettre en œuvre une stratégie de développement du tourisme
 number: 29
 tags:
   - calendrier flou
+orientation: 'Exemplarité de l’EPCI'
 ---
 
 ## Orientation(s) stratégiques

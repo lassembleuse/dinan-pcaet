@@ -6,6 +6,7 @@ title: réer un observatoire du foncier
 number: 28
 tags:
   - calendrier révolu
+orientation: 'Exemplarité de l’EPCI'
 ---
 
 ## Orientation(s) stratégiques

@@ -5,6 +5,7 @@ title: Informer et sensibiliser des agents
 number: 36
 tags:
   - calendrier flou
+orientation: 'Exemplarité de l’EPCI'
 ---
 
 ## Orientation(s) stratégiques

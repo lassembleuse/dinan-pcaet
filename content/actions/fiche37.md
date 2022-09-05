@@ -5,6 +5,7 @@ title: Sensibiliser, informer et accompagner au changement
 number: 37
 tags:
   - calendrier flou
+orientation: 'Exemplarité de l’EPCI'
 ---
 
 ## Orientation(s) stratégiques

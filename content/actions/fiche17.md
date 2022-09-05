@@ -6,6 +6,7 @@ title: Elaborer et mettre en œuvre l’Atlas de la Biodiversité Intercommunale
 number: 17
 tags:
   - calendrier flou
+orientation: 'Préserver et reconquérir la biodiversité'
 ---
 
 ## Orientation(s) stratégiques

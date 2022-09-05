@@ -6,6 +6,7 @@ number: 20
 tags:
   - calendrier flou
   - 0 indicateurs
+orientation: 'Préserver et reconquérir la biodiversité'
 ---
 
 ## Orientation(s) stratégiques

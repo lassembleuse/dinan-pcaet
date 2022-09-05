@@ -6,6 +6,7 @@ title: Créer une maison de l’habitat
 number: 21
 tags:
   - calendrier flou
+orientation: 'Précarité énergétique des ménages (habitat et mobilité)'
 ---
 
 ## Orientation(s) stratégiques

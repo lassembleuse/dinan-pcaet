@@ -5,6 +5,7 @@ title: 'Réduire les déplacements des agents : mise en place du télétravail e
 number: 35
 tags:
   - calendrier révolu
+orientation: 'Exemplarité de l’EPCI'
 ---
 
 ## Orientation(s) stratégiques

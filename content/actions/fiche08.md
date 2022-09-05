@@ -6,6 +6,7 @@ title: Réaliser un schéma directeur des énergies
 number: 8
 tags:
   - calendrier flou
+orientation: 'Production d’EnR et maîtrise des consommations'
 ---
 
 ## Orientation(s) stratégiques

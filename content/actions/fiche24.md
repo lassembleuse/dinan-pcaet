@@ -6,6 +6,7 @@ title: Mettre en œuvre le Plan de Déplacement Communautaire
 number: 24
 tags:
   - calendrier flou
+orientation: 'Précarité énergétique des ménages (habitat et mobilité)'
 ---
 
 ## Orientation(s) stratégiques

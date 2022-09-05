@@ -6,6 +6,7 @@ title: Promouvoir les projets citoyens d’EnR
 number: 11
 tags:
   - calendrier flou
+orientation: 'Production d’EnR et maîtrise des consommations'
 ---
 
 ## Orientation(s) stratégiques

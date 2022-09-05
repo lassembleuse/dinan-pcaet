@@ -3,6 +3,7 @@ budget: non
 montant:
 title: Rénover, construire et entretenir à faible impact carbone et énergétique
 number: 32
+orientation: 'Exemplarité de l’EPCI'
 ---
 
 ## Orientation(s) stratégiques

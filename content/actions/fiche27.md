@@ -6,6 +6,7 @@ title: Aménagement durable des zones d’activités
 number: 27
 tags:
   - calendrier révolu
+orientation: 'Exemplarité de l’EPCI'
 ---
 
 ## Orientation(s) stratégiques

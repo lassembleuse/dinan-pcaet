@@ -6,6 +6,7 @@ title: Déployer le service de Conseil en Energie Partagé (CEP)
 number: 9
 tags:
   - calendrier flou
+orientation: 'Production d’EnR et maîtrise des consommations'
 ---
 
 ## Orientation(s) stratégiques

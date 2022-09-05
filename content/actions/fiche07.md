@@ -6,6 +6,7 @@ title: Expérimenter des nouvelles techniques d’épurations pour le traitement
 number: 7
 tags:
   - calendrier flou
+orientation: 'Vulnérabilité et préservation de la ressource en eau'
 ---
 
 ## Orientation(s) stratégiques

@@ -4,6 +4,7 @@ montant: 1380000
 pourcentage: 3%
 title: Favoriser la transition agroécologique des exploitations agricoles
 number: 1
+orientation: 'Pratiques agricoles « terre et mer » et alimentation'
 ---
 
 ## Orientation(s) stratégiques

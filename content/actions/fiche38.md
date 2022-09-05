@@ -4,6 +4,7 @@ montant: 193980
 pourcentage: 0,4%
 title: Réaliser une étude Hydrologie – Milieux – Usages - Climat pour assurer le partage durable de la ressource en eau de La Rance et du Frémur (analyses HMUC)
 number: 38
+orientation: 'Vulnérabilité et préservation de la ressource en eau'
 ---
 
 ## Orientation(s) stratégiques
