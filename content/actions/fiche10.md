@@ -4,6 +4,9 @@ montant: 180000
 pourcentage: 0,4%
 title: Développer des centrales photovoltaïques sur le patrimoine public existant
 number: 10
+tags:
+  - Tertiaire
+orientation: 'Production d’EnR et maîtrise des consommations'
 ---
 
 ## Orientation(s) stratégiques
@@ -24,6 +27,7 @@ communales : outil d’aide à la décision
 A partir de 2020, des études technique, économique et financière seront réalisées sur des bâtiments choisis parmi le patrimoine communautaire et communal. Il est envisagé de réitérer cette étape au cours de la programmation de la stratégie de transition énergétique et changement climatique.
 2) Accompagnement des projets d’installation de centrales photovoltaïques par les conseillers en énergie partagé (CEP) auprès des communes adhérentes
 Sur la base des études réalisées et de leurs résultats, Dinan Agglomération, dotée d’une ingénierie compétente à l’interne, programmera des travaux d’installation de centrales PV sur les bâtiments communautaires retenus.
+
 Les communes bénéficières des études de préfaisabilité seront accompagnées dans l’élaboration et le suivi de la mise en œuvre des projets d’installation par les conseillers en énergie partagé déjà chargé du suivi de leur consommation énergétique.
 Cette action améliorera dans les prochaines années, les résultats des futurs Bilan d’Emission de Gaz à Effet de Serres de Dinan Agglomération (BEGES - EPCI de plus de 50 000 habitants).
 
@@ -82,4 +86,3 @@ Fondspropres,fondseuropéenLEADER, ADEME, Conseil Régional
 
 ---
 Investissement non chiffré… bon…
-L'installation a déjà commencé ?

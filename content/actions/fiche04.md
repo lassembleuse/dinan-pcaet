@@ -6,6 +6,9 @@ title: Encourager le développement d’un système alimentaire local résilient
 number: 4
 tags:
   - calendrier flou
+  - Agriculture
+  - Développement économique
+orientation: 'Pratiques agricoles « terre et mer » et alimentation'
 ---
 
 ## Orientation(s) stratégiques
@@ -36,7 +39,7 @@ une programmation de 31 actions à travers 4 axes :
 
 ### Axe 2 : Observer le territoire
 10. Collecter les données agricoles et alimentaires des services de Dinan Agglomération et des partenaires institutionnels et techniques concernés,
-11. Mettre ce sdonnées à disposition,
+11. Mettre ces données à disposition,
 12. Analyse des expériences avec les territoires qui
 mettent en place des actions similaires,
 
@@ -122,4 +125,4 @@ Etat, fonds propre, fonds européen FEADER-LEADER, ADEME
 
 ---
 
-Finances très faibles comparés au nombre d'actions
+Finances très faibles comparés au nombre d'actions : 1800€/an/sous-action : 2 à 3 semaines ETP /an/sous-action

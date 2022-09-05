@@ -6,6 +6,8 @@ title: Réaliser un schéma directeur des énergies
 number: 8
 tags:
   - calendrier flou
+  - Énergie
+orientation: 'Production d’EnR et maîtrise des consommations'
 ---
 
 ## Orientation(s) stratégiques
@@ -19,22 +21,22 @@ tags:
 ## Présentation de l'action
 
 La démarche de planification intégrée au PCAET oblige Dinan Agglomération à se projeter et être en mesure de quantifier la production, la maîtrise des consommation énergétiques dans l’ensemble des secteurs d’activités. Ce premier exercice a pu être réalisé sur la base des données fournies par l’Observatoire Régional de Bretagne et les éléments présents dans le Schéma Régional d’Aménagement, de Développement Durable et d’Egalité des Territoires (SRADDET) de la Région Bretagne. Afin d’affiner une connaissance locale, des capacités de productions, des besoins de consommations, des usages et des réseaux, Dinan Agglomération envisage de réaliser durant la programmation de son premier PCAET, un schéma directeur des énergies et de leurs réseaux.
-Ce schéma permettra de développer une vision globale, localisée et territorialisée de la dis- tribution, des consommations et besoins énergétiques actuels et à venir. Cet outil permet- tra d’apporter des éléments d’orientations dans le domaine de la planification urbaine, des politiques de l’habitat, des déchets, de l’eau, des transports et de la mobilité, etc.
+Ce schéma permettra de développer une vision globale, localisée et territorialisée de la distribution, des consommations et besoins énergétiques actuels et à venir. Cet outil permettra d’apporter des éléments d’orientations dans le domaine de la planification urbaine, des politiques de l’habitat, des déchets, de l’eau, des transports et de la mobilité, etc.
+
 Il est porteur de plusieurs objectifs :
-▪ Renforcer la connaissance de la situation énergétique et climatique à l’échelle de la
+- Renforcer la connaissance de la situation énergétique et climatique à l’échelle de la
 communauté d’agglomération
-▪ Construire une vision partagée et une feuille de route opérationnelle commune à
-l’ensemble des acteurs du système énergétique local qu’il soit gestionnaire, produc-
-teur ou consommateur
-▪ Fixer des objectifs communs de développement des EnR, des réseaux, de maîtrise
-des consommations et de localisation des secteurs et zones d’intervention priori- taires
+- Construire une vision partagée et une feuille de route opérationnelle commune à l’ensemble des acteurs du système énergétique local qu’il soit gestionnaire, producteur ou consommateur
+- Fixer des objectifs communs de développement des EnR, des réseaux, de maîtrise des consommations et de localisation des secteurs et zones d’intervention prioritaires
+
 Il s’agit d’organiser les réseaux et les installations de production pour aboutir à un système énergétique plus durable. Pour cela, un schéma directeur des énergies comporte trois
 grandes étapes de réalisation :
 1. Diagnostic des consommations et des productions d’énergie (électricité, gaz, chaleur
 et froid), ainsi que des réseaux de distribution qui permettent leur circulation,
 2. Projection à 10-15 ans et scénarisation des évolutions énergétiques du territoire
 3. Définition d’un plan d’actions réalisable impliquant les politiques communautaires et visant à optimiser toute la chaîne de l’énergie
-Intégré dans le schéma directeur des énergies, il sera réalisé en premier lieu un exercice de programmation de la production des Energies Renouvelables (EnR) et de Récupération (chaleur fatale de l’usine d’incinération de Taden) permettant d’affiner les potentiels de production, de se questionner sur leurs localisations, de mettre en place une concertation autour de la définition de principes communs d’un développement des EnR par filières (éo- lien, photovoltaïque, méthanisation, bois-énergie).
+
+Intégré dans le schéma directeur des énergies, il sera réalisé en premier lieu un exercice de programmation de la production des Energies Renouvelables (EnR) et de Récupération (chaleur fatale de l’usine d’incinération de Taden) permettant d’affiner les potentiels de production, de se questionner sur leurs localisations, de mettre en place une concertation autour de la définition de principes communs d’un développement des EnR par filières (éolien, photovoltaïque, méthanisation, bois-énergie).
 
 ## Objectifs visés par l'action
 
