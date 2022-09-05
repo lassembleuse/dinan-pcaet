@@ -5,7 +5,7 @@ pourcentage: 1%
 title: Créer un observatoire du foncier
 number: 28
 tags:
-  - calendrier révolu
+  - action passée
 orientation: 'Exemplarité de l’EPCI'
 ---
 

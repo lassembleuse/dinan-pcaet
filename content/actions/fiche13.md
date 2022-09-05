@@ -5,7 +5,7 @@ pourcentage: ~0%
 title: Etudier et accompagner la production d’EnR dans le monde agricole
 number: 13
 tags:
-  - calendrier révolu
+  - action passée
   - Agriculture
 orientation: 'Production d’EnR et maîtrise des consommations'
 ---

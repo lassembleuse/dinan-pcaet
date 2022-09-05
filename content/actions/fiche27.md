@@ -5,7 +5,7 @@ pourcentage: 21%
 title: Aménagement durable des zones d’activités
 number: 27
 tags:
-  - calendrier révolu
+  - action passée
   - Tertiaire
   - Urbanisme
 orientation: 'Exemplarité de l’EPCI'

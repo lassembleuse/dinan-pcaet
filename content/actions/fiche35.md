@@ -4,7 +4,7 @@ montant:
 title: 'Réduire les déplacements des agents : mise en place du télétravail et d’un plan de formations en intra'
 number: 35
 tags:
-  - calendrier révolu
+  - action passée
   - Sensibilisation
 orientation: 'Exemplarité de l’EPCI'
 ---

@@ -5,7 +5,7 @@ pourcentage: 0,3%
 title: Structurer une filière locale bois-énergie
 number: 12
 tags:
-  - calendrier révolu
+  - action passée
   - Agriculture
   - Coopération
 orientation: 'Production d’EnR et maîtrise des consommations'

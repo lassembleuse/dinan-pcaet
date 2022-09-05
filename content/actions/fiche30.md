@@ -4,7 +4,7 @@ montant:
 title: Impulser une dynamique d’économie circulaire
 number: 30
 tags:
-  - calendrier révolu
+  - action passée
   - Sensibilisation
 orientation: 'Exemplarité de l’EPCI'
 ---

@@ -4,7 +4,7 @@ montant:
 title: Créer et mettre en œuvre un schéma de promotion des achats publics socialement et écologiquement responsables
 number: 25
 tags:
-  - calendrier révolu
+  - action passée
   - Consommation responsable
 orientation: 'Exemplarité de l’EPCI'
 ---
