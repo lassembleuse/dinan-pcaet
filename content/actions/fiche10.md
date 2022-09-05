@@ -4,8 +4,10 @@ montant: 180000
 pourcentage: 0,4%
 title: Développer des centrales photovoltaïques sur le patrimoine public existant
 number: 10
-tags:
+secteur_obligatoire:
   - Tertiaire
+secteur_optionnel:
+tags:
 orientation: 'Production d’EnR et maîtrise des consommations'
 ---
 

@@ -4,10 +4,12 @@ montant: 981000
 pourcentage: 2%
 title: Mettre en œuvre la compétence de GEstion des Milieux Aquatiques et la Prévention des Inondations (GEMAPI)
 number: 5
+secteur_obligatoire:
+secteur_optionnel:
+  - Eau
 tags:
   - action passée
   - aucune source de financement
-  - Eau
 orientation: 'Vulnérabilité et préservation de la ressource en eau'
 ---
 

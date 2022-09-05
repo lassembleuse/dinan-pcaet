@@ -6,7 +6,9 @@ title: Structurer une filière locale bois-énergie
 number: 12
 tags:
   - action passée
+secteur_obligatoire:
   - Agriculture
+secteur_optionnel:
   - Coopération
 orientation: 'Production d’EnR et maîtrise des consommations'
 ---

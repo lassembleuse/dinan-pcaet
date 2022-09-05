@@ -3,10 +3,12 @@ budget: non
 montant:
 title: Gérer durablement les espaces naturels des zones d’activités
 number: 20
+secteur_obligatoire:
+secteur_optionnel:
+  - Espaces verts
 tags:
   - calendrier flou
   - 0 indicateurs
-  - Espaces verts
 orientation: 'Préserver et reconquérir la biodiversité'
 ---
 

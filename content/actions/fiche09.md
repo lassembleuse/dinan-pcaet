@@ -4,9 +4,11 @@ montant: 1200000
 pourcentage: 3%
 title: Déployer le service de Conseil en Energie Partagé (CEP)
 number: 9
+secteur_obligatoire:
+  - Tertiaire
+secteur_optionnel:
 tags:
   - calendrier flou
-  - Tertiaire
 orientation: 'Production d’EnR et maîtrise des consommations'
 ---
 

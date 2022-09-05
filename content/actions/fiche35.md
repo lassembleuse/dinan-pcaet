@@ -3,9 +3,11 @@ budget: non
 montant:
 title: 'Réduire les déplacements des agents : mise en place du télétravail et d’un plan de formations en intra'
 number: 35
+secteur_obligatoire:
+secteur_optionnel:
+  - Sensibilisation
 tags:
   - action passée
-  - Sensibilisation
 orientation: 'Exemplarité de l’EPCI'
 ---
 

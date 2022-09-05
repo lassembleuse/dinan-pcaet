@@ -3,9 +3,11 @@ budget: non
 montant:
 title: Impulser une dynamique d’économie circulaire
 number: 30
+secteur_obligatoire:
+secteur_optionnel:
+  - Sensibilisation
 tags:
   - action passée
-  - Sensibilisation
 orientation: 'Exemplarité de l’EPCI'
 ---
 

@@ -4,9 +4,11 @@ montant: 75000
 pourcentage: 0,2%
 title: Créer une maison de l’habitat
 number: 21
+secteur_obligatoire:
+  - Résidentiel
+secteur_optionnel:
 tags:
   - calendrier flou
-  - Résidentiel
 orientation: 'Précarité énergétique des ménages (habitat et mobilité)'
 ---
 

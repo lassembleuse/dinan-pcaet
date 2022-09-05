@@ -4,9 +4,11 @@ montant: 200000
 pourcentage: 0,3%
 title: Réaliser un schéma directeur des énergies
 number: 8
+secteur_obligatoire:
+secteur_optionnel:
+  - Énergie
 tags:
   - calendrier flou
-  - Énergie
 orientation: 'Production d’EnR et maîtrise des consommations'
 ---
 

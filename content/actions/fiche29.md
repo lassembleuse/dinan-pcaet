@@ -3,9 +3,11 @@ budget: non
 montant:
 title: Elaborer et mettre en œuvre une stratégie de développement du tourisme durable
 number: 29
+secteur_obligatoire:
+secteur_optionnel:
+  - Tourisme
 tags:
   - calendrier flou
-  - Tourisme
 orientation: 'Exemplarité de l’EPCI'
 ---
 

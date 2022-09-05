@@ -4,9 +4,11 @@ montant: 29600
 pourcentage: ~0%
 title: Etudier et accompagner la production d’EnR dans le monde agricole
 number: 13
+secteur_obligatoire:
+  - Agriculture
+secteur_optionnel:
 tags:
   - action passée
-  - Agriculture
 orientation: 'Production d’EnR et maîtrise des consommations'
 ---
 

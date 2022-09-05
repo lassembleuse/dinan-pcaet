@@ -4,9 +4,11 @@ montant: 15600
 pourcentage: ~0%
 title: Promouvoir les projets citoyens d’EnR
 number: 11
+secteur_obligatoire:
+secteur_optionnel:
+  - Énergie
 tags:
   - calendrier flou
-  - Énergie
 orientation: 'Production d’EnR et maîtrise des consommations'
 ---
 

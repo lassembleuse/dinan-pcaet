@@ -4,9 +4,11 @@ montant: 200000
 pourcentage: 0,5%
 title: Accompagner les entreprises dans leurs démarches de transition énergétique
 number: 16
-tags:
+secteur_obligatoire:
   - Tertiaire
+secteur_optionnel:
   - Développement économique
+tags:
 orientation: 'Production d’EnR et maîtrise des consommations'
 ---
 

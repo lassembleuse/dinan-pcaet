@@ -3,9 +3,11 @@ budget: non
 montant:
 title: Informer et sensibiliser des agents
 number: 36
+secteur_obligatoire:
+secteur_optionnel:
+  - Sensibilisation
 tags:
   - calendrier flou
-  - Sensibilisation
 orientation: 'Exemplarité de l’EPCI'
 ---
 

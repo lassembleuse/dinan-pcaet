@@ -4,9 +4,11 @@ montant: 10029130
 pourcentage: 23%
 title: Expérimenter des nouvelles techniques d’épurations pour le traitement des eaux usées
 number: 7
+secteur_obligatoire:
+secteur_optionnel:
+  - Eau
 tags:
   - calendrier flou
-  - Eau
 orientation: 'Vulnérabilité et préservation de la ressource en eau'
 ---
 

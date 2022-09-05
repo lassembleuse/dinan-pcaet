@@ -4,9 +4,11 @@ montant: 3269000
 pourcentage: 7%
 title: Requalifier le bâti existant
 number: 22
+secteur_obligatoire:
+  - Résidentiel
+secteur_optionnel:
 tags:
   - calendrier flou
-  - Résidentiel
 orientation: 'Précarité énergétique des ménages (habitat et mobilité)'
 ---
 

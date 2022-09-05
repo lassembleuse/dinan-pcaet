@@ -3,6 +3,9 @@ budget: non
 montant:
 title: Expérimenter la gestion intégrée des eaux pluviales
 number: 6
+secteur_obligatoire:
+secteur_optionnel:
+  - Eau
 tags:
   - calendrier flou
 orientation: 'Vulnérabilité et préservation de la ressource en eau'
