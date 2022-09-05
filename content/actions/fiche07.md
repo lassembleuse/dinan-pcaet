@@ -90,6 +90,7 @@ Fonds propres, Agence de l’eau Loire Bretagne
 ## Indicateurs de suivi
 
 - Réalisation des travaux
-- Résultats d’analyse de l’eau Consommations énergétiques annuelles
+- Résultats d’analyse de l’eau
+- Consommations énergétiques annuelles
 
 ---
