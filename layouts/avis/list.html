@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+<section class="section page-section">
+  <div class="container is-tablet-width content">
+    <h1 class="title is-size-1">{{ .Params.fulltitle }}</h1>
+    <p>{{ .Content }}</p>
+
+
+
+    {{ $avis := where .Site.RegularPages "Type" "avis" }}
+
+    <div class="columns is-multiline">
+      {{ range $index, $element := ($avis) }}
+      <div class="column is-full">
+        <details class="avis-detail">
+          <summary><h2 class="title is-size-4"> {{ .Title }} </h2>(déplier)</summary>
+          <div>{{ .Content }}</div>
+        </details>
+      </div>
+      {{ end }}
+    </div>
+
+  </div>
+</section>
+{{ end }}
