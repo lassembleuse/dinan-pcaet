@@ -27,15 +27,15 @@ goldmark:
 
 menu:
   main:
-  - identifier: Thématiques
-    name: Thématiques
+  - identifier: Actions
+    name: Actions
     weight: 3
   - identifier: Qui sommes-nous
     name: Qui sommes-nous
     weight: 100
   footer:
-  - identifier: Thématiques
-    name: Thématiques
+  - identifier: Actions
+    name: Actions
     weight: 3
   - identifier: Qui sommes-nous
     name: Qui sommes-nous

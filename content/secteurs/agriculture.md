@@ -1,15 +1,18 @@
 ---
-date: '2022-08-15T13:17:31.000+00:00'
-title: "Agriculture"
-fulltitle: "Agriculture"
+title: Pratiques agricoles « terre et mer » et alimentation
+montant: 4579000
+pourcentage: 10%
+montant_ges: 405012
+pourcentage_ges: 52%
 menu:
   main:
-    weight: 1
-    parent: "Thématiques"
+    weight: 2
+    parent: "Actions"
   footer:
-    weight: 1
-    parent: "Thématiques"
+    weight: 2
+    parent: "Actions"
 ---
+
 
 L'agriculture est responsable de **la plus grosse partie des émissions de l'agglomération** (52%), et ce pour différent motifs :
 - La principale activité agricole sur l'agglomération est l'élevage (soit l'activité agricole la + émettrice de gaz à effets de serre)

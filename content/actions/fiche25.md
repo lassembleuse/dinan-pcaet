@@ -8,7 +8,7 @@ secteur_optionnel:
   - Consommation responsable
 tags:
   - action passée
-orientation: 'Exemplarité de l’EPCI'
+orientation: 'Communes en transition/Exemplarité de l’EPCI'
 ---
 
 ## Orientation(s) stratégiques

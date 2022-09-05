@@ -1,0 +1,66 @@
+{{ define "main" }}
+
+<section class="section page-section">
+  <div class="container is-tablet-width">
+    <h1 class="title is-size-1 has-text-centered mb-5">{{ .Title }}</h1>
+  </div>
+</section>
+
+<section class="section page-section">
+  <div class="container is-tablet-width">
+    <h2 class="is-size-2">Vue d'ensemble</h2>
+    <div class="content">
+      <div class="columns">
+        <div class="column">
+          <ul>
+            {{ with .Params.montant }}
+            <li>Budget total du thème : {{ . | lang.FormatNumber 0 }} €</li>
+            {{ end }}
+            {{ with .Params.pourcentage }}
+            <li>Part du thème dans le budget total du PCAET : {{ . }}</li>
+            {{ end }}
+          </ul>
+        </div>
+        <div class="column">
+          <ul>
+            {{ with .Params.montant_ges }}
+            <li>Emissions de GES : {{ . | lang.FormatNumber 0 }} Teq CO2</li>
+            {{ end }}
+            {{ with .Params.pourcentage_ges }}
+            <li>Part du thème dans les émissions de GES : {{ . }}</li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+
+  </div>
+  </div>
+</section>
+
+<section class="section page-section">
+  <div class="container is-tablet-width">
+    <h2 class="is-size-2">Les actions</h2>
+    <div class="columns is-multiline">
+      {{ $actions := where .Site.Pages "Params.orientation" .Title }}
+      {{ range $index, $element := ($actions.ByParam "Number") }}
+      <div class="column is-full">
+        {{ .Render "card-sm"}}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<section class="section page-section">
+  <div class="container is-tablet-width">
+    <h2 class="is-size-2">Nos commentaires</h2>
+    <div class="column">
+      <div class="content actualite-content">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</section>
+
+
+{{ end }}
