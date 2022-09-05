@@ -5,6 +5,7 @@ title: Elaborer et mettre en œuvre une stratégie de développement du tourisme
 number: 29
 tags:
   - calendrier flou
+  - Tourisme
 orientation: 'Exemplarité de l’EPCI'
 ---
 
@@ -21,23 +22,25 @@ orientation: 'Exemplarité de l’EPCI'
 
 Dinan Agglomération connaît une activité touristique et saisonnalité croissantes sur la côte et à l’intérieur de ses terres. Bien que non analysé de façon spécifique dans le diagnostic du PCAET, ce secteur d’activité est générateur d’émissions de GES sur le territoire et consommateur d’énergies. Passoires énergétiques, les consommations énergétiques de
 l’hôtellerie, la restauration et les activités de loisirs et sportives ramenées au m2, sont les activités les plus énergivores du secteur tertiaire sur le territoire.
+
 La publication récente d’une étude Ademe (juin 2021) a calculé la part de l’activité touristique dans les émissions nationales à hauteur de 11%, soit 118 millions de tonnes eqCO2. Les trois quarts des émissions sont associés aux transports (aériens, routier, etc.) suivis par l’hébergement et l’achat de biens touristiques.
+
 Depuis 2019, Dinan Agglomération, en cohérence et complément de la stratégie de la destination régionale « Cap Fréhel - Saint-Malo - Baie du Mont Saint-Michel » élabore une stratégie locale dont le fil conducteur est d’assurer les transitions vers un tourisme durable, associé à cinq valeurs intrinsèques, à savoir un tourisme :
-• plus étalé dans l’espace, diffusant flux et retombées
-• plus étalé dans le temps, moins saisonnier
-• privilégiant les mobilités durables et moins dépendant de la voiture
-• proposant des offres touristiques plus qualifiées et plus responsables
-• prenant mieux en compte les besoins de ses employés et habitants
+- plus étalé dans l’espace, diffusant flux et retombées
+- plus étalé dans le temps, moins saisonnier
+- privilégiant les mobilités durables et moins dépendant de la voiture
+- proposant des offres touristiques plus qualifiées et plus responsables
+- prenant mieux en compte les besoins de ses employés et habitants
+
 Les réflexions menées jusqu’à présent structurent la stratégie autour de 6 axes de travail :
-1. Observer, mesurer et évaluer le tourisme et son développement : au sein de cet axe,
-il est prévu de définir et suivre des indicateurs énergétiques, d’émissions de GES,
-environnementaux, etc.
+1. Observer, mesurer et évaluer le tourisme et son développement : au sein de cet axe, il est prévu de définir et suivre des indicateurs énergétiques, d’émissions de GES, environnementaux, etc.
 2. Optimiser l’accueil et la gestion des flux touristiques sur le territoire
 3. Améliorer l’accessibilité au territoire et les mobilités touristiques alternatives à la
-voiture : cet axe prend appui sur des orientations du Plan de Déplacement Communautaire, telles que la mise ne place de pôles d’intermodalités (gares de Dinan et Caulnes), le développement des mobilités actives (pistes cyclables, randonnées pédestres), la promotion des navettes estivales à destination des plages et sites touristiques. Il prévoit aussi la mise en place de liaisons fluviales sur les bords de Rance.
+voiture : cet axe prend appui sur des orientations du Plan de Déplacement Communautaire, telles que la mise en place de pôles d’intermodalités (gares de Dinan et Caulnes), le développement des mobilités actives (pistes cyclables, randonnées pédestres), la promotion des navettes estivales à destination des plages et sites touristiques. Il prévoit aussi la mise en place de liaisons fluviales sur les bords de Rance.
 4. Accompagner les professionnels du tourisme et les porteurs de projets touristiques publics et privés : cet axe contient des actions auprès des hébergeurs et des restaurateurs sur la gestion des déchets et consommations d’eau, la sobriété énergétique, la production et/ou consommation d’EnR
 5. Développer l’attractivité de la destination « Dinan-Cap Fréhel » et promouvoir une destination touristique durable et de proximité : cet axe prévoit la promotion des produits alimentaires locaux et de qualité en lien avec le Plan d’Alimentation Territorial ; la commercialisation de séjours sans voiture.
 6. Organiser la gouvernance du tourisme
+
 En juillet 2021, 40 actions sont déjà identifiées et constituantes du programme d’actions aux portages multi partenariaux.
 
 ## Objectifs visés par l'action

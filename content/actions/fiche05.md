@@ -7,6 +7,7 @@ number: 5
 tags:
   - calendrier révolu
   - aucune source de financement
+  - Eau
 orientation: 'Vulnérabilité et préservation de la ressource en eau'
 ---
 
@@ -22,23 +23,28 @@ orientation: 'Vulnérabilité et préservation de la ressource en eau'
 ## Présentation de l'action
 
 Le territoire de Dinan Agglomération est concerné par de nombreux enjeux sur l’eau qu’il s’agisse de la gestion du trait de côte par sa façade maritime de Saint Jacut de la Mer, en passant par Saint-Cast le Guildo jusqu’à la plage des Sables d’Or, de la gestion de la ressource en eau avec la présence de sites de production d’eau potable ou de la gestion de milieux aquatiques et de l’atteinte du bon état écologique des masses d’eau présentes sur le territoire.
+
 Dinan Agglomération, depuis le 1ier janvier 2018, détient la compétence de GEstion des Milieux Aquatiques et de la Prévention des Inondations (GEMAPI).
+
 Elle se décline en quatre grands objectifs :
 1. L’aménagement des bassins versants,
-2. L’entretien et l’aménagement des cours d’eau, canaux, plans d’eau, 3. La défense contre les inondations et la mer,
+2. L’entretien et l’aménagement des cours d’eau, canaux, plans d’eau,
+3. La défense contre les inondations et la mer,
 4. La protection et restauration des zones humides.
+
 Cette nouvelle compétence va permettre de développer sur le territoire communautaire une politique de gestion intégrée de la ressource en eau, des milieux aquatiques et de la protection des populations les plus soumis aux risques.
+
 Pour la prendre en main, Dinan Agglomération a réalisé une étude de préfiguration d’exercice de la compétence qui a porté sur :
-  • •
-•
-Les dimensions techniques, financières, juridiques et organisationnelles de la compétence,
-La détermination des modalités opérationnelles intégrant la prévention des risques fluviaux et littoraux en raison des aléas climatiques (étude des dangers, surveillance et entretien des ouvrages de type digue, barrage, etc.).
-De cette étude, les ouvrages susceptibles d’être intégré dans le système d’endiguement sous compétence communautaire ont pu être listé. Ceux-ci doivent faire l’objet d’analyse plus approfondi pour déterminer leur niveau de protection. Ce système sera associé au programme d’Action et de Prévention des Inondations (PAPI) développé sur l’Arguenon, en complément du PPRIsm.
-  Pour travailler sur la pollution littorale bactériologique, l’érosion du trait de côte et la submersion marine parties intégrant de la GEPI, un poste de chargé de mission sera créé en 2022.
+- Les dimensions techniques, financières, juridiques et organisationnelles de la compétence,
+- La détermination des modalités opérationnelles intégrant la prévention des risques fluviaux et littoraux en raison des aléas climatiques (étude des dangers, surveillance et entretien des ouvrages de type digue, barrage, etc.).
+- De cette étude, les ouvrages susceptibles d’être intégré dans le système d’endiguement sous compétence communautaire ont pu être listé. Ceux-ci doivent faire l’objet d’analyse plus approfondi pour déterminer leur niveau de protection. Ce système sera associé au programme d’Action et de Prévention des Inondations (PAPI) développé sur l’Arguenon, en complément du PPRIsm.
+
+Pour travailler sur la pollution littorale bactériologique, l’érosion du trait de côte et la submersion marine parties intégrant de la GEPI, un poste de chargé de mission sera créé en 2022.
+
 Enfin, cette prise de compétence GEMAPI vient renforcer des actions actuellement menées sur :
-• La trame bleue : travaux de restauration écologique, de restauration morphologique des cours d’eau, référencement des cours d’eaux portés dans le cadre des volets « milieux aquatiques » des contrats de bassins versants.
-• La trame verte : travaux de restauration, des haies bocagères et talus, réalisation d’inventaire, protection et gestion durable.
-• Élaboration de profils de vulnérabilité des zones conchylicoles, etc.
+- La trame bleue : travaux de restauration écologique, de restauration morphologique des cours d’eau, référencement des cours d’eaux portés dans le cadre des volets « milieux aquatiques » des contrats de bassins versants.
+- La trame verte : travaux de restauration, des haies bocagères et talus, réalisation d’inventaire, protection et gestion durable.
+- Élaboration de profils de vulnérabilité des zones conchylicoles, etc.
 
 ## Objectifs visés par l'action
 
@@ -94,6 +100,4 @@ Enfin, cette prise de compétence GEMAPI vient renforcer des actions actuellemen
 
 ---
 
-Calendrier peu renseigné
-Sources de financement non renseigné
 Pas de secteur obligatoire ?

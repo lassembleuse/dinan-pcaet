@@ -5,6 +5,9 @@ pourcentage: 3%
 title: Favoriser la transition agroécologique des exploitations agricoles
 number: 1
 orientation: 'Pratiques agricoles « terre et mer » et alimentation'
+tags:
+  - Agriculture
+  - Eau
 ---
 
 ## Orientation(s) stratégiques
@@ -18,11 +21,11 @@ orientation: 'Pratiques agricoles « terre et mer » et alimentation'
 
 ## Présentation de l'action
 
-L’agriculture, sur le territoire de Dinan Agglomération est partie constituante de son identité économique, paysagère, environnementale. Elle est aussi le premier secteur d’activité émetteurs de GES dont la majorité sont dites non énergétique car provenant de l’élevage et des pratiques culturales. Secteur d’activité le plus émetteur sur le territoire communautaire, c’est aussi celui où de nombreuses solutions existent et sont à mettre en place afin de contribuer à l’objectif de neutralité carbone à l’horizon 2050. Dinan Agglomération poursuit et renforce les politiques communautaires engagées bien avant sa création en 2017, auprès des agriculteurs, pour amorcer la transition écologique des systèmes agricoles.
-Initiés dans le cadre de sa politique « Ressource en Eau », elle soutient et accompagne les
-agriculteurs dans cette évolution par le biais de plusieurs dispositifs contractuels : Les contrats territoriaux de bassins versants. Ces derniers visent en premier lieu à répondre aux objectifs de la Directive Cadre sur l’eau (DCE 2000/60/CE). Toutefois, les co-bénéfices de ces programmes concernent également la réduction des émissions de GES et le stockage du carbone, et la restauration de la biodiversité.
-Dinan Agglomération coordonne des programmes de bassins versant sur une partie de son
-territoire :
+L’agriculture, sur le territoire de Dinan Agglomération est partie constituante de son identité économique, paysagère, environnementale. Elle est aussi le premier secteur d’activité émetteurs de GES dont la majorité sont dites non énergétique car provenant de l’élevage et des pratiques culturales. Secteur d’activité le plus émetteur sur le territoire communautaire, c’est aussi celui où de nombreuses solutions existent et sont à mettre en place afin de contribuer à l’objectif de neutralité carbone à l’horizon 2050.
+
+Dinan Agglomération poursuit et renforce les politiques communautaires engagées bien avant sa création en 2017, auprès des agriculteurs, pour amorcer la transition écologique des systèmes agricoles.
+Initiés dans le cadre de sa politique « Ressource en Eau », elle soutient et accompagne les agriculteurs dans cette évolution par le biais de plusieurs dispositifs contractuels : Les contrats territoriaux de bassins versants. Ces derniers visent en premier lieu à répondre aux objectifs de la Directive Cadre sur l’eau (DCE 2000/60/CE). Toutefois, les co-bénéfices de ces programmes concernent également la réduction des émissions de GES et le stockage du carbone, et la restauration de la biodiversité.
+Dinan Agglomération coordonne des programmes de bassins versant sur une partie de son territoire :
 - Le contrat territorial de bassins versant Rance-Frémur 2020-2022
 - Le plan de lutte contre les algues vertes de la baie de la Fresnaye 2017-2021
 Le programme de bassin versant de l’Arguenon, porté par le Syndicat Mixte Arguenon Penthièvre (SMAP), couvre l’autre partie de son territoire.
@@ -31,6 +34,7 @@ SDAGE sur des zones sensibles : captages d’eau potable prioritaires ou des mil
 Le contrat Rance-Frémur ou Plan de lutte contre les algues vertes intègre plusieurs volets
 thématiques d’actions pour répondre aux enjeux du territoire : « connaissance », « trames Verte et Bleue », « sensibilisation/éducation » et « agricole ».
 Ce dernier volet « agricole » est constitué d’un panel d’actions à destination des agriculteurs, auprès desquels les CUMA/ETA et organismes de conseils agricoles sont parties prenantes.
+
 En appui des mesures règlementaires existantes (ICPE ou Directives nitrates ...), ce volet d’actions agricoles permet de mobiliser :
 - Des mesures contractuelles avec des accompagnements individuels ou collectifs spécifiques ou de droit commun « bonifiées » (aide aux investissements en matériels
 agro-environnementaux, MAEC, PSE, Breizh Bocage ...),
@@ -38,12 +42,13 @@ agro-environnementaux, MAEC, PSE, Breizh Bocage ...),
 - Des appuis scientifiques au service du territoire,
 Tendant vers la durabilité des systèmes et leur transition écologique, ces actions permettent de répondre aux problématiques de fertilisation (azote/phosphore), de lutte contre l’érosion et de conservation des sols (matière organique), de réduction des transferts de produits phytosanitaires, d’aménagement et de réorganisation parcellaire (regroupement parcellaires, créations de zones tampons écologiques) ou de soutien à la création de filières locales de cultures à bas-intrants.
 
-  Pour illustrer, voici quelques actions phares issues des « volets agricoles » des programmes de bassins versants :
+Pour illustrer, voici quelques actions phares issues des « volets agricoles » des programmes de bassins versants :
 - Animation collective agricole autour de journées techniques, démonstration ou
 d’expérimentation : Suivi Litter-bags permettant d’approcher la dégradabilité de la matière organique des sols, test de compostage des effluents, appui à l’usage des outils d’aide à la décision pour le pilotage des épandages, incitation à la diversification culturale des assolements, gestion des prairies par sur-semis ...
 - Diagnostics agronomiques individuels : Ajustement de la fertilisation, gestion des intercultures, étude de développement de l'agriculture biologique et des systèmes herbagers
 - Aides spécifiques pour la réalisation des travaux d’implantation précoce des couverts végétaux et l’achat de matériel agro-environnemental
 - Appui à la contractualisation de MAEC, PSE (Cf. fiche adhoc)
+
 Ces programmes permettent également le déploiement d’actions d’éducation/sensibilisation, concrétisé par des modules de formations à l’eau, l’environnement et l’agroécologie auprès d’étudiants (lycée agricole de Caulnes ...).
 
 ## Objectifs visés par l'action

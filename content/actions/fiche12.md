@@ -6,6 +6,8 @@ title: Structurer une filière locale bois-énergie
 number: 12
 tags:
   - calendrier révolu
+  - Agriculture
+  - Coopération
 orientation: 'Production d’EnR et maîtrise des consommations'
 ---
 
@@ -24,9 +26,10 @@ Malgré l’intérêt porté par Dinan Agglomération à la filière bois-énerg
 Engager une dynamique de projet afin d’apporter des éléments de réflexion propice à la structuration d’une filière locale du bois-énergie croise plusieurs enjeux dont celui de la transition énergétique, de l’entretien et l’exploitation équilibrée d’une ressource ayant aussi des qualités de stockage du carbone, de la diversification des exploitations agricoles et forestières.
 C‘est dans le cadre d’une coopération transnationale que Dinan Agglomération a décidé d’approfondir ces sujets et de mener des actions collaboratives avec 4 partenaires de
 divers horizons privé et public :
-- Local : ave la Société Coopérative d’Intérêt Collectif ENergie Renouvelable pays de Rance
+- Local : avec la Société Coopérative d’Intérêt Collectif ENergie Renouvelable pays de Rance
 - National : avec le Parc naturel régional des Boucles de la Seine Normande
 - Européen : l’agence de l’énergie Thermopolis et le centre forestier national Mëstakeskus de Finlande
+
 Actions mises en œuvre dans le cadre du projet et bénéficiant aux acteurs locaux du bois-
 énergie :
 1. Diagnostic d’identification, caractérisation des ressources en matières premières et
@@ -50,7 +53,7 @@ Ce projet porte plusieurs objectifs dans les différentes étapes de sa mise en 
 - Définir des outils d'accompagnement des acteurs de la filière bois (scieries,
 bûcherons...) afin d'optimiser la structuration de la filière bois-énergie, de rechercher et d'identifier de nouvelles technologies, nouvelles techniques de gestion de la ressource en bois,
 - Rechercher de nouveaux modèles économiques de la valorisation de la ressource bois en énergie renouvelable,
-Développer des outils pratiques pour mieux structurer la filière bois-énergie, d'acquérir des outils et des méthodes de communication.
+- Développer des outils pratiques pour mieux structurer la filière bois-énergie, d'acquérir des outils et des méthodes de communication.
 
 ## Objectifs visés par l'action
 
