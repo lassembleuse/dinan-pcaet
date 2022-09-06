@@ -12,8 +12,20 @@ menu:
     parent: "Qui sommes-nous"
 ---
 
-Derrière ce site, on retrouve différentes personnes et structures.
+Un collectif de diverses personnes et structures est derrière ce site, chacune contribuant sur ses domaines d'intérêt ou d'expertise.
 
-L'initiative en revient au collectif [Les Vigiliantes](https://www.vigiliantes.fr), qui travaille sur l'autonomie alimentaire à l'échelle de l'agglomération.
+## Les Vigiliantes
 
-Y contribuent diverses entités ou personnes, sur leurs domaines d'intérêt et d'expertise.
+L'association [Les Vigiliantes](https://www.vigiliantes.fr), travaille sur l'autonomie alimentaire à l'échelle de l'agglomération.
+
+Elle est à l'origine de ce site.
+
+## L'Échappée Belle
+
+[L'Échappée Belle](lechappeebelle.team) est une association qui oeuvre à soutenir et promouvoir des activités et des personnes qui travaillent autour de valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement.
+
+## Les individus
+
+Diverses personnes contribuent anonymement aux réflexions et aux analyses de cette mobilisation.
+
+
