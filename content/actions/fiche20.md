@@ -90,5 +90,8 @@ Fonds propres
 
 
 ---
-Pas d'indicateurs
-On aurait pas besoin d'ilots de fraicheur ailleurs que dans les ZAC en priorité ?
+
+## Nos remarques
+
+- Les moyens financiers ne sont pas précisés
+- L'absence d'indicateurs nous interroge sur la façon de réaliser un bilan critique de cette fiche-action

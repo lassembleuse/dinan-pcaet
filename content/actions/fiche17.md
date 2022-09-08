@@ -94,4 +94,6 @@ Parmi les premières actions mises en place, un websig participatif à destinati
 
 ---
 
-Les indicateurs parlent de com autour de l'atlas, mais pas du remplissage de l'atlas…
+## Nos remarques
+
+- Les indicateurs parlent des actions de communication autour de l'atlas, mais pas du remplissage de l'atlas en tant que tel. Que souhaite-t-on obtenir comme bilan, le fait que l'atlas soit connu, rempli, qu'il ai permis des prises de décision…?
