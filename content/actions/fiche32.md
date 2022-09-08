@@ -34,7 +34,7 @@ d’envisager son remplacement
 Dans l’exercice de ses compétences, Dinan Agglomération programme la construction de nouveaux bâtiments et équipements en intégrant une réflexion sur la réduction des émissions de gaz à effet de serres et une maîtrise de la consommation énergétique. Cette réflexion participe au devoir d’exemplarité de Dinan Agglomération dans son rôle de coordinateur de la transition énergétique (LETCV 2015).
 Elle permet aussi d’anticiper ou de se préparer à l’application de la prochaine réglementation environnementale concernant la construction neuve en remplacement de la RT2012. Cette future réglementation dont les textes officiels doivent paraître fin 2020 – début 2021, introduit des critères de réduction des émissions de GES sur l’ensemble du cycle de vie d’un bâtiment. Fait nouveau, ces critères portent aussi sur l’empreinte écologique lors des étapes de construction, de fonctionnement et de démolition : gestion du chantier, de l’eau, de l’énergie, etc. Elle introduit la nécessité de penser « coût global » d’un investissement permettant d’accéder à une autre approche financière allant au-delà du coût net de la construction.
 
-### Compétence « petite enfance »/construction d’une maison de l’enfance à Lanvallay
+### Compétence « petite enfance »/ construction d’une maison de l’enfance à Lanvallay
 Initié en 2019, dans la perspective de la nouvelle réglementation, ce projet s’inscrit dans les objectifs du label E+C- (énergie positive / carbone négatif). La construction de la future maison de l’enfance est pensée selon les principes suivants :
 - Atteindre les niveaux E2C1 du label E+C- : pose de panneaux photovoltaïques, aménagement d’une toiture végétalisée,
 - Conception bioclimatique
@@ -129,3 +129,8 @@ Fonds européen, Etat, Conseil départemental, Ademe, CAF, Fonds propres
 - Montant annuel des CEE valorisés
 
 ---
+
+## Nos remarques
+
+- Les moyens financiers ne sont pas précisés.
+- Nous ne pensons pas que la réalisation d'une piscine soit un projet ayant un intérêt pour faire face à l'urgence écologique, bien que le bâtiment soit prévu pour être éco-conçu.

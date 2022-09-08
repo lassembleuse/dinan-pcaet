@@ -87,4 +87,8 @@ ADEME, Fonds propres
 Evolution annuelle du tonnage des déchets produits sur le territoire Evolution annuelle du tonnage des déchets végétaux
 
 ---
-Où est le PLPDMA ?
+
+## Nos remarques
+- Les moyens financiers ne sont pas précisés
+- Le calendrier ne précise pas quand seront appliquées les actions
+- Le PLPDMA n'est pas joint au dossier
