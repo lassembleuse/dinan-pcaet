@@ -33,11 +33,11 @@ Etapes de réalisation :
 d’un Programme d’Intérêt Général (PIG) sur les thématiques : énergie, adaptation,
 lutte habitat indigne (y compris via auto-réhabilitation accompagnée)
 2. Soutenir la réalisation de baux à réhabilitation
-3. Développer le conventionnement privé, notamment auprès des propriétaires bail-
-leurs impécunieux : abondement des aides ANAH sur le conventionnement avec travaux et promotion du conventionnement sans travaux
+3. Développer le conventionnement privé, notamment auprès des propriétaires bailleurs impécunieux : abondement des aides ANAH sur le conventionnement avec travaux et promotion du conventionnement sans travaux
 4. Poursuivre l'action de Dinan Agglomération dans le comité technique de lutte contre l'habitat indigne : expérimenter un permis de louer sur des centres villes
 
 Autres étapes spécifiques aux centres bourgs et villes centres :
+
 6. Conseil d’experts auprès des propriétaires ou accédants à la propriété et aides financières à la reprise du parc vacant
 7. Accompagner la mise en place de registres des copropriétés
 8. Aide à la restructuration du parc et du bâti existant (recomposition du logement,
@@ -129,3 +129,9 @@ Communes, ANAH, Conseil Régional, Etablissement Public Foncier, Caisse des Dép
 ---
 Nombres d'actions ambitieuses
 Calendrier déjà avancé, ou en sont les réflexions ?
+
+## Nos remarques
+
+- Cette action a démarré en 2019. Il serait intéressant de mettre à jour la fiche en indiquant quelles actions ont déjà démarré afin d'en effectuer un premier bilan, au regard des objectifs quantitatifs fixés pour 2025.
+- Le calendrier mériterait, au vu du nombre d'actions, d'être détaillé action par action.
+- Le PLH est cité mais n'est pas joint au dossier

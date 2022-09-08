@@ -117,9 +117,13 @@ Fonds propres, Versement mobilité, Europe, Etat, ADEME, Conseil Régional, etc
 - Fréquentation plateformes : OuestGo et Ehop
 
 ---
-Calendrier bien avancé, où en est-on ?
-14 sous-action :
+<!-- 14 sous-action :
 - 150 000€/sous-action/an :
   - 114 400 € de fonctionnement / sous-action / an = 3,8 ETP / sous-action
   - 34 900€ d'investissement / sous-action/an
-Pas sure que ces calculs aient une utilité ici
+Pas sure que ces calculs aient une utilité ici -->
+
+- Cette action a démarré en 2018. Il serait intéressant de mettre à jour la fiche en indiquant quelles actions ont déjà démarré afin d'en effectuer un premier bilan.
+- Le PDC est cité mais n'est pas joint au dossier
+- La répartition du budget sur les différentes actions n'est pas précisée.
+- Cette fiche-action comprend de nombreuses sous-actions qui sont peu détaillées, rendant difficile leur appropriation. A quoi sera donné la priorité, la majorité du budget… Nous ne pouvons pas le savoir avec les éléments fournis.
