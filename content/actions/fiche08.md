@@ -26,15 +26,13 @@ La démarche de planification intégrée au PCAET oblige Dinan Agglomération à
 Ce schéma permettra de développer une vision globale, localisée et territorialisée de la distribution, des consommations et besoins énergétiques actuels et à venir. Cet outil permettra d’apporter des éléments d’orientations dans le domaine de la planification urbaine, des politiques de l’habitat, des déchets, de l’eau, des transports et de la mobilité, etc.
 
 Il est porteur de plusieurs objectifs :
-- Renforcer la connaissance de la situation énergétique et climatique à l’échelle de la
-communauté d’agglomération
+- Renforcer la connaissance de la situation énergétique et climatique à l’échelle de la communauté d’agglomération
 - Construire une vision partagée et une feuille de route opérationnelle commune à l’ensemble des acteurs du système énergétique local qu’il soit gestionnaire, producteur ou consommateur
 - Fixer des objectifs communs de développement des EnR, des réseaux, de maîtrise des consommations et de localisation des secteurs et zones d’intervention prioritaires
 
 Il s’agit d’organiser les réseaux et les installations de production pour aboutir à un système énergétique plus durable. Pour cela, un schéma directeur des énergies comporte trois
 grandes étapes de réalisation :
-1. Diagnostic des consommations et des productions d’énergie (électricité, gaz, chaleur
-et froid), ainsi que des réseaux de distribution qui permettent leur circulation,
+1. Diagnostic des consommations et des productions d’énergie (électricité, gaz, chaleur et froid), ainsi que des réseaux de distribution qui permettent leur circulation,
 2. Projection à 10-15 ans et scénarisation des évolutions énergétiques du territoire
 3. Définition d’un plan d’actions réalisable impliquant les politiques communautaires et visant à optimiser toute la chaîne de l’énergie
 
@@ -89,9 +87,16 @@ Fonds propres, appel à projet régional, national ou européen
 ## Indicateurs de suivi
 
 Nombre de réunions
-Nombre de partenaires associés Nombre de participants Nombre d’actions
+Nombre de partenaires associés
+Nombre de participants
+Nombre d’actions
 
 ---
-Indicateurs juste sur le nombre de discussion pas sur les actes ?
-Réalisation du schéma mais pas d'actions…
-Flou/flou vu le pilotage et les sources de financements
+
+## Nos remarques
+
+Il faut bien commencer par quelque chose, mais c'est tout de même frustrant et décevant ces indicateurs qui portent sur... le nombre de réunions. Est-ce au nombre de réunion qu'on jauge la réussite d'un projet ?
+
+Et d'ici l'élaboration du schéma directeur des énergies (qui a l'air d'être un document d'ampleur, qui risque donc de mettre un peu de temps à voir le jour), sur quels principes jauge-t-on les projets de développements d'EnR sur le territoire ?
+
+Ce schéma aura-t-il un caractère contraignant ?

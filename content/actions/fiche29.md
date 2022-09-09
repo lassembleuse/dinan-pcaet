@@ -107,8 +107,9 @@ Seront choisis parmi les indicateurs de suivi de la stratégie (km aménagement 
 - Il est dommage que le programme d'actions ne soit pas fourni
 - Les moyens financiers ne sont pas précisés
 - Le calendrier est déjà bien engagé et ne montre pas les étapes précises
--
 
 > Développer l’attractivité de la destination « Dinan-Cap Fréhel » et promouvoir une destination touristique durable et de proximité
 
-Il ne nous semble pas compatible d'encourager le tourisme avec une politique écologique ambitieuse. Nous avons en tête qu'il est un enjeu économique pour le territoire mais la multiplication des déplacements, même sensés être vertueux, n'est pas compatible avec la préservation urgente de notre environnement 
+Il ne nous semble pas compatible d'encourager le tourisme avec une politique écologique ambitieuse. Nous avons en tête qu'il est un enjeu économique pour le territoire mais la multiplication des déplacements, même sensés être vertueux, n'est pas compatible avec la préservation urgente de notre environnement.
+
+Il est temps d'entamer la discussion difficile mais indispensable sur la nécessaire redirection de certaines activités sur le territoire : que devons-nous ou pouvons-nous conserver ? A quel prix ? Au détriment de quoi ?

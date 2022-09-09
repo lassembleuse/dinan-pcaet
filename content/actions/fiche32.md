@@ -133,4 +133,4 @@ Fonds européen, Etat, Conseil départemental, Ademe, CAF, Fonds propres
 ## Nos remarques
 
 - Les moyens financiers ne sont pas précisés.
-- Nous ne pensons pas que la réalisation d'une piscine soit un projet ayant un intérêt pour faire face à l'urgence écologique, bien que le bâtiment soit prévu pour être éco-conçu.
+<!-- - Nous ne pensons pas que la réalisation d'une piscine soit un projet ayant un intérêt pour faire face à l'urgence écologique, bien que le bâtiment soit prévu pour être éco-conçu. -->

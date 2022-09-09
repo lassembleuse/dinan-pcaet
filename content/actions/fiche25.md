@@ -98,11 +98,6 @@ Bilan annuel des clauses sociales et environnementales :
 − Suivi qualitatif des clauses
 
 ---
-Du savon noir, sérieusement ?
-30% des achats… sérieusement ?
-Le calendrier est bien engagé, quels sont les résultats ? Les indicateurs sont-ils remplis ?
-Le chiffre de 30% est-il atteint ? Comment arriver à 60% ?
-Document non fourni
 
 ## Nos remarques
 
@@ -110,4 +105,4 @@ Document non fourni
 
 - L'impact de l'utilisation de ce type de produit est minimal, et ne nous semble pas suffisamment d'importance pour figurer dans un PCAET.
 - Le calendrier de cette action est terminé. L'objectif de 30% est-il atteint ? Quel est l'objectif suivant ?
-- Il nous manque des justifications du chiffre de 30%… au vu de l'urgence climatique, il devrait y avoir une obligation d'intégrer des clauses environnementale dans 100% des achats de Dinan agglomération, et non pas seulement 1/3.
+- Il nous manque des justifications du chiffre de 30%… au vu de l'urgence climatique, il devrait y avoir une obligation d'**intégrer des clauses environnementale dans 100% des achats** de Dinan agglomération, et non pas seulement 1/3.

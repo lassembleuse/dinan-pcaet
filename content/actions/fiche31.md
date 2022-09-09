@@ -89,6 +89,7 @@ Evolution annuelle du tonnage des déchets produits sur le territoire Evolution 
 ---
 
 ## Nos remarques
+
 - Les moyens financiers ne sont pas précisés
 - Le calendrier ne précise pas quand seront appliquées les actions
-- Le PLPDMA n'est pas joint au dossier
+- Le Programme Local de Prévention des Déchets Ménagers et Assimilés n'est pas joint au dossier

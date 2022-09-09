@@ -27,15 +27,14 @@ Dinan Agglomération a élaboré au cours de l’année 2018, une stratégie de 
 Les secteurs industriel et tertiaire sont dotés pour beaucoup d’un patrimoine bâti énergivore bien qu’ils ne soient pas les secteurs les plus consommateurs à l’échelle globale
 de Dinan Agglomération (ex. café, hôtel, restauration 381kWh/m2 consommés).
 
-Avec la publication du décret tertiaire (juillet 2019), les entreprises propriétaires de
-bâtiments de plus de 1 000m2 font parties des entités ayant une obligation de résultats sur la maîtrise et la diminution de leur consommation énergétique. Applicable dès 2021, ce décret impose à tout propriétaire de bâtiments tertiaires d’une superficie égale ou
-supérieure à 1 000m2 d’établir un suivi annuel de ses consommations énergétiques, d’en saisir les résultats sur une plateforme nationale « OPERAT » de l’ADEME et d’élaborer et réaliser un programme d’actions permettant d’atteindre des objectifs quantifiés de diminution des consommations d’énergie finale.
+Avec la publication du décret tertiaire (juillet 2019), les entreprises propriétaires de bâtiments de plus de 1 000m2 font parties des entités ayant une obligation de résultats sur la maîtrise et la diminution de leur consommation énergétique.
+
+Applicable dès 2021, ce décret impose à tout propriétaire de bâtiments tertiaires d’une superficie égale ou supérieure à 1 000m2 d’établir un suivi annuel de ses consommations énergétiques, d’en saisir les résultats sur une plateforme nationale « OPERAT » de l’ADEME et d’élaborer et réaliser un programme d’actions permettant d’atteindre des objectifs quantifiés de diminution des consommations d’énergie finale.
 
 En effet, il est attendu l’atteinte des objectifs suivants :
 - moins 40% de la consommation en 2030 (par rapport à année de référence),
 - moins 50% en 2040
 - et moins 60% en 2050 (article L.111-10-3 du code de la construction et de l’habitation).
-
 
 Localement, peu d’entreprises sur le territoire sont dotées d’une expertise énergétique en interne.
 Au vu de ce contexte et de l’actualité réglementaire, le service « développement économique et numérique » s’intéresse depuis 2019 à l’opportunité de créer un réseau d’entreprises locales autour des enjeux de la transition énergétique : un cluster « énergies ».
@@ -105,4 +104,4 @@ Fonds propre, ADEME, certificats d’économie d’énergie, etc.
 
 
 ---
-Cibles agriculteurs ? Alors que ça parle des entreprises, et notamment des artisans + industriel en énergie ?
+<!-- Cibles agriculteurs ? Alors que ça parle des entreprises, et notamment des artisans + industriel en énergie ? -->

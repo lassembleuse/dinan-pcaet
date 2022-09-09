@@ -127,4 +127,8 @@ Etat, fonds propre, fonds européen FEADER-LEADER, ADEME
 
 ---
 
-Finances très faibles comparés au nombre d'actions : 1800€/an/sous-action : 2 à 3 semaines ETP /an/sous-action
+## Nos remarques
+
+Financement faible comparé au nombre d'actions et en regard des enjeux sur le secteur agricole - alimentaire :
+- Financement affiché équivalent à 1800 € / an / sous-action
+- soit 2 à 3 semaines de travail (2 à 3 semaines ETP) / an / sous-action
