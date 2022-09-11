@@ -33,8 +33,7 @@ Plusieurs étapes sont programmées selon la méthode proposée par TARANIS (Bre
 2. Mettre en œuvre la stratégie de mobilisation : faire découvrir les enjeux de la transition énergétique (ciné-débats, conférences sur le thème de la transition énergétique, visites de projet EnR local) et accompagner la structuration du « noyau dur »
 3. Accompagner le ou les groupe(s) projet à définir son projet
 4. Guider le ou les groupe(s) dans les choix techniques, économiques et juridiques
-5. Outiller le ou les groupe(s) pour lancer la mobilisation
-financière des citoyens et des partenaires publics
+5. Outiller le ou les groupe(s) pour lancer la mobilisation financière des citoyens et des partenaires publics
 
 ## Objectifs visés par l'action
 
@@ -88,4 +87,8 @@ Fonds propres, fonds européen LEADER
 - Part de l’investissement citoyen dans le projet d’EnR
 
 ---
+## Nos remarques
 
+Pour avoir un investissement citoyen d'ampleur sur les EnR, s'appuyer sur un seul acteur et mettre 15 600 € (soit un équivalent de 2600 € / an) sur la table, n'est-ce pas un peu juste ?
+
+Sur le sujet de la sensibilisation et de la promotion des EnR auprès du grand public : qu'est devenu le groupement de structures "Energie en action" et la manifestation du même nom ?
