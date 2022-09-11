@@ -132,5 +132,10 @@ Fonds européen, Etat, Conseil départemental, Ademe, CAF, Fonds propres
 
 ## Nos remarques
 
-- Les moyens financiers ne sont pas précisés.
-<!-- - Nous ne pensons pas que la réalisation d'une piscine soit un projet ayant un intérêt pour faire face à l'urgence écologique, bien que le bâtiment soit prévu pour être éco-conçu. -->
+Les moyens financiers ne sont pas précisés.
+
+Dans l'absolu, les piscines sont des gouffres énergétiques.
+
+Toutefois, les piscines publiques peuvent avoir un rôle à jouer dans une optique de justice sociale : vaut-il mieux laisser faire le développement des piscines privés tandis que les plus précaires crèvent de chaud dans leurs apparts, ou bien socialiser des équipements qui permettent à tous de se rafraîchir ?
+
+Le rôle de cette piscine sous l'angle de la justice sociale reste toutefois à préciser.

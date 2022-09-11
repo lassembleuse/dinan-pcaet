@@ -105,4 +105,4 @@ Etat, Agence de l’eau Loire Bretagne, Région, Départements, fonds propres
 
 ## Nos remarques
 
-Plan présenté fin 2021, donc c'est fait ? Où peut-on trouver le résultat ?
+Le plan est indiqué comme présenté fin 2021, où peut-on trouver le document final ?

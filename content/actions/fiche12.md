@@ -108,3 +108,5 @@ Fondspropres,FEADER-LEADER
 Peu de garde-fous dans cette fiche action. La ressource "bois-énergie" est à développer, mais en n'y a-t-il pas des effets de seuil à avoir en tête ?
 
 Jusqu'où peut-on développer cette filière sans mettre à mal les ressources en bois du territoire utiles par ailleurs (séquestration de carbone, biodiversité...) ?
+
+A partir de quand la pression sur cette ressource génère-t-elle au contraire des effets pervers (baisse de la qualité de l'air, émissions de carbone...) ?
