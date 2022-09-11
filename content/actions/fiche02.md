@@ -105,3 +105,9 @@ Agence de l’eau Loire Bretagne, Région, Départements,fonds propres, FEADER, 
 - Nb de Plan de Gestion Durable des Haies réalisés
 
 ---
+
+## Nos remarques
+
+Dommage que la valorisation des boisements du territoire ne se décline que sous l’angle énergétique. Il faut également que la haie soit vue sous sa valeur plus globale et écosystémique, et ne pas voir que la partie économique, même si c'est l'entrée pour les agriculteurs.
+
+Comment se fait-il que l'agglomération ne soit pas sociétaire de la SCIC EnR, acteur territorial de premier plan sur la filière bois-énergie ?

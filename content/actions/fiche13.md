@@ -88,3 +88,9 @@ Fonds propre, ADEME
 ## Nos remarques
 
 L'étude est supposée être achevée. Où peut-on en trouver les résultats ?
+
+Dinan Agglomération sera-t-elle vigilante à l'échelle choisie pour le développement de la méthanisation ? Le modèle qui nous semble le plus vertueux est celui d'un maillage de petites à moyennes unités, qui englobent les déchets agricoles mais aussi pourquoi pas d'autres déchets (cantines, bords de route, entreprises, etc..).
+
+Quid de l'aide de Dinan Agglomération aux petites unités pour se lancer et animer ?
+
+Sinon, le risque est de se faire déborder par des grosses unités avec des gros investisseurs.
