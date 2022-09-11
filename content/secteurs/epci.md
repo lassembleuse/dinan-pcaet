@@ -11,5 +11,4 @@ menu:
     parent: "Actions"
 ---
 
-
-A venir
+<!-- 13 actions pour cette seule partie, et peu d'impact prévu -->

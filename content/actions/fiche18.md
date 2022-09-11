@@ -92,5 +92,8 @@ Communes, fonds propres
 - Nombre d’animation de sensibilisation sur les insectes
 
 ---
-Je sais pas si une exposition est vraiment la priorité pour convaincre les personnes…
-100 000/an frelons c'est beaucoup ? par rapport à 5000 chenilles ? faute de frappe ?
+
+
+## Nos remarques
+
+- Nous ne sommes pas convaincues de l'impact d'une exposition itinérante. Y-a-t-il des retours sur d'autres actions de ce type qui ont entraîné un effet tangible sur la protection des insectes pollinisateurs ?

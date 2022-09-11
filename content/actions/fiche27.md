@@ -110,4 +110,7 @@ SEM énergies 22, Etat (DETR), ADEME, vente des lots cessibles
 - Inventaire Biodiversité à N+1, N+5 ; N+10, etc. - Construction et mise en service d’une station GNV
 
 ---
-Mouais une ZAC qui va produire de l'EnR c'est pas ce qui semble prioritaire…
+
+## Nos remarques
+
+- La réalisation d'une ZAC, fut-elle éco-conçue, va contribuer à artificialiser davantage de terres. Nous réalisons la volonté de Dinan Agglomération d'expliquer en quoi celle-ci sera vertueuse mais cet argumentaire ce heurtera toujours à cette limite : ce n'est pas de zones d'activités dont nous avons besoin, mais de préserver les terres non artificialisées.

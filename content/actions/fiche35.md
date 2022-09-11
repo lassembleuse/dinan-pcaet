@@ -99,6 +99,8 @@ Fonds propres
 - Nombre de « Km évités » par les agents effectuant du télétravail
 
 ---
-Télétravail c'est cool ! 2j / semaine c'est pas énorme…
-Plan de formation : Santé des agents qui est chargé du sujet ?
-Quels sont les résultats des indicateurs ?
+
+## Nos remarques
+
+- Au vu du diagnostic, il ne sera pas possible de transformer les trajets domicile-travail en mobilité douce, la distance étant trop importante. Il nous semble donc curieux de ne pas poursuivre la possibilité de télé-travailler en augmentant le nombre de jours autorisés par semaine et en équipant les agents pour qu'ils puissent avoir un poste fonctionnel à domicile en supprimant ainsi la majorité de leurs déplacements domicile-travail pour ceux qui seront volontaires.
+- Le calendrier s'arrête en 2020, quel est la suite pour cette action ?

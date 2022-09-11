@@ -34,6 +34,7 @@ L’application du principe des 3R permet de poser les conditions propices au d�
 
 Le programme TER repose sur 4 grands enjeux eux-mêmes dépendants de la réalisation d’actions sur les trois années de mise en œuvre :
 1. La matière organique : réduire le gaspillage et augmenter sa valorisation
+
 ► programmation d’actions :
 - faire émerger une boucle organique locale,
 - soutenir le plan alimentaire durable du lycée agricole de Caulnes « de l’exploitation agricole au restaurant scolaire »,
@@ -45,6 +46,7 @@ Le programme TER repose sur 4 grands enjeux eux-mêmes dépendants de la réalis
 - créer un plan de valorisation énergétique territorialisé de la biomasse.
 
 2. Réduire les déchets, lutter contre le gaspillage des ressources et augmenter la valorisation des matières
+
 ► programmation d’actions :
 - adopter une stratégie intégrée prévention – gestion des déchets,
 - développer le réemploi et la réparation,
@@ -53,11 +55,13 @@ Le programme TER repose sur 4 grands enjeux eux-mêmes dépendants de la réalis
 - accompagner les organisateurs de manifestations dans l’économie la gestion et la valorisation de leurs ressources.
 
 3. Développer l’exemplarité de l’EPCI en matière d’économie circulaire
+
 ► programmation d’actions :
 - l’achat public comme levier de l’économie circulaire,
 - intégrer les enjeux d’économie circulaire au sein des politiques de Dinan Agglomération
 
 4. Accompagner les acteurs économiques du territoire vers des actions d’économie circulaire
+
 ► programmation d’actions :
 - promouvoir l’exemplarité des hébergeurs touristiques,
 - soutenir et développer l’écologie industrielle,
@@ -95,7 +99,7 @@ A noter que ce programme intègre des actions identifiées et inscrites en tant 
 
 ## Partenaires
 
-- Ademe,chambresconsulaires, associations,entreprises
+- Ademe, chambres consulaires, associations, entreprises
 
 ## Pilotage
 
@@ -107,7 +111,7 @@ A noter que ce programme intègre des actions identifiées et inscrites en tant 
 
 ## Sources de financement
 
-Ademe,Fondspropres
+Ademe, Fonds propres
 
 ## Calendrier
 
@@ -120,4 +124,7 @@ Ademe,Fondspropres
 - Taux de fabrication de combustible solide de récupération
 
 ---
-Ah ben c'est déjà fini ?!
+
+## Nos remarques
+
+- Le calendrier semble déjà clôt, quel est le bilan de ces actions ? la suite ?

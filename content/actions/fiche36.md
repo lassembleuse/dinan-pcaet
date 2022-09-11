@@ -95,6 +95,8 @@ Fonds propres
 - Nombre de participants
 
 ---
-"des agents" et pas "les agents" ?
-calendrier flou/flou
-Quels sont les résultats ?
+
+## Nos remarques
+
+- Les moyens financiers ne sont pas précisés, tout comme les ETP disponibles pour organiser ces formations.
+- L'impact de cette action nous semble minimal, aussi nous ne sommes pas sures de l'intérêt dans un PCAET

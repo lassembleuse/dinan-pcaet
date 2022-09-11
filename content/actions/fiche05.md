@@ -102,4 +102,3 @@ Enfin, cette prise de compétence GEMAPI vient renforcer des actions actuellemen
 
 ---
 
-Pas de secteur obligatoire ?

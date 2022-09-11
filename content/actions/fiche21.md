@@ -99,3 +99,11 @@ ADEME, Conseil Régional, fonds propres
 
 
 ---
+
+## Nos remarques
+
+- Cette action a démarré en 2019. Il serait intéressant de mettre à jour la fiche en indiquant **où en est la réalisation de cette Maison de l'habitat** afin de savoir si les délais parviennent à être tenus.
+- Le PLH est cité mais n'est pas joint au dossier
+- Les moyens financiers ne mentionnent que les ETP et pas davantage les moyens :
+  - pour réaliser la maison de l'habitat
+  - pour réaliser les futurs supports de communication (qui ne dépendent pas de l'existence d'un lieu physique pour commencer à exister, être diffusés, par exemple sur le site de l'agglomération)

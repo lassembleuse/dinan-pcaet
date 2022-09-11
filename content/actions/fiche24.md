@@ -117,9 +117,20 @@ Fonds propres, Versement mobilité, Europe, Etat, ADEME, Conseil Régional, etc
 - Fréquentation plateformes : OuestGo et Ehop
 
 ---
-Calendrier bien avancé, où en est-on ?
-14 sous-action :
+
+## Nos remarques
+
+<!-- 14 sous-action :
 - 150 000€/sous-action/an :
   - 114 400 € de fonctionnement / sous-action / an = 3,8 ETP / sous-action
   - 34 900€ d'investissement / sous-action/an
-Pas sure que ces calculs aient une utilité ici
+Pas sure que ces calculs aient une utilité ici -->
+
+- Cette action a démarré en 2018. Il serait intéressant de mettre à jour la fiche en indiquant quelles actions ont déjà démarré afin d'en effectuer un premier bilan.
+- Le Plan de Déplacement Communautaire est cité mais n'est pas joint au dossier
+- La répartition du budget sur les différentes actions n'est pas précisée.
+- Cette fiche-action comprend de nombreuses sous-actions qui sont peu détaillées, rendant difficile leur appropriation. A quoi sera donné la priorité, la majorité du budget… Nous ne pouvons pas le savoir avec les éléments fournis.
+
+
+Ressources issues de nos recherches pour mieux comprendre l'action :
+- [Lien vers le Plan de Déplacement Communautaire Détaillé](https://www.dinan-agglomeration.fr/Media/Fichiers/3.-URBANISME-HABITAT-MOBILITE/1.-Urbanisme/11.-Plan-de-Deplacement-Communautaire) (le pire, c'est que ce document est plutôt bien fait et fort intéressant)

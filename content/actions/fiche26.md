@@ -87,4 +87,8 @@ Fonds propres, appels à projet régional, national, européen
 - Diminution du nombre de véhicules et coût global évité
 
 ---
-Calendrier flou/flou
+
+## Nos remarques
+
+- Les moyens financiers ne sont pas indiqués
+- Le calendrier ne précise aucune échéance

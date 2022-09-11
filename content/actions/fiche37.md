@@ -28,6 +28,7 @@ Les enjeux du changement climatique et des transitions énergétique et écologi
 Pour autant passer de l’envie de changer ses pratiques à celle d’agir concrètement sur celles-ci ; le passage n’est pas des plus évident, passe par des étapes et un temps parfois long... Des études en en sciences économiques et sociales ont démontré que pour qu’un « nouveau » geste dans le quotidien soit considéré comme intégré, acquis celui-ci aura dû être répété de nombreuses fois. Ce n’est pas un processus linéaire. Le changement de comportement peut être facilité par l’effet d’entrainement et la force d’un groupe qui expérimente ensemble des pratiques sociales vers plus de durabilité.
 
 Dans le cadre de la mise en œuvre de la stratégie de transition énergétique et changement climatique et à travers ses divers champs de compétences (économique, déchet, eau, biodiversité, bassins versants, etc.), Dinan Agglomération facilitera ou portera l’organisation d’actions de sensibilisation, d’information, d’accompagnement au changement pour tout public.
+
 ### Actions de sensibilisation et d’information :
 - proposition d’ateliers (écogestes, fresque du climat, biodiversité, mobilité douce, maisons nature, etc.),
 - de visites de sites de productions ou traitement de l’eau animés par les services de Dinan Agglomération ou gestionnaires délégataires,
@@ -89,4 +90,11 @@ Etat, Agence de l’eau Loire Bretagne,  Région, Départements, fonds propres
 - Nombre d’actions réalisées par des entités locales
 
 ---
-Qu'est-ce qui a été réalisé ? Que donnent les indicateurs ?
+
+## Nos remarques
+
+> - contribution financière,
+
+- En échange de quelles actions cette contribution financière est-elle envisagée ?
+- Les moyens financiers ne sont pas précisés, notamment les ETP alors qu'il s'agit d'une action d'animation
+- Le calendrier ne précise pas le déroulé pour chaque action.

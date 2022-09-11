@@ -105,4 +105,7 @@ Etat, Conseil Régional, Conseil Départemental, fonds propres
 - Quantité de livres et jeux donnés à Recyclivre et autres partenaires
 
 ---
-Ca donne vraiment l'impression qu'on est sur des micro-gestes "utiliser des gourdes" / "ne pas couvrir les livres"…
+
+## Nos remarques
+
+- L'ensemble des actions listées ici représentent des gestes à impact très faible voire négligeable. Nous ne comprenons pas sa place dans un PCAET.

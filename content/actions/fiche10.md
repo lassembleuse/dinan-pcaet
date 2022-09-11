@@ -21,16 +21,22 @@ orientation: 'Production d’EnR et maîtrise des consommations'
 ## Présentation de l'action
 
 Dinan Agglomération, en tant qu’établissement public, est doté d’un patrimoine bâti conséquent (70 bâtiments). La présence d’installations de productions d’énergies renouvelables y est quasi inexistante.
-Dans son ambition de contribuer à la transition énergétique et aussi d’impulser une dynamique locale de production d’énergies renouvelables (EnR), les élus ont décidé d’engager sur le patrimoine bâti existant des études de potentiels d’installation de panneaux photovoltaïques raccordés au réseau ou en autoconsommation. Cette action est
-aussi proposée aux communes adhérentes au service de conseil en énergie partagé (41 communes adhérentes en 2020).
+
+Dans son ambition de contribuer à la transition énergétique et aussi d’impulser une dynamique locale de production d’énergies renouvelables (EnR), les élus ont décidé d’engager sur le patrimoine bâti existant des études de potentiels d’installation de panneaux photovoltaïques raccordés au réseau ou en autoconsommation.
+
+Cette action est aussi proposée aux communes adhérentes au service de conseil en énergie partagé (41 communes adhérentes en 2020).
+
 Cette action comprend deux grandes étapes :
-1) Réalisation d’études de préfaisabilités sur le patrimoine communautaires et
-communales : outil d’aide à la décision
+
+1) Réalisation d’études de préfaisabilités sur le patrimoine communautaires et communales : outil d’aide à la décision
 A partir de 2020, des études technique, économique et financière seront réalisées sur des bâtiments choisis parmi le patrimoine communautaire et communal. Il est envisagé de réitérer cette étape au cours de la programmation de la stratégie de transition énergétique et changement climatique.
-2) Accompagnement des projets d’installation de centrales photovoltaïques par les conseillers en énergie partagé (CEP) auprès des communes adhérentes
+
+2) Accompagnement des projets d’installation de centrales photovoltaïques par les conseillers en énergie partagé (CEP) auprès des communes adhérentes.
+
 Sur la base des études réalisées et de leurs résultats, Dinan Agglomération, dotée d’une ingénierie compétente à l’interne, programmera des travaux d’installation de centrales PV sur les bâtiments communautaires retenus.
 
-Les communes bénéficières des études de préfaisabilité seront accompagnées dans l’élaboration et le suivi de la mise en œuvre des projets d’installation par les conseillers en énergie partagé déjà chargé du suivi de leur consommation énergétique.
+Les communes bénéficiaires des études de préfaisabilité seront accompagnées dans l’élaboration et le suivi de la mise en œuvre des projets d’installation par les conseillers en énergie partagé déjà chargé du suivi de leur consommation énergétique.
+
 Cette action améliorera dans les prochaines années, les résultats des futurs Bilan d’Emission de Gaz à Effet de Serres de Dinan Agglomération (BEGES - EPCI de plus de 50 000 habitants).
 
 ## Objectifs visés par l'action
@@ -74,7 +80,7 @@ Investissement non chiffré
 
 ## Sources de financement
 
-Fondspropres,fondseuropéenLEADER, ADEME, Conseil Régional
+Fonds propres,fonds européen LEADER, ADEME, Conseil Régional
 
 ## Calendrier
 
@@ -87,4 +93,11 @@ Fondspropres,fondseuropéenLEADER, ADEME, Conseil Régional
 - Surface en m2 installés
 
 ---
-Investissement non chiffré… bon…
+
+## Nos remarques
+
+La fiche annonce des études technique, économique et financière pour la création de centrales photovoltaïques à partir de 2020.
+
+Peut-on savoir où ça en est ? On manque de temps. Si les études permettent déjà d'envisager la création de centrales, qu'attend-on pour se mettre à l'action ?
+
+Pas d'investissement chiffré. Une enveloppe, même aux contours flous, aurait été rassurante pour garantir le fléchage de moyens financiers sur de développement d'énergie renouvelable.

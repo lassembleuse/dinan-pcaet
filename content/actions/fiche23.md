@@ -62,7 +62,7 @@ Ce projet porte l’objectif global dans les différentes étapes de sa mise en 
 
 ## Partenaires
 
-- Communes,Maisondel'habitat,CAUE, Bruded, DDTM, DREAL, professionnels del’immobilier
+- Communes, Maison de l'habitat, CAUE, Bruded, DDTM, DREAL, professionnels del’immobilier
 
 ## Pilotage
 
@@ -89,3 +89,10 @@ Appels à projet européen, nationaux ou régionaux
 - Nombre d’opérations ayant bénéficié d’un accompagnement à la rédaction du cahier des charges
 
 ---
+
+## Nos remarques
+
+- Cette action a démarré en 2019. Il serait intéressant de mettre à jour la fiche en indiquant quelles actions ont déjà démarré afin d'en effectuer un premier bilan, au regard des objectifs quantitatifs fixés pour 2025.
+- Le PLH est cité mais n'est pas joint au dossier
+- La répartition du budget sur les 3 actions n'est pas précisée.
+- Il n'est pas indiqué la répartition par ETP pour les actions alors que l'organisation de rencontres et la diffusion de "bonnes pratiques" vont sans doute nécessiter de l'engagement d'agents de Dinan Agglomération

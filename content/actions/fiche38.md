@@ -109,3 +109,7 @@ Fonds propres, Agence de l’eau Loire Bretagne
 - Nombre de temps de concertation
 
 ---
+
+## Nos remarques
+
+Les indicateurs nous semblent davantage bureaucratiques que permettant d'évaluer l'avancée du projet. Un grand nombre de temps de concertation pourrait signifier que le projet piétine ou à l'inverse qu'il intéresse beaucoup de personnes.

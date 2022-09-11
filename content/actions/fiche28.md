@@ -93,4 +93,4 @@ Fonds propres
 
 ---
 
-Document non fourni
+- Le PLUi-H est cité mais n'est pas joint au dossier

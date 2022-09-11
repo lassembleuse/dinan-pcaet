@@ -45,8 +45,7 @@ agro-environnementaux, MAEC, PSE, Breizh Bocage ...),
 Tendant vers la durabilité des systèmes et leur transition écologique, ces actions permettent de répondre aux problématiques de fertilisation (azote/phosphore), de lutte contre l’érosion et de conservation des sols (matière organique), de réduction des transferts de produits phytosanitaires, d’aménagement et de réorganisation parcellaire (regroupement parcellaires, créations de zones tampons écologiques) ou de soutien à la création de filières locales de cultures à bas-intrants.
 
 Pour illustrer, voici quelques actions phares issues des « volets agricoles » des programmes de bassins versants :
-- Animation collective agricole autour de journées techniques, démonstration ou
-d’expérimentation : Suivi Litter-bags permettant d’approcher la dégradabilité de la matière organique des sols, test de compostage des effluents, appui à l’usage des outils d’aide à la décision pour le pilotage des épandages, incitation à la diversification culturale des assolements, gestion des prairies par sur-semis ...
+- Animation collective agricole autour de journées techniques, démonstration ou d’expérimentation : Suivi Litter-bags permettant d’approcher la dégradabilité de la matière organique des sols, test de compostage des effluents, appui à l’usage des outils d’aide à la décision pour le pilotage des épandages, incitation à la diversification culturale des assolements, gestion des prairies par sur-semis ...
 - Diagnostics agronomiques individuels : Ajustement de la fertilisation, gestion des intercultures, étude de développement de l'agriculture biologique et des systèmes herbagers
 - Aides spécifiques pour la réalisation des travaux d’implantation précoce des couverts végétaux et l’achat de matériel agro-environnemental
 - Appui à la contractualisation de MAEC, PSE (Cf. fiche adhoc)

@@ -35,7 +35,7 @@ L’intervention du facilitateur en matière d’intégration de critères envir
 - Fournitures administratives : pour ce marché élaboré en 2020, les critères mis en place ont porté sur des offres qui devaient être uniquement constituées de fournitures composées de matériaux recyclés ou recyclables ou biosourcés et réutilisables (carton et papier privilégiés, encres à l’eau, faible contenance de COV, rechargeables, etc.)
 - Entretien des voiries : pour ce marché élaboré en 2021, les critères mis en place ont porté sur la gestion des déchets, le réemploi ou la réutilisation des gravats et des inertes, des mesures prises afin de limiter la température et l’émission de fumée lors des travaux d’enrobage
 
-Etapes de réalisation du schéma des achats publics socialement et écologiquement responsables :
+Étapes de réalisation du schéma des achats publics socialement et écologiquement responsables :
 1. État des lieux des pratiques internes, typologie des achats et besoins à venir
 2. Conception et mise en œuvre du schéma
 
@@ -98,8 +98,11 @@ Bilan annuel des clauses sociales et environnementales :
 − Suivi qualitatif des clauses
 
 ---
-Du savon noir, sérieusement ?
-30% des achats… sérieusement ?
-Le calendrier est bien engagé, quels sont les résultats ? Les indicateurs sont-ils remplis ?
-Le chiffre de 30% est-il atteint ? Comment arriver à 60% ?
-Document non fourni
+
+## Nos remarques
+
+> Entretiens de bâtiments publics : pour ce marché élaboré en 2020, des critères ont été imposés concernant l’utilisation de produits éco-labellisés. L’usage de produits dits naturels : vinaigre blanc, savon noir, etc. y a été encouragé.
+
+- L'impact de l'utilisation de ce type de produit est minimal, et ne nous semble pas suffisamment d'importance pour figurer dans un PCAET.
+- Le calendrier de cette action est terminé. L'objectif de 30% est-il atteint ? Quel est l'objectif suivant ?
+- Il nous manque des justifications du chiffre de 30%… au vu de l'urgence climatique, il devrait y avoir une obligation d'**intégrer des clauses environnementale dans 100% des achats** de Dinan agglomération, et non pas seulement 1/3.
