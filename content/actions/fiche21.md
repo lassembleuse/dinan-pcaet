@@ -107,3 +107,5 @@ ADEME, Conseil Régional, fonds propres
 - Les moyens financiers ne mentionnent que les ETP et pas davantage les moyens :
   - pour réaliser la maison de l'habitat
   - pour réaliser les futurs supports de communication (qui ne dépendent pas de l'existence d'un lieu physique pour commencer à exister, être diffusés, par exemple sur le site de l'agglomération)
+
+D'autres PCAET se dotent d'objectifs chiffrés, qui manquent ici. Exemple : Rennes, " 6 000 logements par an rénovés en basse consommation d’ici 2025".

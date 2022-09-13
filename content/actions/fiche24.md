@@ -134,3 +134,5 @@ Pas sure que ces calculs aient une utilité ici -->
 
 Ressources issues de nos recherches pour mieux comprendre l'action :
 - [Lien vers le Plan de Déplacement Communautaire Détaillé](https://www.dinan-agglomeration.fr/Media/Fichiers/3.-URBANISME-HABITAT-MOBILITE/1.-Urbanisme/11.-Plan-de-Deplacement-Communautaire) (le pire, c'est que ce document est plutôt bien fait et fort intéressant)
+
+D'autres PCAET se dotent d'objectifs chiffrés, qui manquent ici. Exemple : Rennes, "-10% de trafic routier en faisant évoluer les modes de déplacement".

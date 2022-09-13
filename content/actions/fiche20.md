@@ -93,5 +93,8 @@ Fonds propres
 
 ## Nos remarques
 
+- L'agglomération possède-t-elle du foncier par ailleurs, qui pourrait lui aussi bénéficier de ce type de mesures ?
+- Y'a-t-il des articulations prévues avec les trames vertes et bleues (et noires, et marrons, soyons pas bégueule) pour assurer la continuité ou restaurer des corridors écologiques ?
+
 - Les moyens financiers ne sont pas précisés
 - L'absence d'indicateurs nous interroge sur la façon de réaliser un bilan critique de cette fiche-action
