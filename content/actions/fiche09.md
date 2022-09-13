@@ -87,7 +87,7 @@ Un déploiement du service est envisagé afin :
 
 ## Sources de financement
 
-Cotisationscommunes, SDE22, ADEME, fondspropres
+Cotisations communes, SDE22, ADEME, fondspropres
 
 ## Calendrier
 

@@ -88,13 +88,18 @@ Etat, Agence de l’eau Loire Bretagne,  Région, Départements, fonds propres
 
 - Nombre de personnes participantes
 - Nombre d’actions réalisées par des entités locales
-
+sont
 ---
 
 ## Nos remarques
 
 > - contribution financière,
 
-- En échange de quelles actions cette contribution financière est-elle envisagée ?
+- En échange de quelles actions cette contribution financière est-elle envisagée ? A quoi est-elle conditionnée (tous les foyers n'ont pas les mêmes besoins ou contraintes, le prendre en compte est important pour la justice climatique)
 - Les moyens financiers ne sont pas précisés, notamment les ETP alors qu'il s'agit d'une action d'animation
 - Le calendrier ne précise pas le déroulé pour chaque action.
+
+- Les actions paraissent plutôt descendantes. Il manque peut-être d'une présence + fréquente, au plus près des populations, pour les aider au quotidien à s'adapter, permettre des changements d'habitudes' autant que possible dans la douceur. L'Agglo sait-elle quelles sont les principales contraintes de ses populations ?
+
+- Pourquoi ne pas rendre davantage visibles et soutenir les initiatives locales allant dans le sens des transitions énergétiques ?
+- Peut-être y a-t-il à s'inspirer de la Convention Citoyenne pour le Climat (en tâchant d'éviter ses écueils, sur le faible respect des engagements par exemple) pour diffuser une connaissance des risques liées au changement climatique sur le territoire et susciter des propositions du terrain ?

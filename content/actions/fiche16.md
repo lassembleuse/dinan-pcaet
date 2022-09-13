@@ -104,4 +104,7 @@ Fonds propre, ADEME, certificats d’économie d’énergie, etc.
 
 
 ---
-<!-- Cibles agriculteurs ? Alors que ça parle des entreprises, et notamment des artisans + industriel en énergie ? -->
+
+## Nos remarques
+
+- L'Agglomération pourrait-elle conditionner certaines aides au respect d'un cahier des charges écologiques ou cibler des aides spécifiquement sur des projets écologiques (à la manière d'un Rennes métropole qui met en place un dispositif d’éco-responsabilité des aides) ?

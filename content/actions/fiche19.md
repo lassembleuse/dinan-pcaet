@@ -103,5 +103,16 @@ Fonds propres, ARS
 
 ## Nos remarques
 
+Ca donne l'impression qu'on pense ici en silo : on ne considère les arbres que sous l'angle des risques allergiques, pour le moins restrictif si l'on veut "Préserver et reconquérir la biodiversité". Il y a pourtant tant à faire autour de l'arbre ; et une vision + large, + systémique et multi-facteurs est capitale. Les besoins en formation sont également importants.
+
+
+
+Plusieurs dimensions peuvent être croisées pour une bonne gestion du patrimoine arboré :
+- quelles essences pour rafraichir les villes et villages ? Quelles essences privilégier pour la biodiversité ?
+- comment bien implanter les arbres en milieu urbain ou rural (prise en compte des réseaux souterrains, importance de la taille de la fosse, de la densité...)
+- quelle taille ou conduite, quand elles sont nécessaires, pour conserver au maximum les fonctions des arbres ?
+- Faut-il systématiquement planter des espèces locales, non allergisantes et à pousse lente ?Cela ne dépend-il pas du contexte ? (intérêt d'avoir de la pousse rapide pour rafraichir ou soutenir les autres végétaux, intérêt d'expérimenter la plantation de végétaux venant de territoires + au Sud, pour anticiper sur le réchauffement climatique...)
+
+Autres remarques :
 - Pour quelles raisons cette action se base-t-elle sur le volontariat ?
 - Les moyens financiers ne sont pas précisés.
