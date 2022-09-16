@@ -14,7 +14,7 @@
         <div class="column">
           <ul>
             {{ with .Params.montant }}
-            <li>Budget total du thème : {{ . | lang.FormatNumber 0 }} €</li>
+            <li><b>Budget total du thème</b> : {{ . | lang.FormatNumber 0 }} €</li>
             {{ end }}
             {{ with .Params.pourcentage }}
             <li>Part du thème dans le budget total du PCAET : {{ . }}</li>
@@ -24,7 +24,7 @@
         <div class="column">
           <ul>
             {{ with .Params.montant_ges }}
-            <li>Emissions de GES : {{ . | lang.FormatNumber 0 }} Teq CO2</li>
+            <li><b>Emissions de GES</b> : {{ . | lang.FormatNumber 0 }} Teq CO2</li>
             {{ end }}
             {{ with .Params.pourcentage_ges }}
             <li>Part du thème dans les émissions de GES : {{ . }}</li>
@@ -32,8 +32,7 @@
           </ul>
         </div>
       </div>
-
-  </div>
+    </div>
   </div>
 </section>
 
@@ -53,7 +52,6 @@
 
 <section class="section page-section">
   <div class="container is-tablet-width">
-    <h2 class="is-size-2">Nos commentaires</h2>
     <div class="column">
       <div class="content actualite-content">
         {{ .Content }}

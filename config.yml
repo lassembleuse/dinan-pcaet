@@ -27,6 +27,9 @@ goldmark:
 
 menu:
   main:
+  - identifier: Le PCAET
+    name: Le PCAET
+    weight: 2
   - identifier: Actions
     name: Actions
     weight: 3
@@ -34,6 +37,9 @@ menu:
     name: Qui sommes-nous
     weight: 100
   footer:
+  - identifier: Le PCAET
+    name: Le PCAET
+    weight: 2
   - identifier: Actions
     name: Actions
     weight: 3

@@ -11,5 +11,3 @@ menu:
     parent: "Actions"
 ---
 
-
-A venir

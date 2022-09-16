@@ -13,6 +13,7 @@ menu:
     parent: "Actions"
 ---
 
+## Nos commentaires
 
 L'agriculture est responsable de **la plus grosse partie des émissions de l'agglomération** (52%), et ce pour différent motifs :
 - La principale activité agricole sur l'agglomération est l'élevage (soit l'activité agricole la + émettrice de gaz à effets de serre)
