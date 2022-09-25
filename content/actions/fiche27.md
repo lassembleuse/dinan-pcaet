@@ -35,8 +35,7 @@ Le programme d’aménagement de la ZAC de Bel Air située sur les communes de Q
 - Préserver la ressource en eau : systémisation de l’infiltration à la parcelle
 - Favoriser la production d’Energie Renouvelable avec l’installation de panneaux photovoltaïques : une première étude du potentiel a permis d’évaluer une puissance totale de 5 MW à 10 MW (Mégawatts)
 - Faciliter l’écologie industrielle et l’économie circulaire
-- S’approprier l’écosystème : valoriser les espaces naturels au travers de parcours piétons
-pour diversifier les usages sur la ZA
+- S’approprier l’écosystème : valoriser les espaces naturels au travers de parcours piétons pour diversifier les usages sur la ZA
 - Encourager les mobilités alternatives : implantation d’une station Gaz Naturel Véhicules (GNV), aménagement de voies mixtes (cycles et piéton)
 
 Les entreprises qui s’implanteront dans la zone d’activités bénéficieront d’un dispositif d’aides pour réaliser une simulation thermique dynamique de leur bâtiment (modalités en cours de définition pour une prise en charge d’une partie des coûts de l’étude). Elles auront l’obligation d’installer sur toiture ou en ombrière des panneaux photovoltaïques dès le

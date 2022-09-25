@@ -27,21 +27,23 @@ L’agriculture, sur le territoire de Dinan Agglomération est partie constituan
 
 Dinan Agglomération poursuit et renforce les politiques communautaires engagées bien avant sa création en 2017, auprès des agriculteurs, pour amorcer la transition écologique des systèmes agricoles.
 Initiés dans le cadre de sa politique « Ressource en Eau », elle soutient et accompagne les agriculteurs dans cette évolution par le biais de plusieurs dispositifs contractuels : Les contrats territoriaux de bassins versants. Ces derniers visent en premier lieu à répondre aux objectifs de la Directive Cadre sur l’eau (DCE 2000/60/CE). Toutefois, les co-bénéfices de ces programmes concernent également la réduction des émissions de GES et le stockage du carbone, et la restauration de la biodiversité.
+
 Dinan Agglomération coordonne des programmes de bassins versant sur une partie de son territoire :
 - Le contrat territorial de bassins versant Rance-Frémur 2020-2022
 - Le plan de lutte contre les algues vertes de la baie de la Fresnaye 2017-2021
+
 Le programme de bassin versant de l’Arguenon, porté par le Syndicat Mixte Arguenon Penthièvre (SMAP), couvre l’autre partie de son territoire.
-Multi-partenarial (Etat, collectivités, EPCI, Organismes agricoles, usagers et associatifs ...), ces outils contractuels sont une déclinaison opérationnelle des orientations des SAGE et
-SDAGE sur des zones sensibles : captages d’eau potable prioritaires ou des milieux spécifiques tels que les estuaires eutrophisés.
-Le contrat Rance-Frémur ou Plan de lutte contre les algues vertes intègre plusieurs volets
-thématiques d’actions pour répondre aux enjeux du territoire : « connaissance », « trames Verte et Bleue », « sensibilisation/éducation » et « agricole ».
+Multi-partenarial (Etat, collectivités, EPCI, Organismes agricoles, usagers et associatifs ...), ces outils contractuels sont une déclinaison opérationnelle des orientations des SAGE et SDAGE sur des zones sensibles : captages d’eau potable prioritaires ou des milieux spécifiques tels que les estuaires eutrophisés.
+
+Le contrat Rance-Frémur ou Plan de lutte contre les algues vertes intègre plusieurs volets thématiques d’actions pour répondre aux enjeux du territoire : « connaissance », « trames Verte et Bleue », « sensibilisation / éducation » et « agricole ».
+
 Ce dernier volet « agricole » est constitué d’un panel d’actions à destination des agriculteurs, auprès desquels les CUMA/ETA et organismes de conseils agricoles sont parties prenantes.
 
 En appui des mesures règlementaires existantes (ICPE ou Directives nitrates ...), ce volet d’actions agricoles permet de mobiliser :
-- Des mesures contractuelles avec des accompagnements individuels ou collectifs spécifiques ou de droit commun « bonifiées » (aide aux investissements en matériels
-agro-environnementaux, MAEC, PSE, Breizh Bocage ...),
+- Des mesures contractuelles avec des accompagnements individuels ou collectifs spécifiques ou de droit commun « bonifiées » (aide aux investissements en matériels agro-environnementaux, MAEC, PSE, Breizh Bocage ...),
 - Des possibilités d’expérimentations et d’innovations techniques, financières ou règlementaires,
 - Des appuis scientifiques au service du territoire,
+
 Tendant vers la durabilité des systèmes et leur transition écologique, ces actions permettent de répondre aux problématiques de fertilisation (azote/phosphore), de lutte contre l’érosion et de conservation des sols (matière organique), de réduction des transferts de produits phytosanitaires, d’aménagement et de réorganisation parcellaire (regroupement parcellaires, créations de zones tampons écologiques) ou de soutien à la création de filières locales de cultures à bas-intrants.
 
 Pour illustrer, voici quelques actions phares issues des « volets agricoles » des programmes de bassins versants :
