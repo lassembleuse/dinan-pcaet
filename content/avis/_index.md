@@ -4,9 +4,11 @@ title: "Avis"
 fulltitle: "Quelques avis sur le PCAET"
 menu:
   main:
-    weight: 5
+    weight: 1
+    parent: "Analyses"
   footer:
-    weight: 5
+    weight: 1
+    parent: "Analyses"
 ---
 
 A notre connaissance, il n'est pas possible de parcourir les avis déposé lors de la consultation publique, afin de faire vivre les échanges collectifs et nourrir son regard sur le PCAET.

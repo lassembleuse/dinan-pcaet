@@ -33,6 +33,9 @@ menu:
   - identifier: Actions
     name: Actions
     weight: 3
+  - identifier: Analyses
+    name: Analyses
+    weight: 4
   - identifier: Qui sommes-nous
     name: Qui sommes-nous
     weight: 100
@@ -43,6 +46,9 @@ menu:
   - identifier: Actions
     name: Actions
     weight: 3
+  - identifier: Analyses
+    name: Analyses
+    weight: 4
   - identifier: Qui sommes-nous
     name: Qui sommes-nous
     weight: 100

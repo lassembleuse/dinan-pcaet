@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+<section class="section page-section">
+  <div class="container is-tablet-width content">
+    <h1 class="title is-size-1">{{ .Params.fulltitle }}</h1>
+    <p>{{ .Params.description }}</p>
+
+    {{ $ateliers := where .Site.RegularPages "Type" "ateliers" }}
+
+    <div class="columns is-multiline">
+      {{ range $index, $element := ($ateliers) }}
+      <div class="column is-full">
+        {{ .Render "card"}}
+      </div>
+      {{ end }}
+    </div>
+
+  </div>
+</section>
+{{ end }}
