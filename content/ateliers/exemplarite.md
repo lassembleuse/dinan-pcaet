@@ -1,6 +1,8 @@
-# Ateliers : Communes en transition / Exemplarité de l'EPCI
+---
+title: 'Ateliers : Communes en transition / Exemplarité de l’EPCI'
+---
 
-## Dimanche
+## Dimanche 25 septembre 2022
 
 ### 3 retours principaux
 - Peu d'actions réelles, beaucoup d'études, de réflexion, de projets d'intention

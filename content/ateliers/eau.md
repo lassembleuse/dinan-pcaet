@@ -1,6 +1,8 @@
-# Ateliers : Vulnérabilité et préservation de la ressource en eau
+---
+title: 'Ateliers : Vulnérabilité et préservation de la ressource en eau'
+---
 
-## Dimanche
+## Dimanche 25 septembre 2022
 
 ### 3 retours principaux
 - Approche défensive (barrages, digues…) mais pas assez d'adaptation en amont du risque (désartificialisation, reconquête zones humides, etc…)
@@ -13,8 +15,7 @@
 - Et les pesticides et les engrais ?
 - Fiches actions ponctuelles ?
   - STEP Corseul uniquement ? quid des 9M€ restant ? ([action 7](https://plan-climat.vigiliantes.fr/actions/fiche07/))
-  - EP Mécrit uniquement ? (expérimentation)
-  <!-- Pas sûre -->
+  - EP Mégrit uniquement ? (expérimentation)
 
 ### Analyse
 - Et les pollutions ?? -> Agriculture (NB: un peu traité dans fiches agriculture)

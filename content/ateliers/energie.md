@@ -1,6 +1,8 @@
-# Ateliers : Production d'ENR et Maîtrise des consommations
+---
+title: 'Ateliers : Production d’ENR et Maîtrise des consommations'
+---
 
-## Vendredi
+## Vendredi 23 septembre 2022
 
 ### 3 retours principaux
 - Il vaut mieux pousser le changement que changer de pansement
@@ -21,7 +23,7 @@
 - Que l'on propose des consultations en amont des décisions prises
 - Quid des partenaires ?
 
-## Dimanche
+## Dimanche 25 septembre 2022
 
 ### 3 retours principaux
 - Les projets liés aux compétences de Dinan Agglo sont lancés et fonctionnent
@@ -37,5 +39,5 @@
 
 
 ### Propositions
-- [Action 11](https://plan-climat.vigiliantes.fr/actions/fiche11/ : Promouvoir les projets citoyens d'ENR : Être ambitieux sur l'accompagnement des projets citoyens t tout type de projets, quel qu'en soit la taille y compris des projets locaux, hameaux…
+- [Action 11](https://plan-climat.vigiliantes.fr/actions/fiche11/ : Promouvoir les projets citoyens d'ENR : Être ambitieux sur l'accompagnement des projets citoyens et tout type de projets, quelle qu'en soit la taille y compris des projets locaux, hameaux…
 - Mettre en place des moyens de communication et diffusion à destination des citoyens avec une vulgarisation : Partages citoyen en ateliers

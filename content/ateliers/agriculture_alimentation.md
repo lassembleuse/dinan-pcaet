@@ -1,11 +1,14 @@
-# Ateliers : Pratiques agricoles "Terre et Mer" et Alimentation
+---
+title: 'Ateliers : Pratiques agricoles "Terre et Mer" et Alimentation'
+---
 
-## Vendredi
+
+## Vendredi 23 septembre 2022
 
 ### 3 retours principaux
 - Accompagnement et sensibilisation, pas de planification
 - Beaucoup d'actions bocage et la qualité de l'eau
-- Inadéquation entr les actions/les enjeux et les indicateurs de suivi ?
+- Inadéquation entre les actions/les enjeux et les indicateurs de suivi ?
 
 ### Rapport d'étonnement
 - Particulièrement émetteur en GES (gaz à effet de serre) : 52% (élevages + grandes cultures)
@@ -29,7 +32,7 @@
 - Agroécologie remplace intensif
 - Commune achète foncier pour installer maraîchage (élevage vertueux et alimenter restauration collective)
 
-## Dimanche
+## Dimanche 25 septembre 2022
 
 ### 3 retours principaux
 - Manque d'ambition par rapport à des dispositifs déjà à l'oeuvre et insuffisants.
@@ -40,8 +43,8 @@
 - Diagnostic :
   - Autosuffisance en légumes ??
   - Émission GES (Gaz effet de serre) -> Agriculture + de la moitié des émissions du territoire
-- Difficulté de lecture et d'appropriation du diagnostic (text très dense, manque de schémas/illustrations expliquant les enjeux)
-- Les fiches-actions tendent à décliner des actions à l'oeuvre au sein de Dinan Agglomération dans exprimer suffisamment d'objectifs politiques (cf analyse action 3 ci-dessous)
+- Difficulté de lecture et d'appropriation du diagnostic (texte très dense, manque de schémas/illustrations expliquant les enjeux)
+- Les fiches-actions tendent à décliner des actions à l'oeuvre au sein de Dinan Agglomération sans exprimer suffisamment d'objectifs politiques (cf analyse action 3 ci-dessous)
 
 
 ### Analyse
@@ -59,8 +62,7 @@
 ! Attention au rôle de l'État (manque de moyens) en instruction ICPE ([installation classée pour la protection de l'environnement](https://fr.wikipedia.org/wiki/Installation_class%C3%A9e_pour_la_protection_de_l%27environnement)) et Police
 
 - [Action 4](https://plan-climat.vigiliantes.fr/actions/fiche04/) Encourager le développement d’un système alimentaire local résilient
-  - Portée ??? (restauration scolaire) -> Comment élargir ?
-  <!-- je sais pas c'est quoi ce mot ! -->
+  - Portée limitée (restauration scolaire) -> Comment élargir ?
   - Contrastes entre ambition forte des axes et indicateurs de suivi très étroits
 
 - En général :
@@ -72,6 +74,6 @@
 - BD ? Vulgarisation : Donner envie…
   - aux acteurs de s'y engager en effet
   - aux citoyens/habitants pour comprendre, exiger, aiguilloner
-- S'inspirer d'autrs PCAET
+- S'inspirer d'autres PCAET
 - Élargir les partenaires, les parties prenantes
 - Davantage de co-construction

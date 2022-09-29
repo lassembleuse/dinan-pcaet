@@ -1,7 +1,8 @@
-# Ateliers : Préserver et reconquérir la biodiversité
+---
+title: 'Ateliers : Préserver et reconquérir la biodiversité'
+---
 
-
-## Vendredi
+## Vendredi 23 septembre 2022
 
 ### 3 retours principaux
 - Fiches "obsolètes" et peu ambitieuses ([action 18](https://plan-climat.vigiliantes.fr/actions/fiche18/))
@@ -32,7 +33,7 @@
 - Fauchage "tardif" obligatoire
 
 
-## Dimanche
+## Dimanche 25 septembre 2022
 
 ### 3 retours principaux
 - C'est intéressant mais il manque des problématiques (trame brune/noire…)
@@ -49,7 +50,7 @@
 
 #### Lutte contre les espèces invasives ([action 18](https://plan-climat.vigiliantes.fr/actions/fiche18/))
 - Il manque beaucoup d'espèces invasives (renouée du Japon…)
-- Volonté intéressante d'éducation aux insectes "ordinaire" : une exposition : ce serait peut-être intéressant d'être plus ambitieux t de toucher un public plus grand.
+- Volonté intéressante d'éducation aux insectes "ordinaire" : une exposition : ce serait peut-être intéressant d'être plus ambitieux et de toucher un public plus grand.
 
 #### Créer un réseau sentinelle phénologique et former aux risques polliniques ([action 19](https://plan-climat.vigiliantes.fr/actions/fiche19/))
 - Bien : Création d'un poste dédié
@@ -64,6 +65,6 @@
 - Éduquer +++ les élus : Commission qui valide les plans de lotissement, façade principale exposée au sud
 - Trame noire (lumière la nuit)
 - Trame brune (sol, érosion, perméabilité)
-- Jardin : Fair son jardin avec coins sauvages. Chaque citoyen devient acteur. Acceptation d'une autre image.
+- Jardin : Faire son jardin avec coins sauvages. Chaque citoyen devient acteur. Acceptation d'une autre image.
 - Nature en ville
 - Zones ombragées -> Refuge / Canicule (et non climatisation). Matériaux écologiques / Construction habitat à la portée de tous.
