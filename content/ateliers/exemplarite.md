@@ -21,3 +21,5 @@ title: 'Ateliers : Communes en transition / Exemplarité de l’EPCI'
 ### Propositions
 - Changer les indicateurs
 - Intégrer les agents
+
+![restitution epci dimanche](/uploads/epci-dimanche.jpeg)

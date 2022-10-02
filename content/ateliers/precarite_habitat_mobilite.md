@@ -26,6 +26,8 @@ title: 'Ateliers : Précarité énergétique des ménages'
 - Formation des professionnels du bâtiment
 - Plan tourisme sans voiture
 
+![restitution precarite vendredi](/uploads/precarite-vendredi.jpeg)
+
 ## Dimanche 25 septembre 2022
 
 ### 3 retours principaux
@@ -43,3 +45,5 @@ title: 'Ateliers : Précarité énergétique des ménages'
 - Une structure locale, au plus proche des habitants, en relais avec la maison de l'habitat (pour conseiller les habitants)
 - Avoir une entrée "social-climat" qui soit "chef de file" pour mettre en cohérence l'ensemble des actions sur l'habitat (au service des habitants) et particulièrement l'habitat précaire
 - "Agence de l'énergie" : Lieu d'échange, d'information, pour obtenir un résultat — Retours d'expérience -> L'initiative locale, dans des débats citoyens (fiche [action 7 de la CC Val de Drôme en Biovallée ](https://www.valdedrome.com/5585-le-plan-climat-air-energie-territorial.htm))
+
+![restitution precarite dimanche](/uploads/precarite-dimanche.jpeg)

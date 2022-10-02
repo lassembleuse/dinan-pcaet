@@ -3,7 +3,7 @@
 <section class="section page-section">
   <div class="container is-tablet-width content">
     <h1 class="title is-size-1">{{ .Params.fulltitle }}</h1>
-    <p>{{ .Params.description }}</p>
+    <p>{{ .Content }}</p>
 
     {{ $ateliers := where .Site.RegularPages "Type" "ateliers" }}
 

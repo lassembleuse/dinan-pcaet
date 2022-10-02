@@ -39,3 +39,5 @@ title: 'Ateliers : Vulnérabilité et préservation de la ressource en eau'
   - nettoyage régulier des cours d'eaux -> Métier "garde-rivière"
 - Recréer zones humides
 - "Désaménagement" du trait de côte (montée des eaux inéluctable) : Accompagner plutôt que résister
+
+![restitution eau dimanche](/uploads/eau-dimanche.jpeg)
