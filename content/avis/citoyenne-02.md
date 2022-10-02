@@ -1,7 +1,7 @@
 ---
 date: '2022-10-02T13:17:31.000+00:00'
 readable_date: 2 octobre 2022
-title: "Citoyenne anonyme 2"
+title: "Citoyen·ne anonyme 2"
 ---
 
 Bonjour,
