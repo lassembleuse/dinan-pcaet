@@ -27,10 +27,11 @@ title: 'Ateliers : Pratiques agricoles "Terre et Mer" et Alimentation'
 - Bonnes pratiques + Contractualiser (PSE) : €
 - % élevage ? % intensif ?
 
-
 ### Propositions
 - Agroécologie remplace intensif
 - Commune achète foncier pour installer maraîchage (élevage vertueux et alimenter restauration collective)
+
+![restitution agriculture vendredi](/uploads/agriculture-vendredi.jpeg)
 
 ## Dimanche 25 septembre 2022
 
@@ -77,3 +78,5 @@ title: 'Ateliers : Pratiques agricoles "Terre et Mer" et Alimentation'
 - S'inspirer d'autres PCAET
 - Élargir les partenaires, les parties prenantes
 - Davantage de co-construction
+
+![restitution agriculture dimanche](/uploads/agriculture-dimanche.jpeg)

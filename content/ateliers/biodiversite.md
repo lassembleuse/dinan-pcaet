@@ -32,6 +32,7 @@ title: 'Ateliers : Préserver et reconquérir la biodiversité'
 - Qu'il y ai un devoir de "déclarer" ou être autorisé à couper un arbre (cf [action 19](https://plan-climat.vigiliantes.fr/actions/fiche19/) et [action 20](https://plan-climat.vigiliantes.fr/actions/fiche20/) : Le chêne retiré pour l'intermarché, les arbres coupés à la gare  )
 - Fauchage "tardif" obligatoire
 
+![restitution biodiversite vendredi](/uploads/biodiversite-vendredi.jpeg)
 
 ## Dimanche 25 septembre 2022
 
@@ -68,3 +69,5 @@ title: 'Ateliers : Préserver et reconquérir la biodiversité'
 - Jardin : Faire son jardin avec coins sauvages. Chaque citoyen devient acteur. Acceptation d'une autre image.
 - Nature en ville
 - Zones ombragées -> Refuge / Canicule (et non climatisation). Matériaux écologiques / Construction habitat à la portée de tous.
+
+![restitution biodiversite dimanche](/uploads/biodiversite-dimanche.jpeg)

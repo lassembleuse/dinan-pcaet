@@ -23,6 +23,8 @@ title: 'Ateliers : Production d’ENR et Maîtrise des consommations'
 - Que l'on propose des consultations en amont des décisions prises
 - Quid des partenaires ?
 
+![restitution enr vendredi](/uploads/enr-vendredi.jpeg)
+
 ## Dimanche 25 septembre 2022
 
 ### 3 retours principaux
@@ -41,3 +43,4 @@ title: 'Ateliers : Production d’ENR et Maîtrise des consommations'
 ### Propositions
 - [Action 11](https://plan-climat.vigiliantes.fr/actions/fiche11/ : Promouvoir les projets citoyens d'ENR : Être ambitieux sur l'accompagnement des projets citoyens et tout type de projets, quelle qu'en soit la taille y compris des projets locaux, hameaux…
 - Mettre en place des moyens de communication et diffusion à destination des citoyens avec une vulgarisation : Partages citoyen en ateliers
+
