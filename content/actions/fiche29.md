@@ -22,8 +22,7 @@ orientation: 'Communes en transition/Exemplarité de l’EPCI'
 
 ## Présentation de l'action
 
-Dinan Agglomération connaît une activité touristique et saisonnalité croissantes sur la côte et à l’intérieur de ses terres. Bien que non analysé de façon spécifique dans le diagnostic du PCAET, ce secteur d’activité est générateur d’émissions de GES sur le territoire et consommateur d’énergies. Passoires énergétiques, les consommations énergétiques de
-l’hôtellerie, la restauration et les activités de loisirs et sportives ramenées au m2, sont les activités les plus énergivores du secteur tertiaire sur le territoire.
+Dinan Agglomération connaît une activité touristique et saisonnalité croissantes sur la côte et à l’intérieur de ses terres. Bien que non analysé de façon spécifique dans le diagnostic du PCAET, ce secteur d’activité est générateur d’émissions de GES sur le territoire et consommateur d’énergies. Passoires énergétiques, les consommations énergétiques de l’hôtellerie, la restauration et les activités de loisirs et sportives ramenées au m2, sont les activités les plus énergivores du secteur tertiaire sur le territoire.
 
 La publication récente d’une étude Ademe (juin 2021) a calculé la part de l’activité touristique dans les émissions nationales à hauteur de 11%, soit 118 millions de tonnes eqCO2. Les trois quarts des émissions sont associés aux transports (aériens, routier, etc.) suivis par l’hébergement et l’achat de biens touristiques.
 
