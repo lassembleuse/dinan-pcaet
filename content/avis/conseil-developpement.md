@@ -1,6 +1,6 @@
 ---
-date: '2022-10-03T13:17:31.000+00:00'
-readable_date: 10 juin 2022
+date: '2022-10-03T09:17:31.000+00:00'
+readable_date: 03 octobre 2022
 title: "Conseil de Développement Dinan Agglomération"
 description:
 
